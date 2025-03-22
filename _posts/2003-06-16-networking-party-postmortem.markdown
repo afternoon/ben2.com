@@ -1,0 +1,12 @@
+---
+layout: post
+title: Networking Party postmortem
+date: '2003-06-16T13:41:33+01:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47973113402/networking-party-postmortem
+---
+<p>Should have blogged this yesterday. Lazy blogger gain no audience. Anyway, the Furtherfield networking party on Saturday was good fun and very interesting.</p>
+<p>The music side was a bit of a failure really. I didn&rsquo;t take any headphones and the gallery didn&rsquo;t have any, so, despite having lugged a crapload of vinyl all the way there (and later all the way back), I didn&rsquo;t do any mixing. Doh! Bad DJ, no twinkie. The MP3&rsquo;s went well, unsurprisingly, but there was actually a lot more content than I had expected and so I didn&rsquo;t play very much music at all.</p>
+<p>The other side of things, the art side, organised by everybody else, went well and was very interesting. There were several talks about projects people were working on, many of which looked interesting. They responded to each other as well, addressing the question of who&rsquo;s an artist a couple of times and building into a discussion about net art as an area at the end of the last talk. I found this discussion particularly interesting. Several of the speakers and organisers talked a bit about how they&rsquo;d started and the processes of their work.</p>
+<p>I felt like a bit of an outsider some of the time. I was the only non-artist that I met. Everybody else&rsquo;s work had some kind of meaning whereas mine is just technological faffing. More than that, the work that I appreciated I appreciated on a fairly shallow visual or auditory level, without any real feeling for the underlying importance. A lot of people talked about the coming together of artists and technologists but it seemed to me that it was much easier for an artist to start using technology than a technologist to start producing art. I wonder where it all starts for an artist. Many of the people there, particularly Tom Corby of <a href="http://reconnoitre.net">Corby and Bailey</a> seemed to have had a very long and deep association with the art world that I could never hope to replicate. This informed their work greatly.</p>
+<p>It was a fairly fascinating event and I met some interesting people and held conversations in which I was completely out of my depth. I learnt quite a lot about the art community and I merrily drank a fair amount of booze. I&rsquo;m very grateful to Marc and Ruth for letting me come along and I look forward to retreading the connections I created and attending more events.</p>

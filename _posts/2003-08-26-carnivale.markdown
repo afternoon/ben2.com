@@ -1,0 +1,14 @@
+---
+layout: post
+title: Carnivale!
+date: '2003-08-26T05:49:01+01:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47973029136/carnivale
+---
+<p>Notting Hill Carnival is cool.</p>
+<p>Charlie and I got there quite early this morning. It was before the procession started and long before the crowds really intensified. We wandered around the &ldquo;eye of the storm&rdquo; area in the middle of the U-shaped procession route, checking out the soundsystems and chicken roasting operations. Eventually we found ourselves up behind the Westway at the point where the procession was setting off from. We saw the king and queen kicking things off followed by the highly energetic initial dancing.</p>
+<p>We kind of lost the plot a bit after that. We couldn&rsquo;t be content with letting the procession go by, so we ended up walking along the route with the first people for much of the way. That was weird. As a result we got very knackered, walking and walking, and also failed to see a large percentage of the floats and groups of dancers. Oh well. We saw a lot of people having a good time and meandered around looking at stuff for ages.</p>
+<p>As the day went on it got pretty damn busy, to the point where it was taking half an hour to move a few hundred yards. We lost a good hour when we sat down and then walked from Portobello Road to Ladbroke Grove only to discover that I had left Louise&rsquo;s mini-umbrella where we were sitting and then going back. It wasn&rsquo;t there unfortunately. Not long after that we decided we were wasted enough and came home on the number 295 to Fulham Broadway via Hammersmith.</p>
+<p>The procession was really cool. All the people had made so much effort and put so much thought into their performance. There were some huge costumes, 20+ feet high and the same wide. There was a lot of glitz being shaken. One thing that I noticed at the beginning was that the women in the procession all looked like they were having the best time ever. Dancing in the street in exotic shiny costumes while thousands of people line the street just to (seemingly) see you, you can see why! That made me happy as well. Lots of things made me happy really. All day long. Another good one was the kids that were involved, some of them carrying pretty big outfits. They must have been worn out by the end, but they danced along the route with the best of them.</p>
+<p>I&rsquo;m definitely going to go again and next time I&rsquo;m going to go and find myself a great vantage point on Westbourne Grove and let it all come to me. Although, watching the procession did kind of make me want to join in and I would definitely be up for playing on a soundsystem somewhere around the place. One thing is for sure, I&rsquo;m going to walk less. I&rsquo;m absolutely knackered.</p>
+<p>Photos in iPhoto, hopefully will make gallery at some point. Shaky shaky! Ra!</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Arguing day, 2003, draws to a close
+date: '2003-06-24T02:56:35+01:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47973110597/arguing-day-2003-draws-to-a-close
+---
+<p>Things got slightly silly today. We had a joke who&rsquo;s the most middle class person competition on Hype, which was good fun until suddenly it turned very passionate and serious. I especially argued various dubious points. Why are people so ready to debate the class issue? As a group the people on Hypothetical are all pretty similar. All firmly middle-class, all supporting themselves, none too rich, none too poor. Yet, even we had much to protect. Why?</p>
+<p>Then this evening Newsnight started a discussion between Tom, Louise and I about reading amongst kids that got really overblown. I argued that reading is not a cure-all solution for intelligence. Louise and Tom were slightly disbelieving. I stand by my point. Whilst books are an important part of learning, they are not an education panacea. Many children, including myself between about 12 and 18, read very few books indeed and &ldquo;come out fine&rdquo;. They get their knowledge from other sources. Newsnight confirmed this. The sample of boys they&rsquo;d found to illustrate low reading rates were all doing fine at school. Too often reading is considered a bellwhether of learnedness and often I&rsquo;ve felt stupid because I haven&rsquo;t read as many books as my peers.</p>
+<p>In the discussion, confusion and anger set in because I didn&rsquo;t admit that books are obviously a fantastic source of information. Now I&rsquo;ve &ldquo;seen the light&rdquo; I happily buy and read many books. I still only read around once a week though. I personally think that kids should read, but I also believe they probably shouldn&rsquo;t hang out on street corners. The fact of the matter is that they do and most of them turn out fine. If my kids didn&rsquo;t read I would encourage them to, but I wouldn&rsquo;t punish them if they didn&rsquo;t.</p>

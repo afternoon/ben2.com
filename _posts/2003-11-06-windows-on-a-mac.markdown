@@ -1,0 +1,14 @@
+---
+layout: post
+title: Windows on a Mac
+date: '2003-11-06T19:56:53+00:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47972954405/windows-on-a-mac
+---
+<p>I&rsquo;ve spent much of the last 24 hours installing Windows on my Powerbook.</p>
+<p>I need to run IE 5 and all of the PCs I have access to are running 6, so my only option was a virtual PC. Knowing that Microsoft had bought Virtual PC (the market leader in PC emulation for Macs) I decided to try and stay away from that if I could and installed <a href="http://bochs.sourceforge.net">Bochs</a> instead.</p>
+<p>Bochs is pretty good, but it&rsquo;s not complete and it&rsquo;s very slow at some things. It took it about ten or so hours to get through a Win 98 install last night. When the install was finished I was impressed at the emulation, but there are some major problems from my point of view. I was unable to find any way to get out of standard VGA mode video. This is a big point. I need to test pages in many colours and at 800x600. Also, I couldn&rsquo;t get the networking going or work out how to eject removable drives. This meant I had to reboot the machine every time I needed to change the pages I was testing - not good.</p>
+<p>Bochs is incomplete, but getting there. It&rsquo;s more of a research project I think. For instance, they use the word simulation a lot in their docs. Also it&rsquo;s designed to be portable code, which often means slower. There is a commercial product, <a href="http://openosx.com/wintel/index.html">Wintel</a>, that provides Bochs with a small GUI frontend. I really hope those guys are giving a big portion of their profit back to the Bochs developers to work on the product.</p>
+<p>So I gave up on Bochs and installed Virtual PC instead. I got version 6, the last Connectix release.</p>
+<p>I&rsquo;m midway through installing 98 on it, but so far it&rsquo;s a pleasure to use. It&rsquo;s much faster. It also has a virtual drive system whereby the drive grows as you write data to it, which is a real bonus, you don&rsquo;t need to allocate space permanently that you may never use. Virtual PC has a world of neat convenience features like that. You can drag files out of the PC emulation window and on to your Mac desktop, and vice versa. You can access printers, USB devices, everything. It is a very mature product that has spent a lot of time being carefully tweaked and tested. It&rsquo;s a triumph of usability as far as I can see. Well done Connectix! I wonder if M$ will fuck it up or make it ridiculously twee like Windows XP. They&rsquo;ve already announced that they won&rsquo;t be supporting any OS except Windows. Grrr.</p>
+<p>Update: The bastard thing played the Windows startup sound on it&rsquo;s first boot! It autodetected a decent PC&rsquo;s worth of devices, I&rsquo;m now in 800x600 and about to test networking. Sweet.</p>

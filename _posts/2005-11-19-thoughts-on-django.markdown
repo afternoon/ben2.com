@@ -1,0 +1,11 @@
+---
+layout: post
+title: Thoughts on Django
+date: '2005-11-19T06:33:51+00:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47880474927/thoughts-on-django
+---
+<p>Had a bit of play with Django today, just messing around really. It&rsquo;s really good in some ways and a bit of a let down in others. For example the model and generic views is great, but I still have to write templates. Sometimes I even have to write form tags! Forms can be easily derived from the model. Django doesn&rsquo;t generate forms for you because it lets you control the presentation. Big whoop. I much prefer InfoCMS&rsquo;s method, give you a default presentation which is fairly simple and semantic HTML (i.e. divs with sensible class names) and then let you create XSLT templates to modify form presentation site-wide. This can be sticky if each form is different, but how often does that happen. Maybe you have big form and condensed sidebar form and a special case or two, but that should be OK if you write modular XSLT.</p>
+
+<p>I might have to find a way to make the form generate-validate loop a bit more straightforward. The nice thing about Django is that the API is just below the surface, so it would be fairly easy to build this kind of functionality (I think). I&rsquo;ll probably never get rid of the templates though. This is mad, Django has this great model for plugging apps into sites. Make a new app, say a blog or a forum and you can have urls branching off the app base URI. Whether my blog is at <code>/blog/</code> or <code>/journal/</code> doesn&rsquo;t matter, the url patterns after that are the same either way. So someone else writes a forum module and a third person writes a simple wiki, I want these and my blog on one site that has a consistent look and feel. But the other guys have used different form HTML from me. I have to go through each of their templates and overwrite them! Great when the next update comes out and there&rsquo;s a tonne of new fields etc.</p>
+<p>Nah that sucks. Django does have template inheritance, so all that&rsquo;s needed possibly is some agreed best practice for template layout. Always have a base template, a form template, etc, every app author uses these, knowing that the site admin can create their own localised versions with whatever HTML they like.</p>

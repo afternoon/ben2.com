@@ -1,0 +1,17 @@
+---
+layout: post
+title: 'Facebook Platform: some thoughts on what I''ve learned so far'
+date: '2007-05-25T14:16:36+01:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47880431672/facebook-platform-some-thoughts-on-what-ive-learned-so-f
+---
+<p>The interwebs are on fire today with news of the <a href="http://developers.facebook.com/">Facebook Platform</a>, announced last night (yesterday US).</p>
+<p>Facebook are saying &ldquo;we&rsquo;ve grown so big, growing isn&rsquo;t a concern any more, now it&rsquo;s keeping people, so we&rsquo;re going to let Facebook be the network of friendships that underpins all the applications you use.&rdquo; The example that Mark Zuckerberg used in his speech was events. 3x as many people get invited to stuff on Facebook as on Evite. That&rsquo;s because I&rsquo;m inviting my friends and that network (I have 40 right now, I&rsquo;m a loser) is much more developed than the list of emails I will cut and paste will ever be. Everything is done in the context of friends, much like in life. An existing and very rich friendship graph is an excellent foundation on which to build a lot of applications.</p>
+<p>But what about the technology? Facebook point to three key points on the platform site, so I&rsquo;ll use that structure.</p>
+<ol>
+<li><strong>Deep integration.</strong> You can do anything Facebook&rsquo;s existing apps can do, create stuff on the profile, in the news feeds, create pages served by Facebook. When a user interacts directly with your application (i.e. by clicking it&rsquo;s icon in their left nav), Facebook pulls content in <a href="http://developers.facebook.com/documentation.php?v=1.0&amp;doc=fbml">FBML</a> from your servers. FBML is HTML with Facebook-specific extensions tags, e.g. <code>&lt;fb:name/&gt;</code> and <code>&lt;fb:profile-pic/&gt;</code> which allow apps to use Facebook data without actually having direct access to it. There are some more sophisticated tags as well, including helpers for tasks like making buttons, media players and simple Ajax-style tasks.</li>
+<li><strong>Mass distribution.</strong> Developing a Facebook application won&rsquo;t mean a guaranteed success. Just like developing a web application you&rsquo;ll still need to create a best of breed app. You do get a leg up with promotion however. As your app is used, news feed items on profiles spread the word virally through the friendship graph, profile boxes and actions show visitors to your profile what your app is good for.<br/><br/>I also think there&rsquo;s a lot to be said for creating an app which is UI-consist with Facebook. Their UI is clear, organised and rich. Also, there&rsquo;s a lot of trust for Facebook now because of their excellent privacy management. It hasn&rsquo;t always been that way, but they listened to their users.</li>
+<li><strong>New opportunities.</strong> Facebook are being very open about revenue. You can make money from ads as long as you don&rsquo;t compete with theirs. You can make money by providing products and services just as you would anywhere else on the web.</li>
+</ol>
+
+<p>I recommend watching the <a href="http://developers.facebook.com/videos.php?inside_platform">Inside Platform video</a>.  Jia Shen of widget company RockYou said &ldquo;Integrating on to the Facebook Platform automatically gets you exposure to a broader base of users. One of the things I&rsquo;ve always liked about Facebook is that it already has critical mass, you don&rsquo;t have to try to go out and actually build and establish another network of information.&rdquo;</p>

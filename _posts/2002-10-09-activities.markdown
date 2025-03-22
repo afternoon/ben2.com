@@ -1,0 +1,12 @@
+---
+layout: post
+title: Activities
+date: '2002-10-09T06:32:10+01:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47973378860/activities
+---
+<p>I went up to the city center today to meet <a href="http://www.underwired.com">Underwired</a>, a company of a couple of guys (and a third person, I found out today) who I&rsquo;ve been working with remotely. They are an interesting company with a big-name client list. I get the feeling that they could provide interesting opportunities in the future but for now they are playing their cards close to their collective chest. I was kind of angling for a closer relationship with them and I would have liked to really impress them with ideas and skills, this didn&rsquo;t really happen and in retrospect was hoping a bit much for a first meeting.</p>
+<p>I&rsquo;m not sure where I&rsquo;m going with the work thing. I would like to get into proper programming and build quality large-scale apps. I applied for a bunch of programming jobs but got no response, which is extremely disheartening. This and meeting with Underwired leads me more towards sticking at the web game and trying to get on more interesting projects. The thing is that I seriously have to raise my game if that is to be the case, my rent is now four times more than Norwich and I would actually like to buy some stuff from time to time. Also I still kind of want to work under someone who knows much more than I and can teach me a thing or two. This has been a goal since leaving Uni, but I&rsquo;m wondering know if it is so relevant.</p>
+<p>Oh, why can&rsquo;t it be easier and why can&rsquo;t I get a job without writing covering letters?</p>
+<p>Anyway, whilst I was up in town I had a bit of an explore. I came away from Underwired&rsquo;s offices just by London and Tower bridges and caught the Jubilee up to Westminster where I had to change to District. As I did I thought, &ldquo;I&rsquo;ve never been to the Houses,&rdquo; so I went and checked them out. They&rsquo;re pretty cool, a bit dirty but damn fancy. Big Ben rocks out, obviously. I crossed the river and had a look up at the London Eye as well. That&rsquo;s fucking massive! It&rsquo;s so tall! Louise and I will be going on it pretty soon.</p>
+<p>Tomorrow my sister is coming down because she has a couple of job interviews here. Thursday is Louise&rsquo;s birthday — what will I buy? Friday I have to go to Milton Keynes for a meeting with Steve, a meeting that might turn into a long-term collaboration. Busy busy.</p>

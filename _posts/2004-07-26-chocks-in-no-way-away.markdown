@@ -1,0 +1,11 @@
+---
+layout: post
+title: Chocks in no way away
+date: '2004-07-26T18:41:20+01:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47880505880/chocks-in-no-way-away
+---
+<p>We&rsquo;ve been trying to set up a company for months now. We chose our name, <a href="http://www.cohack.com/">Cohack</a>, got our domain, email and web site all set up in a matter of moments. We got some leads and we&rsquo;re beginning to get towards making some sales. But to do this we need a company. We&rsquo;d filed our forms as soon as we could, but there was a mistake. They got sent back to us, but unbeknown to us they went to our accountant, so we waited for two weeks hearing nothing. We finally ring them and they&rsquo;re all shirty and treat us like morons.</p>
+<p>OK, we&rsquo;ll reapply. We&rsquo;re three people based in two cities, so getting the necessary signatures and witnessing done is a bit of effort, getting us all into one place and then seeing a solicitor so we can swear we&rsquo;re honest. We send the forms off again and don&rsquo;t hear anything for another two weeks. I ring Companies House and they tell me they haven&rsquo;t received the letter. We sent it special delivery on the 16th. I ring the Royal Mail. They didn&rsquo;t deliver it until the 24th! We paid good money for that delivery, we should really demand a refund. I ring Companies House again and they say, well, if we received it on the 24th it will take four to five days until the company is set up. Fair enough, but they can&rsquo;t even confirm that they did receive it!</p>
+<p>So now we wait again. This is just shit though. Here we are trying to do our bit for the nation&rsquo;s economy by being all entrepreneurial and these two massive agencies basically don&rsquo;t have time for us, despite our paying hard cash to both of them for their services.</p>
+<p>The postal service in this country has fallen apart, they regular fail to deliver letters for weeks at a time. This used to be something you heard about, now it happens to everybody. They can&rsquo;t even get special delivery right when you produce four quid hard cash. This is at a time when the workers in the service are being pushed so hard that strikes are a constant threat. It&rsquo;s a management catastrophe. They&rsquo;ve completely destroyed the trust relationship they had with the nation. It stinks.</p>

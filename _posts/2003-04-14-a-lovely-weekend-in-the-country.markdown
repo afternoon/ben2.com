@@ -1,0 +1,12 @@
+---
+layout: post
+title: A lovely weekend in the country
+date: '2003-04-14T03:18:55+01:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47973277073/a-lovely-weekend-in-the-country
+---
+<p>We have just arrived back from celebrating Miles&rsquo; (Ladislav on Hype) birthday and Laotian New Year with Miles, my sister Kate, Ruth, Charlie, Greg, Robert and others in Oxford. My sister now lives there having studied at Christchurch and moved back home for a bit. Miles is at New college and Ruth is at St Hilda&rsquo;s.</p>
+<p>Last night we were fed to the gunnels by Miles and his team of crack Laotian chefs. The highlight was the fried chicken and ginger, which had more coconut than anything else it seemed, but was delicious. There was also a selection of other treats of many weird and wonderful varieties. We got progressively more pissed, pushing through the singing phase into Vodka and beyond to being phoned by the neighbours. It was a knees up alright. Miles&rsquo; mates from the Oxford University Light Entertainment Society (OULES) were nuts and we were all on fine form.</p>
+<p>We all crammed into my sister&rsquo;s house (Louise and I got a bed!), which is very nice. Today she took us around Oxford a bit, doing the tour guide thing, I&rsquo;ve taken a ton of photos, which I&rsquo;m currently HTMLising. We had a really nice pub lunch as well at the Turf Tavern. A classic English pub nestled between the dreaming spires.</p>
+<p>Oxford is a funny place. It&rsquo;s almost like they knew they were building the ultimate tourist exhibit of old world England. It&rsquo;s wonderful in how purely ancient it is. I wouldn&rsquo;t hesitate to recommend to any visitor to the UK that they visit the place.</p>
+<p>We had a lovely weekend. We spent the whole time locked in really good conversation and we had a really good group feeling going the whole time. Miles and Charlie had never met in the real world, but, thanks to the power of Hype, they were like old friends. Louise and I were both very much reminded of our student days and missed that kind of group activity. When we got home today and dispatched Greg and Charlie back to their houses we both felt sad and a bit lonely. We hadn&rsquo;t had a communal weekend party like that for a while before we left Norwich, but in London it&rsquo;s even less likely. When the summer comes we vow to undertake all types of weekend craziness, including but not limited to, messing around in boats, on beaches and in parks. Come one, come all!</p>

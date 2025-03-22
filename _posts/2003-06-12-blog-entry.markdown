@@ -1,0 +1,14 @@
+---
+layout: post
+title: Blog entry
+date: '2003-06-12T04:30:19+01:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47973115181/blog-entry
+---
+<p>Sorry for the lack of real title. This is going to be a two-parter.</p>
+<h2>Part 1</h2>
+<p>I still can&rsquo;t quite get used to the size of Margaret the Powerbook. I guess I did stare at Diane the iBook all day everyday for almost two years. I booted Diane up to copy some stuff today and felt slightly more at home, though not as cool. The screen on the Powerbook is fantastic. It&rsquo;s brighter and the colours are more vibrant. It&rsquo;s also noticeably clearer. It&rsquo;s is a lovely piece of engineering. Each curve and corner perfect. I&rsquo;m enjoying the keyboard as well, it&rsquo;s slightly sturdier than the iBook one.</p>
+<h2>Part 2</h2>
+<p>I went to Hoxton yesterday. Hoxton is part of the Old Street/Shoreditch/Hackney area that just oozes cool. Old Street itself is a bit nasty, but dip off the main road and suddenly every other building is a gallery or a media company or something cool. It&rsquo;s run down, there&rsquo;s a lot of graffiti, but the graffiti is really cool and the run downness just gives it a lived in feel rather than a broken one. I did go to that area for two interviews, Lateral and Lshift, and I would still happily work there.</p>
+<p>I went there to meet the people of <a href="http://www.furtherfield.org">furtherfield.org</a>. They&rsquo;re holding a party on Saturday at the <a href="http://www.deluxe-arts.org.uk/">Deluxe Arts</a> gallery on Hoxton Square. It&rsquo;s a networking thing for anyone vaguely creative. That makes it sound a bit marketing-horror, but the furtherfield people are cool and it&rsquo;s just a little get together really. It&rsquo;s nice and low tech, with a table for exhibiting stuff if you want to. I&rsquo;m going to be in charge of the music, because I asked to be :-). I&rsquo;m going to play some MP3s, mess around with Live and then smack some decks up with some bleeping electro for a bit. All in I&rsquo;ll be making nasty sounds for about eight hours. I&rsquo;ll also be curating the PA. If other people want to make sounds, I&rsquo;ll hook them up. It should be fun, but I&rsquo;m a bit nervous. I&rsquo;m slightly worried about looking like a bit of an amateur next to some really hardcore sound artist dudes. I&rsquo;ll maybe learn a thing or two. Mainly I&rsquo;m feeling really good about the fact that my first gig in London and for ages is such a cool one. It&rsquo;s miles cooler than anything else I&rsquo;ve done.</p>
+<p>I&rsquo;m also looking forward to the networking part of it. The guys at furtherfield mentioned funding for projects and I said I would definitely be interested in providing know how to projects if there was money to be had. They mentioned phones, which is something that I&rsquo;d like to explore, particularly network apps and stuff making use of photo messaging.</p>

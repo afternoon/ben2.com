@@ -1,0 +1,11 @@
+---
+layout: post
+title: I don't want to work any more
+date: '2005-01-19T04:29:12+00:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47880498092/i-dont-want-to-work-any-more
+---
+<p>I&rsquo;m working three jobs at the moment, building networks and making money. It&rsquo;s hard work, I&rsquo;ve milestones on different projects interleaved on a daily basis. It was OK at first, but now I&rsquo;m missing the deadlines. I knew when I took the work on that it would be a fairly serious endeavour but felt it was within my grasp, and worth the effort. What I&rsquo;ve discovered in the last week is that while that&rsquo;s probably true, the stress levels are pretty great and there almost more than I can deal with.</p>
+<p>I&rsquo;m working every day and night. I have allowed myself R+R, but only a few hours playing Gamecube here and there. I&rsquo;m going stir crazy in the flat not really seeing anyone and just being chained to my computer. If I do get away I can&rsquo;t relax because the next deadline is always in the back of my mind - I&rsquo;m constantly questioning my right to be relaxing. I went to the cinema the other day. As the credits rolled I suddenly realised that I had to go straight back to the work and I just started crying.</p>
+<p>I&rsquo;m doing it to myself to a certain extent, biting off more than I can chew, but I&rsquo;ve also been trying to use this marathon effort as a stick to beat my fellow directors with, which has worked to some extent. Our intentions are really beginning to look like an intractable problem. The more we think about the company and the market we want to address, the more work there is to do. The more I get pissed off with the work, the more I feel that our goals are out of reach. It&rsquo;s really easy to get excited about stuff, but I find that excitement more and more wearing. How can we hope to achieve these things when it takes everything I&rsquo;ve got just to pay a salary that doesn&rsquo;t cover my monthly costs?</p>
+<p>I know the company needs to grow. It&rsquo;s ideas are too big for three people. But we have no money for these other people. We burned through our own savings learning valuable lessons, but now we&rsquo;re running on empty.</p>

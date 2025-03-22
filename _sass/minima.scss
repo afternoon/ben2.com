@@ -1,0 +1,202 @@
+@charset "utf-8";
+
+// Typography
+$base-font-family: "Helvetica", "Arial", sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px !default;
+
+// Colors
+$text-color:            #000;
+$background-color:      #fff;
+$brand-color:           #000;
+
+// Link styles
+$link-base-color:       #000;
+$link-visited-color:    #000;
+$link-hover-color:      #000;
+
+// Border colors
+$border-color-01:       #000;
+$border-color-02:       #000;
+$border-color-03:       #000;
+
+// Code formatting
+$code-background-color: #f8f8f8;
+
+// Syntax highlighting styles should be adjusted to support a light background.
+$syntax-highlighting-background: $code-background-color;
+
+// Layout
+$spacing-unit:          30px;
+$content-width:         760px;
+$on-palm:               600px;
+$on-laptop:             800px;
+
+// Additional custom styles
+$table-text-align: left;
+
+// Override minima's default styles
+$header-border-top-color: $background-color;
+$header-border-bottom-color: $background-color;
+
+$grey-color:            #666 !default;
+$grey-color-light:      #666;
+$grey-color-xlight:     #eee;
+$grey-color-dark:       #000;
+
+$table-text-align:      left !default;
+
+// Width of the content area
+$content-width:         800px !default;
+$on-palm:               400px !default;
+$on-laptop:             800px !default;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.site-header h2 {
+  font-weight: 600;
+}
+
+.site-title {
+  font-size: $base-font-size * 1.2;
+  letter-spacing: inherit;
+  font-weight: inherit;
+  line-height: 1.5;
+}
+
+// Add chunky underlines to links
+a {
+  text-decoration: none;
+  border-bottom: 2px solid $grey-color-xlight;
+  padding-bottom: 0;
+  transition: all 0.15s ease;
+
+  &:hover {
+    text-decoration: none;
+    border-bottom: 2px solid $text-color;
+  }
+}
+
+// Remove underlines from navigation links
+.site-nav a,
+.site-title,
+.site-footer a {
+  border-bottom: none;
+
+  &:hover {
+    border-bottom: none;
+  }
+}
+
+// Add minimal borders to header and footer
+.site-header,
+.site-footer {
+  border: 0;
+}
+
+// Clean table styles
+table {
+  border-collapse: collapse;
+  background-color: $background-color;
+  th, td {
+    border: 1px solid $grey-color-xlight;
+    background-color: $background-color;
+  }
+}
+
+// Minimal blockquote style
+blockquote {
+  border-left: 2px solid $grey-color-light;
+  padding-left: 15px;
+  font-style: normal;
+}
+
+// Minimal code blocks
+pre, code {
+  border: 0;
+  border-radius: 0;
+  background-color: $code-background-color;
+  color: #333;
+  font-size: 12px;
+  font-family: "SF Mono", SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -1px;
+}
+
+.page-heading {
+  font-size: $base-font-size * 3;
+  margin: 130px 0 110px 0;
+  line-height: 1.3;
+}
+
+.year-title {
+  font-size: $base-font-size;
+  margin: ($base-font-size * 2) 0 10px 0;
+  letter-spacing: -0.1px;
+}
+
+.post-list > li {
+  margin-bottom: 10px;
+}
+
+.post-link {
+  font-size: inherit;
+  display: inline;
+}
+
+.post-title {
+  font-size: $base-font-size * 2;
+  margin-bottom: 10px;
+}
+
+.post-content h2 {
+  font-size: $base-font-size * 1.285;
+}
+
+.post-meta {
+  color: $grey-color-dark
+}
+
+// mobile fix-ups
+@include media-query($on-palm) {
+  .site-header .wrapper {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .page-heading {
+    font-size: $base-font-size * 2.5;
+    margin: 0px 0 110px 0;
+    line-height: 1.1;
+  }
+
+  .page-content {
+    margin: 0;
+  }
+}

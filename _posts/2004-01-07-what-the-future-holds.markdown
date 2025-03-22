@@ -1,0 +1,12 @@
+---
+layout: post
+title: What the future holds
+date: '2004-01-07T04:06:15+00:00'
+tags: []
+tumblr_url: https://aftnn.org/post/47880557858/what-the-future-holds
+---
+<p>Louise and I got talking about the past and then the future. We&rsquo;ve decided to buy a new desk for the flat and we talked about the fact that both of us, separately had fleetingly thought about it as being another thing tying us down. We like our life, we just don&rsquo;t want to live it for too long. For differing reasons. Louise very much wants a career as a cinematographer, a writer and/or a director and she&rsquo;s working two jobs to get herself out of debt. It&rsquo;s going to take a while, but not too long in the bigger scheme of things. Me I sometimes feel like I haven&rsquo;t really begun living yet, there&rsquo;s so much I haven&rsquo;t seen. The thought that I&rsquo;m slowing down (I definitely am) is scary.</p>
+<p>I do definitely enjoy my life and work and I have lots of great friends, but I&rsquo;m restless sometimes. I&rsquo;ve always been jealous of my friends who&rsquo;ve spent long periods of time abroad and I&rsquo;m very jealous of my sister and step-sister who are doing it right now. I still want to do it and I&rsquo;m concious that I just might never get around to it. But doing it would mean leaving Louise for a long time, not something I really want to do. It makes us both very sad to be apart for even a week.</p>
+<p>My experiences tell me that I should go, even if it means leaving her for a long time. Three or six months sounds like a long time, but in hindsight it&rsquo;s the blink of an eye. One of the best things I&rsquo;ve done in the last few years is move to London. Before I did that it was big and scary and seemed so hard, now I feel I should have done it earlier.</p>
+<p>It all seems so silly, it&rsquo;s definitely a hard choice: between the one you love and the life you want to lead. But that&rsquo;s not was it is beneath the surface. I&rsquo;m starting to think more and more that I might spend the rest of my life with Louise. If I&rsquo;m to spend all those years being happy, I have to face up to the things that I regret not doing now, rather than letting them bubble up into bigger regrets that could be more damaging. I&rsquo;ve done that already, to a certain extent, it&rsquo;s time to grab myself by the throat and tell myself to stop thinking so much and to just get on with life.</p>
+<p>Sounds easy doesn&rsquo;t it.</p>
