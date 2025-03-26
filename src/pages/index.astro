@@ -3,12 +3,19 @@ import Page from '../layouts/Page.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { getCollection } from 'astro:content';
 
+Map.groupBy ??= function groupBy (iterable, callbackfn) {
+	const map = new Map();
+  for (const elem of iterable) {
+		const key = callbackfn(elem), list = map.get(key);
+		list ? list.push(elem) : map.set(key, [elem]);
+  }
+	return map;
+}
+
 const sortedPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
-const postsByYear = Map.groupBy(sortedPosts, (post) =>
-  post.data.date.getFullYear()
-);
+const postsByYear = Map.groupBy(sortedPosts, (post) => post.data.date.getFullYear());
 ---
 
 <Page title={SITE_TITLE} description={SITE_DESCRIPTION}>
@@ -20,7 +27,7 @@ const postsByYear = Map.groupBy(sortedPosts, (post) =>
 
 	<section>
 		{
-			Array.from(postsByYear).map(([year, posts]) => (
+			postsByYear.entries().map(([year, posts]) => (
 				<h2 class="font-bold mt-6 mb-2">{year}</h2>
 				<ul>
 					{
