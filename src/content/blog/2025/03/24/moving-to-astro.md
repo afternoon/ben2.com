@@ -35,5 +35,5 @@ workers + static hosting model has proliferated, with a ton of great providers. 
 started to grow in popularity, we built HTML pages by hand (in my case, in Notepad). Then we
 dynamically generated pages with CGI scripts, then PHP, then Rails, then many other tools. It was
 more than 15 years before Jekyll made static site generation popular. This is kind of crazy. Way
-back in the 90s we had everything we need, there were even tools like (Rael Dornfest's
-Blosxom)[https://blosxom.sourceforge.net]. It just wasn't a popular approach.
+back in the 90s we had everything we need, there were even tools like
+(Rael Dornfest's Blosxom)[https://blosxom.sourceforge.net]. It just wasn't a popular approach.
