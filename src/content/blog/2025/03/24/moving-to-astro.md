@@ -4,8 +4,8 @@ description: "Moving to Astro"
 date: "Mar 24 2025"
 ---
 
-After a decade on Tumblr, I've moved this blog to (Astro)[https://astro.build] hosted on (Cloudflare
-Pages)[https://pages.cloudflare.com].
+After a decade on Tumblr, I've moved this blog to [Astro](https://astro.build) hosted on [Cloudflare
+Pages](https://pages.cloudflare.com).
 
 Astro is static site generator written in JavaScript. Its similar to Jekyll or Hugo. Content is
 generated from Markdown files. Instead of templates, JSX components are used to build HTML.
