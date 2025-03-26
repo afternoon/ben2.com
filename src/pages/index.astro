@@ -1,0 +1,39 @@
+---
+import Page from '../layouts/Page.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { getCollection } from 'astro:content';
+
+const sortedPosts = (await getCollection('blog')).sort(
+	(a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+const postsByYear = Map.groupBy(sortedPosts, (post) =>
+  post.data.date.getFullYear()
+);
+---
+
+<Page title={SITE_TITLE} description={SITE_DESCRIPTION}>
+	<h1 class="text-hero/12 font-bold tracking-tighter mb-20 md:mt-35 md:mb-30">
+		Oh hi, I'm Ben.<br>
+		I'm an Engineering Manager at <a href="https://meta.com">Meta</a>.<br>
+		I like to make things.
+	</h1>
+
+	<section>
+		{
+			Array.from(postsByYear).map(([year, posts]) => (
+				<h2 class="font-bold mt-6 mb-2">{year}</h2>
+				<ul>
+					{
+						posts.map(post => (
+							<li class="mb-2">
+								<a href={`/posts/${post.id}/`}>
+									{post.data.title}
+								</a>
+							</li>
+						))
+					}
+				</ul>
+			))
+		}
+	</section>
+</Page>

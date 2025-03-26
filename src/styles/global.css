@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+@theme inline {
+  --color-canvas: var(--ben2-color-canvas);
+  --color-primary: var(--ben2-color-primary);
+
+	--font-sans: "Helvetica", "Arial", sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --text-hero: 2.5rem;
+}
+
+:root {
+  --ben2-color-canvas: #fff;
+  --ben2-color-primary: #000;
+}
+
+a {
+  @apply underline underline-offset-6 decoration-2 decoration-gray-200 hover:decoration-gray-500 transition-colors delay-100 ease-in-out;
+}
+
+pre {
+  @apply bg-gray-100 text-black;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ben2-color-canvas: var(--color-gray-900);
+    --ben2-color-primary: #fff;
+  }
+
+  a {
+    @apply text-gray-300 decoration-gray-700 hover:decoration-gray-500;
+  }
+
+  pre {
+    @apply bg-gray-800 text-primary;
+  }
+}

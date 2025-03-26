@@ -1,0 +1,23 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import Page from '../layouts/Page.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+
+type Props = CollectionEntry<'blog'>['data'];
+
+const { title, description, date } = Astro.props;
+---
+
+<Page title={title} description={description}>
+	<article>
+		<div class="prose dark:prose-invert !max-w-none">
+			<div>
+				<h1 class="mb-2">{title}</h1>
+				<div class="text-sm text-grey-700">
+					<FormattedDate date={date} />
+				</div>
+			</div>
+			<slot />
+		</div>
+	</article>
+</Page>
