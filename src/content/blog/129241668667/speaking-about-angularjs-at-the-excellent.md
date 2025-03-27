@@ -5,4 +5,4 @@ date: '2015-09-16T23:32:40+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/129241668667/speaking-about-angularjs-at-the-excellent
 ---
-<img src="/img/theleaddev.jpg"/>
+![The Lead Developer](../../../images/theleaddev.jpg)
