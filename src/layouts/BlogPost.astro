@@ -2,13 +2,15 @@
 import type { CollectionEntry } from 'astro:content';
 import Page from '../layouts/Page.astro';
 import FormattedDate from '../components/FormattedDate.astro';
+import { SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, date } = Astro.props;
+const pageTitle = `${title} – ${SITE_TITLE}`;
 ---
 
-<Page title={title} description={description}>
+<Page title={pageTitle} description={description}>
 	<article>
 		<div class="prose dark:prose-invert !max-w-none">
 			<div>
