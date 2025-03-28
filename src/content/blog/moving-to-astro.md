@@ -22,7 +22,7 @@ essentially functions that return JSX expressions, so we can use them to create 
 HTML, like a page header.
 
 Initially I [moved the blog to
-Jekyll](https://github.com/afternoon/ben2.com/commit/b35e9776506c650630d2044dfd668c06093cf548).
+Jekyll](https://github.com/afternoon/ben2.com/tree/b35e9776506c650630d2044dfd668c06093cf548).
 Jekyll is simple, flexible and has stood the test of time. Once I started playing with Astro
 however, I remembered how much nicer JSX is to work with. I also wanted to use Tailwind CSS.
 Jekyll is starting to get a bit old and the community is less active. There's no simple Tailwind
