@@ -1,40 +1,335 @@
-@import "tailwindcss";
-
-@plugin "@tailwindcss/typography";
-
-@theme inline {
-  --color-canvas: var(--ben2-color-canvas);
-  --color-primary: var(--ben2-color-primary);
-
-	--font-sans: "Helvetica", "Arial", sans-serif;
-  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --text-hero: 2.5rem;
-}
-
 :root {
-  --ben2-color-canvas: #fff;
-  --ben2-color-primary: #000;
-}
-
-a {
-  @apply underline underline-offset-6 decoration-2 decoration-gray-200 hover:decoration-gray-500 transition-colors delay-100 ease-in-out;
-}
-
-pre {
-  @apply bg-gray-100 text-black;
+  --color-canvas: #fff;
+  --color-primary: #000;
+  --color-gray-100: #eceef2;
+  --color-gray-200: #dde1e7;
+  --color-gray-300: #c4cbd6;
+  --color-gray-500: #838da3;
+  --color-gray-700: #4a5468;
+  --color-gray-800: #333a49;
+  --color-gray-900: #1f2430;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --ben2-color-canvas: var(--color-gray-900);
-    --ben2-color-primary: #fff;
+    --color-canvas: var(--color-gray-900);
+    --color-primary: #fff;
   }
+}
 
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  line-height: 1.5;
+}
+
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: var(--color-canvas);
+  color: var(--color-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration-line: underline;
+  text-decoration-color: var(--color-gray-200);
+  text-underline-offset: 6px;
+  text-decoration-thickness: 2px;
+  transition: color 0.15s cubic-bezier(0.4, 0, 0.2, 1),
+    text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  transition-delay: 0.1s;
+}
+
+@media (hover: hover) {
+  a:hover {
+    text-decoration-color: var(--color-gray-500);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
   a {
-    @apply text-gray-300 decoration-gray-700 hover:decoration-gray-500;
+    color: var(--color-gray-300);
+    text-decoration-color: var(--color-gray-700);
   }
 
-  pre {
-    @apply bg-gray-800 text-primary;
+  @media (hover: hover) {
+    a:hover {
+      text-decoration-color: var(--color-gray-500);
+    }
   }
+}
+
+pre {
+  background-color: var(--color-gray-100);
+  color: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+  pre {
+    background-color: var(--color-gray-800);
+    color: var(--color-primary);
+  }
+}
+
+ol, ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Layout */
+
+.page {
+  max-width: 48rem;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 1rem;
+}
+
+.page-main {
+  flex-grow: 1;
+}
+
+/* Header */
+
+.site-header h2 {
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.site-header a {
+  text-decoration: none;
+}
+
+/* Hero (index page) */
+
+.hero {
+  font-size: 2.5rem;
+  line-height: 3rem;
+  font-weight: bold;
+  letter-spacing: -0.05em;
+  margin-top: 0;
+  margin-bottom: 3.75rem;
+}
+
+@media (min-width: 48rem) {
+  .hero {
+    margin-top: 1.25rem;
+    margin-bottom: 7.5rem;
+  }
+}
+
+.hero img {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 999px;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 48rem) {
+  .hero img {
+    margin-bottom: 2rem;
+  }
+}
+
+/* Post list (index page) */
+
+.post-years h2 {
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-years li {
+  margin-bottom: 0.5rem;
+}
+
+/* Post page */
+
+.prose {
+  max-width: none;
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.prose h1 {
+  margin-bottom: 0.5rem;
+}
+
+.prose-meta {
+  font-size: 0.875rem;
+  color: var(--color-gray-700);
+}
+
+.prose p {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+}
+
+.prose a {
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.prose strong {
+  font-weight: 600;
+}
+
+.prose ol {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+  padding-inline-start: 1.625em;
+  list-style-type: decimal;
+}
+
+.prose ul {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+  padding-inline-start: 1.625em;
+  list-style-type: disc;
+}
+
+.prose li {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-inline-start: 0.375em;
+}
+
+.prose blockquote {
+  border-inline-start: 0.25rem solid var(--color-gray-200);
+  padding-inline-start: 1em;
+  font-style: italic;
+  font-weight: 500;
+  margin-top: 1.6em;
+  margin-bottom: 1.6em;
+}
+
+.prose h2 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-size: 1.5em;
+  font-weight: 700;
+  line-height: 1.33;
+}
+
+.prose h3 {
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+  font-size: 1.25em;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+.prose h4 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-weight: 600;
+}
+
+.prose img {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.prose code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.875em;
+  font-weight: 600;
+}
+
+.prose pre {
+  padding: 0.857em 1.14em;
+  border-radius: 0.375rem;
+  margin-top: 1.71em;
+  margin-bottom: 1.71em;
+  font-size: 0.875em;
+  line-height: 1.71;
+  overflow-x: auto;
+}
+
+.prose pre code {
+  font-weight: inherit;
+  font-size: inherit;
+  background-color: transparent;
+  border-width: 0;
+  padding: 0;
+}
+
+.prose table {
+  width: 100%;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-size: 0.875em;
+  line-height: 1.71;
+  border-collapse: collapse;
+}
+
+.prose th, .prose td {
+  text-align: start;
+  padding: 0.571em;
+}
+
+.prose thead {
+  border-bottom: 1px solid var(--color-gray-300);
+}
+
+.prose tbody tr {
+  border-bottom: 1px solid var(--color-gray-200);
+}
+
+.prose hr {
+  border: 0;
+  border-top: 1px solid var(--color-gray-200);
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+/* Footer */
+
+.site-footer {
+  margin-top: 4rem;
+  padding-bottom: 2.5rem;
+}
+
+.site-footer h2 {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.site-footer a {
+  text-decoration: none !important;
+  margin-right: 0.5rem;
+}
+
+@media (hover: hover) {
+  .site-footer a:hover {
+    color: var(--color-gray-500);
+  }
+}
+
+.site-footer svg {
+  width: 1.5rem;
+  height: 1.5rem;
+  display: inline;
 }

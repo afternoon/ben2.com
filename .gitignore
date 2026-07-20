@@ -1,5 +1,8 @@
 # build output
 build/
 
+# Bower checkout used by build.sh
+.bower-src/
+
 # macOS-specific files
 .DS_Store
