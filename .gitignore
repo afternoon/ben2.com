@@ -6,3 +6,6 @@ build/
 
 # macOS-specific files
 .DS_Store
+
+# wrangler stuffs
+.wrangler/

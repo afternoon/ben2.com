@@ -1,7 +1,7 @@
 ;; Site configuration for ben2.com
 
 (define title "Ben Godfrey")
-(define description "Hi, I'm Ben Godfrey. I'm a software engineering leader, ex-Founder, ex-Meta. I like to make things.")
+(define description "Hi, I'm Ben Godfrey. I'm a software engineering leader, ex-founder, ex-Meta. I like to make things.")
 (define site-url "https://ben2.com")
 
 ;; ---------------------------------------------------------------------------
@@ -92,7 +92,7 @@
     `((h1 ((class "hero"))
         (img ((src "/images/ben2.png") (alt "Ben Godfrey") (width "160") (height "160") (loading "lazy") (decoding "async")))
         "Hi, Iʼm Ben." (br)
-        "Iʼm a software engineering leader, ex-Founder, ex-Meta." (br)
+        "Iʼm a software engineering leader, ex-founder, ex-Meta." (br)
         "I like to make things.")
       (section ((class "post-years"))
         ,@(apply append (map year-section year-groups))))))
