@@ -23,12 +23,11 @@
 
 html {
   -webkit-text-size-adjust: 100%;
-  line-height: 1.5;
 }
 
 body {
   margin: 0;
-  font: 100%/1.7 system-ui, sans-serif;
+  font: 100%/1.6 system-ui, sans-serif;
   background-color: var(--color-canvas);
   color: var(--color-primary);
   -webkit-font-smoothing: antialiased;
@@ -172,7 +171,7 @@ ul {
 .prose {
   max-width: none;
   font-size: 1rem;
-  line-height: 1.75;
+  line-height: 1.6;
 }
 
 .prose h1 {
@@ -266,7 +265,7 @@ ul {
   margin-top: 1.71em;
   margin-bottom: 1.71em;
   font-size: 0.875em;
-  line-height: 1.71;
+  line-height: 1.6;
   overflow-x: auto;
 }
 
@@ -283,7 +282,7 @@ ul {
   margin-top: 2em;
   margin-bottom: 2em;
   font-size: 0.875em;
-  line-height: 1.71;
+  line-height: 1.6;
   border-collapse: collapse;
 }
 
