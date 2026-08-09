@@ -28,7 +28,7 @@ html {
 
 body {
   margin: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font: 100%/1.7 system-ui, sans-serif;
   background-color: var(--color-canvas);
   color: var(--color-primary);
   -webkit-font-smoothing: antialiased;
