@@ -62,7 +62,7 @@ I was also spending a lot of time managing the sequence and status of work. Clau
 
 Back to the cloud. Killing the laptop is a hard no.
 
-Increasingly I realised I need a workflow centred around me and what I need to do to move the project forward, so I iterated on the workflow again:
+Increasingly I realised I need a workflow centred around me and what I need to do to move the project forward. Before implementing a feature, I wanted to understand what we were building better and make sure it was thought through. After implementation, I wanted code changes that were easy to understand and review. So I captured those in a new version of the workflow.
 
 ![Workflow v3](/images/what-i-learned-prototyping-ambitious-app-with-dynamic-workflows/v3.svg)
 
@@ -74,7 +74,7 @@ The prototype is still very much in progress. Some things I'm fairly confident a
 
 Claude unblocked a project that was stuck. The Web Audio work was tricky and I couldn't dedicate enough bandwidth to figure it out properly. Claude built infrastructure around the problem — tests that generate offline audio, driving Chrome to listen to real audio output when something was broken — and that made the project tractable. This project would have been indefinitely stuck otherwise.
 
-Dynamic Workflows produced a lot of code, fast. The need to feed the beast forced me to make product decisions quickly and document them. As a resultI'm much closer to a prototype that I can use to test the fundamental product hypothesis.
+Dynamic Workflows produced a lot of code, fast. The need to feed the beast forced me to make product decisions quickly and document them. As a result I'm much closer to a prototype that I can use to test the fundamental product hypothesis.
 
 The code is a timebomb if I ever point real customers at it.
 
