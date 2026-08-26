@@ -14,13 +14,13 @@ The prototype is live at [https://groove-35c07.web.app](https://groove-35c07.web
 
 My starting hypothesis was: I can generate a PRD and some mocks, hand them to a swarm of agents and watch the magic happen.
 
-I wrote up a few basic requirements, the product vision, and who I was building for, then had GPT 5.6 Sol turn that into a [PRD](https://github.com/afternoon/solid-groove/blob/main/docs/prd.md). I threw in the core technical choices from my prototyping: TypeScript, SolidJS, Firebase, Web Audio and Tone.js. I asked for a backlog. Both were absurdly detailed. I didn't really read them. I used Claude Design to create and iterate on some mocks, with the PRD as input, and saved those to the repo.
+I wrote up a few basic requirements, the product vision, and who I was building for, then had GPT 5.6 Sol turn that into a [PRD](https://github.com/afternoon/solid-groove/blob/main/docs/prd.md). I threw in the core technical choices from my prototyping: TypeScript, SolidJS, Firebase, Web Audio and Tone.js. I asked for a backlog. Both the PRD and the backlog were impressively detailed. I used Claude Design to create and iterate on some mocks, with the PRD as input, and saved those to the repo.
 
 With Claude, I designed an initial workflow:
 
 ![Workflow v1](/images/what-i-learned-prototyping-ambitious-app-with-dynamic-workflows/v1.svg)
 
-I kicked this off one night from my phone and woke up to a stack of PRs. Code review became the bottleneck immediately. Most people I've seen cluster at the extremes of the code review policy spectrum: review nothing, or review everything carefully. I realised I wanted a middle position. I don't care about most of the implementation *right now*, but I do want visibility into the major decisions, and enough of a feel for the codebase that I can care *later*. My bar was "I’ll accept this to unblock the prototype," not "I will defend this in SEV review." I spent a few days reviewing 3,000-line PRs, feeling pressure to get through them so the agents could start up again.
+I kicked this off one night from my phone and woke up to a stack of PRs. Code review became the bottleneck immediately. Most people I've seen cluster at the extremes of the code review policy spectrum: review nothing, or review everything carefully. I realised I wanted a middle position. I don't care about most of the implementation *right now*, but I do want visibility into the major decisions, and enough of a feel for the codebase that I can care *later*. My bar was "I’ll accept this to unblock the prototype," not "I will defend this in SEV review."
 
 The middle-way code review policy made a great learning exercise. I could see how Claude handled the Web Audio parts I'd found tricky and the patterns it picked for the app architecture. Claude made some production-grade choices I would have skipped. A command layer for all state changes, an explicit privacy stance, etc. These were genuinely good and I'm keeping them. There were several places I would have cut corners to move fast and Claude didn't, and because Claude produced the code, we didn’t have to compromise.
 
@@ -62,13 +62,10 @@ I’m now more involved in the spec process before feature implementation kicks 
 
 ## Learnings
 
-The prototype is still very much in progress. Some things I'm fairly confident about:
 
-Claude unblocked a project that was stuck. The Web Audio work was sufficiently tricky that I couldn't get through it with my limited time for side-projects. Claude built infrastructure around the problem — tests that generate offline audio, driving Chrome to listen to real audio output when something was broken — and that made the project tractable.
+Claude unblocked a project that was stuck. The Web Audio work was sufficiently tricky that I couldn't get through it with my limited time for side-projects. Claude built infrastructure around the problem — tests that generate offline audio, driving Chrome to listen to real audio output when something was broken — and that made the project tractable. Dynamic Workflows produced a lot of code, fast. Setting an explicit goal to move fast forced me to make product decisions quickly and document them. As a result I'm much closer to a prototype that I can use to test the fundamental product hypothesis.
 
-Dynamic Workflows produced a lot of code, fast. The need to feed the beast forced me to make product decisions quickly and document them. As a result I'm much closer to a prototype that I can use to test the fundamental product hypothesis.
-
-I hit the limits of Pro pretty quickly and treated myself to Max to do this experiment. A not-entirely-unexpected side-effect of this was that every hour my agents weren't working felt like budget I hadn't used. It nudged me to keep things moving forward, and I didn’t stop to think too much. A lot of engineers feel similar urgency right now, either caused by FOMO or by direct pressure from their organisation. Velocity flexing is 2026's software industry trend.
+Some of the tactics that worked well are agentic variations of classic software design and project management techniques. Using context in repo docs and skills to steer agents toward the code you want is the equivalent of retrospecting with your colleagues on how you're working and improving your tools and processes. Using tools like an issue tracker for the backlog, thinking in terms of core flows. Using agents to reason about the design, visualise dependencies, planned workstreams, the architecture, and to identify bottlenecks and weak spots is also a great form of retrospection.
 
 If you code fast, you are delaying the pain. Bugs pile up silently. The product diverges from what was in your head. Repetition and variance seeps into the code. Building this by hand, I'd have stopped and tested at each step and fixed many small things earlier. There's a lot of work to do on this project to get a good enough experience even to show friends. The code is undoubtedly a timebomb if I ever point real customers at it.
 
@@ -77,12 +74,4 @@ If I were reviewing code for a real product I would slow down massively, but for
 I spent a lot of time managing the sequence and status of work and on operational gotchas like merge conflicts. Claude did the legwork, but the coordination wasn't fun. Keeping agents from overlapping is an unsolved problem. This used to be a human engineering problem, solved through team coordination. [James Brown talked about this in a recent Developer Voices podcast](https://www.youtube.com/watch?v=JCPrxKse4YQ). The canonical Dynamic Workflow test case, the [Bun Rust rewrite](https://bun.com/blog/bun-in-rust), seems to have handled this with 1:1 allocation of agents to files, which is beautifully simple. I hacked around it by periodically stopping the machine and refactoring, but I often had to tag Claude to fix PR merge issues as a final step.
 
 The Dynamic Workflow stack feels raw. It assumes local development, and the experience is not always smooth. Expect to need to tend the machine, and to try different workflows. Some way to push tasks to the fleet and have the results land in PRs would be nice.
-
-## Things I wish I'd done sooner
-
-* Deploy to prod early and often. I accumulated a lot of code before I looked at any of it running.
-* Steer agents via context. The moment something felt off — PR size, what got tested, image walkthroughs showing UI evolution — I should have stopped the line and improved the workflow.
-* Visualised dependencies and planned workstreams. This reduced clashes immediately once I did it.
-* Used a task management tool for the backlog. The text version was OK for the agents, but bad for me.
-* Thought in terms of core flows. This was the mental model that let me understand what Claude was planning to do at the feature level, and was more accessible than reading the entire dry PRD, and helped me refine the plan before implementation.
 
