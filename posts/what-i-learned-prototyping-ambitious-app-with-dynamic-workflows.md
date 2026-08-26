@@ -6,7 +6,7 @@ tags: ['ai', 'claude']
 ---
 I got stuck for a while on a complex project (a web-based DAW with an AI assistant). I'd hacked a prototype, but I was a long way from being able to test the risky parts: if it was possible to build a DAW in the browser, and if it actually felt good to use.
 
-While on holiday in an AirBnb in the woods, I decided to experiment with pushing the project forward with a multi-agent setup, specifically Claude's Dynamic Workflows. I wanted to learn if I could build something genuinely complex this way.
+While on holiday in an AirBnB in the woods, I decided to experiment with pushing the project forward with a multi-agent setup, specifically Claude's Dynamic Workflows. I wanted to learn if I could build something genuinely complex this way.
 
 The prototype is live at [https://groove-35c07.web.app](https://groove-35c07.web.app). What follows is what I tried, in the order I tried it, and what each round taught me.
 
