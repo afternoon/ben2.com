@@ -10,6 +10,10 @@ a static site generator using Steel Scheme and Rust.
 - `public/` - static assets (CSS, images, favicon), copied as-is into the build output
 - `build/` - generated site (not committed)
 
-## Build
+## Building
 
-Install [Bower](https://github.com/afternoon/bower), then run it. The generated site is written to `build/`.
+Use [Bower](https://github.com/afternoon/bower).
+
+`build.sh` will install Rust and Bower. It's primarily meant for CI.
+
+The generated site is written to `build/`.
