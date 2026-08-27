@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use SSH public key authentication with Fabric
+title: Use SSH Public Key Authentication with Fabric
 date: '2009-04-24T15:13:12+01:00'
 tags:
 - fabric

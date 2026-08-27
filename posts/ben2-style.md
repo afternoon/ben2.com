@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ben2 style
+title: ben2 Style
 date: '2003-07-01T06:31:02+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973094458/ben2-style

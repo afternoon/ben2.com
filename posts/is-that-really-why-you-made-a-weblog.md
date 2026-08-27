@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is that really why you made a weblog?
+title: Is That Really Why You Made a Weblog?
 date: '2001-07-25T17:23:31+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058211710/is-that-really-why-you-made-a-weblog

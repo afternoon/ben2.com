@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XML prolog puts IE 6 into quirks mode
+title: XML Prolog Puts IE 6 into Quirks Mode
 date: '2003-04-28T18:03:14+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973229402/xml-prolog-puts-ie-6-into-quirks-mode

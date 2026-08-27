@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mozilla pushed forward?
+title: Mozilla Pushed Forward?
 date: '2003-07-16T14:49:10+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973070430/mozilla-pushed-forward

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Authentication workflow for gitlab, gitolite and AD
+title: Authentication Workflow for Gitlab, Gitolite and AD
 date: '2012-07-21T00:39:20+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880399455/authentication-workflow-gitlab-gitolite-and-ad

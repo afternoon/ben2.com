@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Burn the feed at both ends
+title: Burn the Feed at Both Ends
 date: '2006-01-25T21:52:46+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880462464/burn-the-feed-at-both-ends

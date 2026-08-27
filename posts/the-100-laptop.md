@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The $100 laptop
+title: The $100 Laptop
 date: '2005-11-16T20:50:13+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880476112/the-100-laptop

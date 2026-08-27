@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'More XSLT: functional style'
+title: 'More XSLT: Functional Style'
 date: '2004-03-22T04:33:50+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880537887/more-xslt-functional-style

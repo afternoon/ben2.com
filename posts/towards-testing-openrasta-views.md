@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Towards testing OpenRasta views (OR 2.0.3, .NET 4, VS 2010)
+title: Towards Testing OpenRasta Views (OR 2.0.3, .NET 4, VS 2010)
 date: '2010-06-18T19:38:26+01:00'
 tags:
 - openrasta

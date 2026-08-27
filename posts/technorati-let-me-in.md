@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Technorati: Let me in!'
+title: 'Technorati: Let Me In!'
 date: '2006-01-23T21:29:50+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880463556/technorati-let-me-in

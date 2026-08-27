@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Django apps
+title: Testing Django Apps
 date: '2006-02-17T06:15:19+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880459196/testing-django-apps

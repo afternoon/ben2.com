@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've really lost it this time
+title: I've Really Lost It This Time
 date: '2003-08-29T04:53:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973026607/ive-really-lost-it-this-time

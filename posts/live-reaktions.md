@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Live reaktions
+title: Live Reaktions
 date: '2005-09-26T17:01:31+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880483247/live-reaktions

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harrington Photography goes live
+title: Harrington Photography Goes Live
 date: '2003-02-17T21:50:13+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973364439/harrington-photography-goes-live

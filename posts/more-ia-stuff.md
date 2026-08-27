@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More IA stuff
+title: More IA Stuff
 date: '2003-12-03T22:22:36+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880567137/more-ia-stuff

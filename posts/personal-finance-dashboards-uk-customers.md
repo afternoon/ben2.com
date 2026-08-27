@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Finance Dashboards For UK Customers
+title: Personal Finance Dashboards for UK Customers
 date: '2012-10-04T14:26:48+01:00'
 tags:
 - pfm

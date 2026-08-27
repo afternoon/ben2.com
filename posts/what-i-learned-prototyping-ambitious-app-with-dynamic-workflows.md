@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'What I learned prototyping an ambitious web app with dynamic workflows'
-date: '2026-08-17T18:04:14+00:00'
-tags: ['ai', 'claude']
+title: 'What I Learned Prototyping an Ambitious Web App with Dynamic Workflows'
+date: '2026-08-17T18:04:14+01:00'
+tags: ['agentic-engineering', 'claude']
 ---
 I got stuck for a while on a complex project (a web-based DAW with an AI assistant). I'd hacked a prototype, but I was a long way from being able to test the risky parts: if it was possible to build a DAW in the browser, and if it actually felt good to use.
 
@@ -26,9 +26,9 @@ The middle-way code review policy made a great learning exercise. I could see ho
 
 My janky on-my-phone-in-the-woods setup made doing a real deployment hard, so I skipped over it. This meant I had no visibility into the product as it evolved. I noticed the Playwright trace recordings from tests and those were so useful I codified them into the workflow, giving Claude instructions to attach walkthrough screenshots to PRs as evidence. These were essential, but Claude was oddly slippery about adding them. It would often forget, or rationalise its way out of doing it.
 
-Another learning: Claude thinks out loud a lot and its exhausting trying to follow the saga. I spent time early on reading inner monologue that didn't help me. The subagents/workflows UI hid that, the main agent gave me concise status updates instead.
+Another learning: Claude thinks out loud a lot and it's exhausting trying to follow the saga. I spent time early on reading inner monologue that didn't help me. The subagents/workflows UI hid that, the main agent gave me concise status updates instead.
 
-One definite improvement for Dynamic Workflows would be better handling of approvals on mobile. Every change to the workflow script itself requires approval, and runs would get stuck when I started one before going to bed run, or interrupt me during time off.
+One definite improvement for Dynamic Workflows would be better handling of approvals on mobile. Every change to the workflow script itself requires approval, and runs would get stuck without me.
 
 ## V2: GH issues as the interface
 

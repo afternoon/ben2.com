@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If you want to go far whilst sitting down
+title: If You Want to Go Far Whilst Sitting Down
 date: '2003-03-17T09:12:12+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973349475/if-you-want-to-go-far-whilst-sitting-down

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding time down at the farm
+title: Coding Time Down At The Farm
 date: '2002-09-14T21:38:04+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973387338/coding-time-down-at-the-farm

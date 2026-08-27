@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Maps widgets
+title: Google Maps Widgets
 date: '2007-08-22T15:11:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880428930/google-maps-widgets

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The business of blogging
+title: The Business of Blogging
 date: '2005-11-21T21:43:11+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880474476/the-business-of-blogging

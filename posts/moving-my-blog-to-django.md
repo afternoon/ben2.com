@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moving my blog to Django
+title: Moving My Blog to Django
 date: '2008-06-04T03:40:58+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880426191/moving-my-blog-to-django

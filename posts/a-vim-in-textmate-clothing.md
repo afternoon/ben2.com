@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Vim in TextMate clothing
+title: A Vim in TextMate Clothing
 date: '2006-06-19T17:46:18+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880452667/a-vim-in-textmate-clothing

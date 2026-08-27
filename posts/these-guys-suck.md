@@ -1,6 +1,6 @@
 ---
 layout: post
-title: These guys suck!
+title: These Guys Suck!
 date: '2002-06-21T00:28:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058149132/these-guys-suck

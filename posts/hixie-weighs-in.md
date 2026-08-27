@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hixie weighs in
+title: Hixie Weighs In
 date: '2003-04-28T05:35:46+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973243527/hixie-weighs-in

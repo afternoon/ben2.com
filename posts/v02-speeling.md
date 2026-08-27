@@ -1,6 +1,6 @@
 ---
 layout: post
-title: v0.2 speeling
+title: v0.2 Speeling
 date: '2001-11-21T01:21:47+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058176373/v02-speeling

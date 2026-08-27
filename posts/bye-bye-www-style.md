@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bye bye www-style
+title: Bye Bye www-style
 date: '2004-02-18T04:24:57+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880550504/bye-bye-www-style

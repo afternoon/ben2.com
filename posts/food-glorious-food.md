@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Food glorious food
+title: Food Glorious Food
 date: '2003-06-24T02:47:45+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973111079/food-glorious-food

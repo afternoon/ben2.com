@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journal code "finished"
+title: Journal Code "Finished"
 date: '2002-06-28T03:58:37+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058146371/journal-code-finished

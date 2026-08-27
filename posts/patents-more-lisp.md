@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patents, more Lisp
+title: Patents, More Lisp
 date: '2003-09-25T06:34:14+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972987611/patents-more-lisp

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mental note
+title: Mental Note
 date: '2003-04-15T19:43:40+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973263252/mental-note

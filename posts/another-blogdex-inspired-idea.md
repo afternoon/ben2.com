@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another blogdex inspired idea
+title: Another Blogdex-inspired Idea
 date: '2001-07-31T03:50:30+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058206777/another-blogdex-inspired-idea

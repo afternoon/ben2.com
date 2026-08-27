@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When should you go with a flow you don't like?
+title: When Should You Go with a Flow You Don't Like?
 date: '2003-04-09T14:15:47+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973279778/when-should-you-go-with-a-flow-you-dont-like

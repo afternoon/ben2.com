@@ -1,6 +1,6 @@
 ---
 layout: post
-title: POP3 Mail app
+title: POP3 Mail App
 date: '2002-01-11T15:40:31+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058172173/pop3-mail-app

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop EU software patents
+title: Stop EU Software Patents
 date: '2003-09-02T17:24:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973024449/stop-eu-software-patents

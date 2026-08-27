@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chuck it, rude boy!
+title: Chuck It, Rude Boy!
 date: '2004-06-22T08:03:21+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880510065/chuck-it-rude-boy

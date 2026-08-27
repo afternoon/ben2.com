@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hypothetical 2 proceeding quite well
+title: Hypothetical 2 Proceeding Quite Well
 date: '2001-09-25T07:27:07+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058182570/hypothetical-2-proceeding-quite-well

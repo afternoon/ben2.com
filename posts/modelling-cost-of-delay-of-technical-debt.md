@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modelling cost of delay of technical debt
+title: Modelling Cost of Delay of Technical Debt
 date: '2016-05-02T22:06:00+01:00'
 tags:
 - prioritisation

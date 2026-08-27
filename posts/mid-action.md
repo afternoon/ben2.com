@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MID action
+title: MID Action
 date: '2003-07-02T06:32:33+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973093815/mid-action

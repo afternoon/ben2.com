@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Well, the day has gone, but still
+title: Well, the Day Has Gone, but Still
 date: '2002-10-04T03:10:22+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973381811/well-the-day-has-gone-but-still

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There's always time for XSLT
+title: There's Always Time for XSLT
 date: '2003-12-18T22:00:50+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880560789/theres-always-time-for-xslt

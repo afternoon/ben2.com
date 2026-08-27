@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Words of advice for impetuous business people
+title: Words of Advice for Impetuous Business People
 date: '2006-01-25T19:35:27+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880462987/words-of-advice-for-impetuous-business-people

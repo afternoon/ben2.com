@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zope 3: A new frontier'
+title: 'Zope 3: A New Frontier'
 date: '2005-04-11T08:44:07+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880490520/zope-3-a-new-frontier

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekend gladness
+title: Weekend Gladness
 date: '2003-07-07T04:12:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973087936/weekend-gladness

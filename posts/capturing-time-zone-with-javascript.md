@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capturing time zone with JavaScript
+title: Capturing Time Zone with JavaScript
 date: '2007-06-11T04:23:13+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880430446/capturing-time-zone-with-javascript

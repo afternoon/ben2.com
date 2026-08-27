@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oh my gosh!
+title: Oh My Gosh!
 date: '2003-05-16T06:20:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973141335/oh-my-gosh

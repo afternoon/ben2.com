@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python syntax highlighting with Chili
+title: Python Syntax Highlighting with Chili
 date: '2009-04-24T16:54:11+01:00'
 tags:
 - jquery

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aftnn.org coming along
+title: Aftnn.org Coming Along
 date: '2002-06-25T06:25:47+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058147342/aftnnorg-coming-along

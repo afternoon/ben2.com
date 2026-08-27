@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hype suggestions
+title: Hype Suggestions
 date: '2001-09-19T23:38:24+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058183485/hype-suggestions

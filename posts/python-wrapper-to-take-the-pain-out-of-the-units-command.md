@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python wrapper to take the pain out of the units command
+title: Python Wrapper to Take the Pain out of the Units Command
 date: '2004-08-22T20:04:01+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880504452/python-wrapper-to-take-the-pain-out-of-the-units-command

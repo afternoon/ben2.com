@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A couple of ideas
+title: A Couple of Ideas
 date: '2003-03-07T18:19:38+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973360660/a-couple-of-ideas

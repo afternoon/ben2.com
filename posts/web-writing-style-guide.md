@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web writing style guide
+title: Web Writing Style Guide
 date: '2003-11-17T05:00:57+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972941835/web-writing-style-guide

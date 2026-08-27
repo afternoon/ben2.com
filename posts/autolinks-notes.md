@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autolinks notes
+title: Autolinks Notes
 date: '2001-08-15T14:35:23+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058200288/autolinks-notes

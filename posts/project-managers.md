@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project managers
+title: Project Managers
 date: '2003-09-03T17:39:03+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973021478/project-managers

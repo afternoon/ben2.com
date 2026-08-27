@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mock To Mobile In Minutes With Codiqa, Trigger.io And TestFlight
+title: Mock to Mobile in Minutes with Codiqa, Trigger.io and TestFlight
 date: '2013-03-27T13:06:26+00:00'
 tags:
 - mobile

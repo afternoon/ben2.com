@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tests and hacks
+title: Tests and Hacks
 date: '2003-11-07T00:18:52+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972953361/tests-and-hacks

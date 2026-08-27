@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first JNI function
+title: My First JNI Function
 date: '2004-01-04T05:11:35+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880558859/my-first-jni-function

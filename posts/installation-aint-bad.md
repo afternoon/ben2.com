@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installation ain't bad
+title: Installation Ain't Bad
 date: '2003-08-06T03:52:46+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973040684/installation-aint-bad

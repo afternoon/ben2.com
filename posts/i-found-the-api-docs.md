@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I found the API docs
+title: I Found the API Docs
 date: '2003-10-02T08:23:58+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972976520/i-found-the-api-docs

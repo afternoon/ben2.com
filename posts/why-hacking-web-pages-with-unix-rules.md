@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Hacking Web Pages With Unix Rules
+title: Why Hacking Web Pages with Unix Rules
 date: '2003-02-14T11:30:09+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973366199/why-hacking-web-pages-with-unix-rules

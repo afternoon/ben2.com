@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leave the walled garden, increase ARPU
+title: Leave the Walled Garden, Increase ARPU
 date: '2006-04-09T20:35:32+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880454427/leave-the-walled-garden-increase-arpu

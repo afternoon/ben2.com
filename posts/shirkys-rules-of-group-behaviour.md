@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shirky's rules of group behaviour
+title: Shirky's Rules of Group Behaviour
 date: '2004-04-06T06:44:03+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880532868/shirkys-rules-of-group-behaviour

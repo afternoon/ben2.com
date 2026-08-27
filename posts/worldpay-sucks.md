@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WorldPay sucks
+title: WorldPay Sucks
 date: '2004-01-05T06:09:15+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880558365/worldpay-sucks

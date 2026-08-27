@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Smart moves
+title: Smart Moves
 date: '2002-05-13T09:09:09+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058154134/smart-moves

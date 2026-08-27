@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Web 2.0: emergent information organisation'
+title: 'Web 2.0: Emergent Information Organisation'
 date: '2005-11-29T01:46:02+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880473274/web-20-emergent-information-organisation

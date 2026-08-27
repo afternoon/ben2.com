@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hypothetical 2 progress
+title: Hypothetical 2 Progress
 date: '2004-04-06T09:04:51+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880532460/hypothetical-2-progress

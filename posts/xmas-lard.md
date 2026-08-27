@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xmas lard
+title: Xmas Lard
 date: '2003-12-29T21:30:46+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880560227/xmas-lard

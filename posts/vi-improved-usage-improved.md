@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vi iMproved usage improved
+title: Vi iMproved Usage Improved
 date: '2003-11-24T22:54:04+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880573008/vi-improved-usage-improved

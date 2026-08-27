@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IE doesn't like floats inside position:relative; blocks
+title: IE Doesn't Like Floats Inside Position:relative; Blocks
 date: '2003-11-09T22:57:32+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972952880/ie-doesnt-like-floats-inside-codepositionrelativecode-bl

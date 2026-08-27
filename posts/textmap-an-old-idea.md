@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Textmap - an old idea
+title: Textmap - an Old Idea
 date: '2001-09-02T22:53:13+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058184921/textmap-an-old-idea

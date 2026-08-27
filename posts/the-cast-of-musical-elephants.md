@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Cast Of Musical Elephants
+title: The Cast of Musical Elephants
 date: '2003-11-13T03:26:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972942463/the-cast-of-musical-elephants

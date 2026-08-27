@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strip tags in a Vim buffer
+title: Strip Tags in a Vim Buffer
 date: '2006-11-24T13:34:52+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880443079/strip-tags-in-a-vim-buffer

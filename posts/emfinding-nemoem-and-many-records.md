@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding Nemo and many records!
+title: Finding Nemo and Many Records!
 date: '2003-09-27T23:27:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972984423/emfinding-nemoem-and-many-records

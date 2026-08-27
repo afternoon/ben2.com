@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More on download times
+title: More on Download Times
 date: '2002-05-12T23:07:53+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058154761/more-on-download-times

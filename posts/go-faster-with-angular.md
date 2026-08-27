@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Go Faster With Angular
+title: Go Faster with Angular
 date: '2015-10-05T16:33:22+01:00'
 tags:
 - angular

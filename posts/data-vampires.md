@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data vampires
+title: Data Vampires
 date: '2006-01-13T22:56:30+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880466275/data-vampires

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: l33t payments
+title: l33t Payments
 date: '2002-09-10T10:34:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973391491/l33t-payments

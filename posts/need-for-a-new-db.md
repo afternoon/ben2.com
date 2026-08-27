@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Need for a new db
+title: Need for a New Db
 date: '2001-09-25T10:47:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058181822/need-for-a-new-db

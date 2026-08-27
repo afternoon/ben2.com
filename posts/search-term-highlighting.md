@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Search term highlighting
+title: Search Term Highlighting
 date: '2002-06-28T06:30:36+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058145549/search-term-highlighting

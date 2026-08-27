@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kenya, finally
+title: Kenya, Finally
 date: '2004-03-05T03:54:34+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880547470/kenya-finally

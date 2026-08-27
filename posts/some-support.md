@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some support!
+title: Some Support!
 date: '2003-04-28T04:08:43+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973245256/some-support

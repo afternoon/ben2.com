@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Admin  page SUX0Rz, WAP site also
+title: Admin  Page SUX0Rz, WAP Site Also
 date: '2001-07-26T13:22:49+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058208977/admin-page-sux0rz-wap-site-also

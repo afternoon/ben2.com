@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Loan records
+title: Loan Records
 date: '2004-12-12T16:12:30+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880499807/loan-records

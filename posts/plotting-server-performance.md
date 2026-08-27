@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plotting server performance
+title: Plotting Server Performance
 date: '2006-11-17T23:29:06+00:00'
 tags:
 - apache

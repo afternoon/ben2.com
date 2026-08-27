@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case sensitivity
+title: Case Sensitivity
 date: '2001-08-29T20:04:38+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058189646/case-sensitivity

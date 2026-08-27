@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Need to read
+title: Need to Read
 date: '2003-04-29T17:19:51+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973225689/need-to-read

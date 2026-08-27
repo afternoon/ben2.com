@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Venezuela madness
+title: Venezuela Madness
 date: '2005-08-24T05:43:55+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880483805/venezuela-madness

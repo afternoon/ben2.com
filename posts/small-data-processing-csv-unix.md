@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Small Data: Processing CSV In Unix'
+title: 'Small Data: Processing CSV in Unix'
 date: '2012-10-10T18:14:59+01:00'
 tags:
 - unix

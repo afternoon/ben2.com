@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Am I too obsessive?
+title: Am I Too Obsessive?
 date: '2003-07-24T06:10:11+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973053205/am-i-too-obsessive

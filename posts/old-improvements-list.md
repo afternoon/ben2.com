@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Old improvements list
+title: Old Improvements List
 date: '2002-03-24T19:08:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058161240/old-improvements-list

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customisable image colours for hypo
+title: Customisable Image Colours for Hypo
 date: '2001-07-27T23:26:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058208059/customisable-image-colours-for-hypo

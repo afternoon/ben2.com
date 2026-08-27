@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mixcloud is a great site for sharing mixes
+title: Mixcloud Is a Great Site for Sharing Mixes
 date: '2009-10-13T19:39:09+01:00'
 tags:
 - mixcloud

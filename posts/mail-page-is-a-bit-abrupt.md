@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mail page is a bit abrupt
+title: Mail Page Is a Bit Abrupt
 date: '2001-08-21T05:30:46+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058197897/mail-page-is-a-bit-abrupt

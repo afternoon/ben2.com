@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New glasses
+title: New Glasses
 date: '2003-07-17T05:04:04+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973068031/new-glasses

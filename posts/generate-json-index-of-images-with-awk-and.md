@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generate JSON Index Of Images With awk and identify
+title: Generate JSON Index of Images with awk and identify
 date: '2014-03-14T11:33:00+00:00'
 tags:
 - awk

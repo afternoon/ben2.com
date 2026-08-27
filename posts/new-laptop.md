@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New laptop!
+title: New Laptop!
 date: '2003-06-09T16:12:13+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973117178/new-laptop

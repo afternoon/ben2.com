@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop that war!
+title: Stop That War!
 date: '2003-02-16T20:03:49+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973365294/stop-that-war

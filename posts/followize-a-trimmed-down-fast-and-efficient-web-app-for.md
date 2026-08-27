@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Followize - A trimmed down, fast and efficient web app for reading tweets
+title: Followize - A Trimmed down, Fast and Efficient Web App for Reading Tweets
 date: '2009-01-16T18:14:26+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880417972/followize-a-trimmed-down-fast-and-efficient-web-app-for

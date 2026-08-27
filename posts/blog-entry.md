@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog entry
+title: Blog Entry
 date: '2003-06-12T04:30:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973115181/blog-entry

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Too young to start a business
+title: Too Young to Start a Business
 date: '2007-05-09T15:24:22+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880432252/too-young-to-start-a-business

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hypo trouble
+title: Hypo Trouble
 date: '2001-08-14T14:19:11+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058201766/hypo-trouble

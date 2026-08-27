@@ -1,6 +1,6 @@
 ---
 layout: post
-title: And, on a similar note
+title: And, on a Similar Note
 date: '2003-03-05T13:00:34+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973361426/and-on-a-similar-note

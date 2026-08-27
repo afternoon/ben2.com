@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I love HTML
+title: I Love HTML
 date: '2001-11-16T06:44:45+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058176881/i-love-html

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ha ha!
+title: Ha Ha!
 date: '2002-09-23T11:56:17+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973385438/ha-ha

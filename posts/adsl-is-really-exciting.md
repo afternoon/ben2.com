@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ADSL is _REALLY_ **EXCITING**
+title: ADSL Is _REALLY_ **EXCITING**
 date: '2001-08-13T15:55:17+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058202304/adsl-is-really-exciting

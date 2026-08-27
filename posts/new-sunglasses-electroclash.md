@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New sunglasses, electroclash
+title: New Sunglasses, Electroclash
 date: '2003-07-20T17:50:56+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973054820/new-sunglasses-electroclash

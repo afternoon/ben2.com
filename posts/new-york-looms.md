@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New York looms...
+title: New York Looms...
 date: '2003-03-14T22:51:11+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973351529/new-york-looms

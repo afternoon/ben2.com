@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Close proximity
+title: Close Proximity
 date: '2004-01-12T03:56:32+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880556728/close-proximity

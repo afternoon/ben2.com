@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giving and taking
+title: Giving and Taking
 date: '2003-07-01T01:34:40+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973094901/giving-and-taking

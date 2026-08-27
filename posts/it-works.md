@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It works!
+title: It Works!
 date: '2002-09-14T23:12:06+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973386677/it-works

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another project completed, late
+title: Another Project Completed, Late
 date: '2002-08-08T21:30:04+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973395141/another-project-completed-late

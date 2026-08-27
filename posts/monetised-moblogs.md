@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monetised moblogs
+title: Monetised Moblogs
 date: '2006-01-04T00:21:58+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880468429/monetised-moblogs

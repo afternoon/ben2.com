@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bottom-clenchingly simple hierarchical Javascript menus
+title: Bottom-clenchingly Simple Hierarchical Javascript Menus
 date: '2003-04-25T04:26:14+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973255312/bottom-clenchingly-simple-hierarchical-javascript-menus

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'From hacker to businessman: Changing views'
+title: 'From Hacker to Businessman: Changing Views'
 date: '2006-01-08T21:50:15+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880467187/from-hacker-to-businessman-changing-views

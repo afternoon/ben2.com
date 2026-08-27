@@ -1,6 +1,6 @@
 ---
 layout: post
-title: London blog meet
+title: London Blog Meet
 date: '2004-05-06T06:30:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880519241/london-blog-meet

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No more link splicing
+title: No More Link Splicing
 date: '2008-03-18T12:46:06+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880427278/no-more-link-splicing

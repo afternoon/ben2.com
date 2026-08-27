@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Vim hacks
+title: More Vim Hacks
 date: '2003-11-25T05:58:52+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880572572/more-vim-hacks

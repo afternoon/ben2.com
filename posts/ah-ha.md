@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ah ha!
+title: Ah Ha!
 date: '2003-04-28T21:12:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973228143/ah-ha

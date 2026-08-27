@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Site-specific stylesheets
+title: Site-specific Stylesheets
 date: '2003-12-09T05:08:24+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880564080/site-specific-stylesheets

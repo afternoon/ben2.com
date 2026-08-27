@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is this what a working flash detect javascript looks like?
+title: Is This What a Working Flash Detect Javascript Looks Like?
 date: '2001-10-01T05:31:43+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058180445/is-this-what-a-working-flash-detect-javascript-looks-lik

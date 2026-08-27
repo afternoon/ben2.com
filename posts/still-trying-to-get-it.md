@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Still trying to get it
+title: Still Trying to Get It
 date: '2003-10-24T05:52:26+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972962992/still-trying-to-get-it

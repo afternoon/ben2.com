@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Serve HTTPS From Elastic Beanstalk Application Instances
+title: Serve HTTPS from Elastic Beanstalk Application Instances
 date: '2013-04-05T16:15:00+01:00'
 tags:
 - aws

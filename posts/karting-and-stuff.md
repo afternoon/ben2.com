@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Karting and stuff
+title: Karting and Stuff
 date: '2002-01-22T16:09:15+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058170547/karting-and-stuff

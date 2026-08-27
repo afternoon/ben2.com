@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Milestone 5 complete
+title: Milestone 5 Complete
 date: '2004-04-27T04:54:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880521984/milestone-5-complete

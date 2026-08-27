@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IT people
+title: IT People
 date: '2003-10-21T06:46:07+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972966524/it-people

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Card sorting
+title: Card Sorting
 date: '2003-11-27T07:15:25+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880569359/card-sorting

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple hands free
+title: Simple Hands Free
 date: '2006-10-17T20:57:21+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880445319/simple-hands-free

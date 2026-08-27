@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More going with the flow
+title: More Going with the Flow
 date: '2003-04-09T21:04:32+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973278200/more-going-with-the-flow

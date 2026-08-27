@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programming with frames
+title: Programming with Frames
 date: '2003-09-26T18:59:51+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972985323/programming-with-frames

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aggregate operations in shell
+title: Aggregate Operations in Shell
 date: '2006-02-27T19:25:02+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880458151/aggregate-operations-in-shell

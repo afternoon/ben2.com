@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Button generation refinements.
+title: Button Generation Refinements
 date: '2001-09-26T21:31:28+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058180927/button-generation-refinements

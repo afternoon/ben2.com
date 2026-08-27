@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Louise's birthday
+title: Louise's Birthday
 date: '2001-10-11T05:35:55+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058178602/louises-birthday

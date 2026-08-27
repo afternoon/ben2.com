@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is your brain on Brainfuck
+title: This Is Your Brain on Brainfuck
 date: '2004-02-13T04:38:18+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880552653/this-is-your-brain-on-brainfuck

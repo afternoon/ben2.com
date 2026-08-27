@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another problem layout
+title: Another Problem Layout
 date: '2003-04-28T03:36:49+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973248750/another-problem-layout

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BBC News and some example grid syntax
+title: BBC News and Some Example Grid Syntax
 date: '2003-04-29T18:40:05+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973224652/bbc-news-and-some-example-grid-syntax

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New design
+title: New Design
 date: '2003-02-19T04:26:57+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973363773/new-design

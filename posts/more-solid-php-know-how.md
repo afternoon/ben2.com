@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More solid PHP know-how
+title: More Solid PHP Know-how
 date: '2001-10-05T16:26:02+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058179338/more-solid-php-know-how

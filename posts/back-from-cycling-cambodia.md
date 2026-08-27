@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back from cycling Cambodia
+title: Back from Cycling Cambodia
 date: '2006-12-05T23:49:24+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880441355/back-from-cycling-cambodia

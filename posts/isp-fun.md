@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ISP fun
+title: ISP Fun
 date: '2004-08-04T05:47:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880505351/isp-fun

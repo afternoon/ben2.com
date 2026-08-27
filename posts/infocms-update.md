@@ -1,6 +1,6 @@
 ---
 layout: post
-title: InfoCMS update
+title: InfoCMS Update
 date: '2004-12-30T06:16:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880498625/infocms-update

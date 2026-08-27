@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baby I'm a Lisp coder now
+title: Baby I'm a Lisp Coder Now
 date: '2003-09-23T04:53:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972989938/baby-im-a-lisp-coder-now

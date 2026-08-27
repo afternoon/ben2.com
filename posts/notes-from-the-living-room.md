@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes from the living room
+title: Notes from the Living Room
 date: '2001-12-04T00:56:57+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058174887/notes-from-the-living-room

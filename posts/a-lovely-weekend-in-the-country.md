@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A lovely weekend in the country
+title: A Lovely Weekend in the Country
 date: '2003-04-14T03:18:55+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973277073/a-lovely-weekend-in-the-country

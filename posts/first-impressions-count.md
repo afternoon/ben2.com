@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First impressions count
+title: First Impressions Count
 date: '2006-01-20T21:51:22+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880463958/first-impressions-count

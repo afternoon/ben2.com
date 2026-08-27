@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MobMart items of the day, prizes to be won!
+title: MobMart Items of the Day, Prizes to Be Won!
 date: '2006-10-06T17:07:16+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880447334/mobmart-items-of-the-day-prizes-to-be-won

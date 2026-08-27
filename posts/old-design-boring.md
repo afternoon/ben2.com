@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Old design = boring
+title: Old Design = Boring
 date: '2004-03-30T07:39:58+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880536167/old-design-boring

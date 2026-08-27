@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Django, Drupal, Webmachine: Different frameworks for different projects'
+title: 'Django, Drupal, Webmachine: Different Frameworks for Different Projects'
 date: '2009-05-13T14:26:02+01:00'
 tags:
 - django

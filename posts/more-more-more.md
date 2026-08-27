@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More, more, more!
+title: More, More, More!
 date: '2002-09-14T00:14:14+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973390833/more-more-more

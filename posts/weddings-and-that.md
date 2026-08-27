@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weddings and that
+title: Weddings and That
 date: '2004-03-29T04:36:30+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880537420/weddings-and-that

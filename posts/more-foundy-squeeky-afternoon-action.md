@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Foundy squeeky afternoon action
+title: More Foundy Squeeky Afternoon Action
 date: '2004-06-28T17:21:30+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880507855/more-foundy-squeeky-afternoon-action

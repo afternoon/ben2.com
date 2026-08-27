@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I work
+title: How I Work
 date: '2009-09-29T16:12:34+01:00'
 tags:
 - software

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My mum is 50!
+title: My Mum Is 50!
 date: '2003-09-22T01:38:29+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972992424/my-mum-is-50

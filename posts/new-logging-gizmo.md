@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New logging gizmo
+title: New Logging Gizmo
 date: '2002-06-23T09:05:57+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058147997/new-logging-gizmo

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I made this
+title: I Made This
 date: '2001-07-30T18:12:13+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058207591/i-made-this

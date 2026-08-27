@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Now that's what I call gun control
+title: Now That's What I Call Gun Control
 date: '2003-04-14T15:30:32+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973273307/now-thats-what-i-call-gun-control

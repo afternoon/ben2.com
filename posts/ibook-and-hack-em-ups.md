@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iBook and hack-em-ups
+title: iBook and Hack-em-ups
 date: '2001-12-03T03:51:27+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058175366/ibook-and-hack-em-ups

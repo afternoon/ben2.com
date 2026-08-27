@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today Hypothetical was one year old
+title: Today Hypothetical Was One Year Old
 date: '2002-05-02T05:07:50+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058160037/today-hypothetical-was-one-year-old

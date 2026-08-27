@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post dearth
+title: Post Dearth
 date: '2003-05-19T02:18:46+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973140669/post-dearth

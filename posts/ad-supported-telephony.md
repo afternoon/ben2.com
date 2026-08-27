@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ad-supported telephony
+title: Ad-supported Telephony
 date: '2006-03-23T20:55:07+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880456374/ad-supported-telephony

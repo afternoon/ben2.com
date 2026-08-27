@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ain't no stoppin'
+title: Ain't No Stoppin'
 date: '2002-07-11T09:29:57+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973403846/aint-no-stoppin

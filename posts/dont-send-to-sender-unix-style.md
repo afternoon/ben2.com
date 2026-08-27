@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't send to sender, Unix-style
+title: Don't Send to Sender, Unix-style
 date: '2004-07-20T07:51:08+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880506896/dont-send-to-sender-unix-style

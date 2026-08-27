@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first .com
+title: My First .Com
 date: '2003-06-24T19:21:48+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973109594/my-first-com

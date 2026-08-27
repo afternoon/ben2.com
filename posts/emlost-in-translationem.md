@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lost In Translation
+title: Lost in Translation
 date: '2004-01-12T03:01:36+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880557436/emlost-in-translationem

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arena4 complete
+title: Arena4 Complete
 date: '2003-01-28T03:37:47+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973368438/arena4-complete

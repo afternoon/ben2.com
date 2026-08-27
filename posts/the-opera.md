@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The opera
+title: The Opera
 date: '2005-03-30T17:56:40+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880496851/the-opera

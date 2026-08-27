@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Global challenge: Cambodia'
+title: 'Global Challenge: Cambodia'
 date: '2006-03-08T15:29:52+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880457632/global-challenge-cambodia

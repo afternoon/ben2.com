@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Encode project knowledge in XML
+title: Encode Project Knowledge in XML
 date: '2004-01-02T17:26:19+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880559793/encode-project-knowledge-in-xml

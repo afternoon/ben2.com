@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eh oh
+title: Eh Oh
 date: '2001-07-31T01:00:14+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058207226/eh-oh

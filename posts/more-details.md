@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More details
+title: More Details
 date: '2003-05-21T06:22:17+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973133141/more-details

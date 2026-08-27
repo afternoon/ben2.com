@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SJCP revision 2
+title: SJCP Revision 2
 date: '2003-11-12T21:20:57+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972944202/sjcp-revision-2

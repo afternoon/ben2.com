@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Credit, employment, shopping
+title: Credit, Employment, Shopping
 date: '2003-08-23T23:35:10+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973030927/credit-employment-shopping

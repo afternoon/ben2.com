@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hack your life with Remember The Milk
+title: Hack Your Life with Remember the Milk
 date: '2010-05-18T22:35:38+01:00'
 tags:
 - rememberthemilk

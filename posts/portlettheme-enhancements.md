@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portlet/theme enhancements
+title: Portlet/theme Enhancements
 date: '2001-08-29T05:00:52+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058190002/portlettheme-enhancements

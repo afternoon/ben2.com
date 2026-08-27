@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 16:49. Restate my assumptions
+title: 16:49. Restate My Assumptions
 date: '2003-04-28T19:49:09+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973228685/1649-restate-my-assumptions

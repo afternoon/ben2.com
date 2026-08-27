@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music and computers
+title: Music and Computers
 date: '2003-10-24T04:50:16+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972963604/music-and-computers

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ":filetype indent plugin on"
+title: ":Filetype Indent Plugin On"
 date: '2003-11-26T05:04:00+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880570448/filetype-indent-plugin-on

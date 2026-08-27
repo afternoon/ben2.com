@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another web site finished!
+title: Another Web Site Finished!
 date: '2002-05-03T05:21:36+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058158937/another-web-site-finished

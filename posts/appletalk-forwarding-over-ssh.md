@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Appletalk forwarding over SSH
+title: Appletalk Forwarding Over SSH
 date: '2003-09-08T06:49:32+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973006524/appletalk-forwarding-over-ssh

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lucid dreaming
+title: Lucid Dreaming
 date: '2002-06-03T22:56:11+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058152117/lucid-dreaming

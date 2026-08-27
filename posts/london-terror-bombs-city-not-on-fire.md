@@ -1,6 +1,6 @@
 ---
 layout: post
-title: London Terror Bombs; City not on fire
+title: London Terror Bombs; City Not on Fire
 date: '2005-07-08T14:48:37+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880485785/london-terror-bombs-city-not-on-fire

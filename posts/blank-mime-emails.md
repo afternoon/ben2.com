@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blank MIME emails
+title: Blank MIME Emails
 date: '2003-03-01T21:55:05+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973362077/blank-mime-emails

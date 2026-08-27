@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"He may be a sonofabitch, but he''s our sonofabitch."'
+title: '"He May Be a sonofabitch, but He''s Our sonofabitch."'
 date: '2005-08-16T06:45:49+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880484336/he-may-be-a-sonofabitch-but-hes-our-sonofabitch

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Citizen journalism?
+title: Citizen Journalism?
 date: '2006-01-14T17:34:19+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880465661/citizen-journalism

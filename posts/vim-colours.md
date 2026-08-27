@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vim colours
+title: Vim Colours
 date: '2004-03-17T06:39:20+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880538736/vim-colours

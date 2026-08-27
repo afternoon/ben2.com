@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple, why Sendmail?
+title: Apple, Why Sendmail?
 date: '2003-07-18T16:22:37+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973055934/apple-why-sendmail

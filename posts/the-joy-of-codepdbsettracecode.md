@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The joy of pdb.set_trace()
+title: The Joy of pdb.set_trace()
 date: '2007-04-25T14:51:37+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880432721/the-joy-of-codepdbsettracecode

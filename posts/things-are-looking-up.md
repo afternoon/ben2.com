@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things are looking up
+title: Things Are Looking Up
 date: '2003-04-03T01:45:02+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973344040/things-are-looking-up

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build process
+title: Build Process
 date: '2004-02-27T04:49:14+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880549435/build-process

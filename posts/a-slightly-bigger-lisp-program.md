@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A slightly bigger Lisp program
+title: A Slightly Bigger Lisp Program
 date: '2003-10-27T05:35:42+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972959911/a-slightly-bigger-lisp-program

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DnD relaxation
+title: DnD Relaxation
 date: '2004-04-14T06:40:25+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880531038/dnd-relaxation

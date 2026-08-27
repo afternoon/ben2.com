@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“Bubble” Lines Up And Down Like Sublime Text In Vim"
+title: "“Bubble” Lines up and down Like Sublime Text in Vim"
 date: '2014-02-06T11:51:00+00:00'
 tags:
 - vim

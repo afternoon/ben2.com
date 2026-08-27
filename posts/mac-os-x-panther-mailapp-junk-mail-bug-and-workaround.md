@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mac OS X Panther Mail.app Junk Mail bug and workaround
+title: Mac OS X Panther Mail.app Junk Mail Bug and Workaround
 date: '2003-12-05T14:42:18+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880565599/mac-os-x-panther-mailapp-junk-mail-bug-and-workaround

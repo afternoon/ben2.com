@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plus de objet d'code
+title: Plus De Objet D'code
 date: '2002-08-23T02:42:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973392308/plus-de-objet-dcode

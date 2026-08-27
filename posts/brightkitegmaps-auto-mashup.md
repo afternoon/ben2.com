@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BrightKite/GMaps auto-mashup
+title: BrightKite/GMaps Auto-mashup
 date: '2008-11-27T17:03:25+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880421515/brightkitegmaps-auto-mashup

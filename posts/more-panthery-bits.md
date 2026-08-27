@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Panthery bits
+title: More Panthery Bits
 date: '2003-11-03T16:52:29+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972957733/more-panthery-bits

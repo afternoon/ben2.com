@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Posts per month since I began
+title: Posts per Month Since I Began
 date: '2003-09-28T22:24:22+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972982887/posts-per-month-since-i-began

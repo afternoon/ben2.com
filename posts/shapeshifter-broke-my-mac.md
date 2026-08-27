@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shapeshifter broke my Mac!
+title: Shapeshifter Broke My Mac!
 date: '2004-06-12T20:54:55+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880511601/shapeshifter-broke-my-mac

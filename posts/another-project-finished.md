@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Another* project finished"
+title: "*Another* Project Finished"
 date: '2002-08-12T19:21:23+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973394325/another-project-finished

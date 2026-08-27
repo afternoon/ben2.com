@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trying stuff on for size
+title: Trying Stuff on for Size
 date: '2005-12-08T03:21:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880470637/trying-stuff-on-for-size

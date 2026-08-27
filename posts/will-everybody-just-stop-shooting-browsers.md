@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will everybody just stop shooting browsers
+title: Will Everybody Just Stop Shooting Browsers
 date: '2003-07-16T03:23:24+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973071819/will-everybody-just-stop-shooting-browsers

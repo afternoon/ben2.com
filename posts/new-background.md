@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New background
+title: New Background
 date: '2002-09-19T05:43:47+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973386038/new-background

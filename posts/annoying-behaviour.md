@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Annoying behaviour
+title: Annoying Behaviour
 date: '2003-06-05T21:15:36+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973120091/annoying-behaviour

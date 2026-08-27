@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Default values in PHP
+title: Default Values in PHP
 date: '2001-10-01T14:17:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058179854/default-values-in-php

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web 2.0 logo jam
+title: Web 2.0 Logo Jam
 date: '2006-02-07T03:18:50+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880459773/web-20-logo-jam

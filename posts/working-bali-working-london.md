@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working from Bali, working from London
+title: Working from Bali, Working from London
 date: '2009-03-18T19:20:17+00:00'
 tags:
 - bali

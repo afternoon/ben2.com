@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hype version 2
+title: Hype Version 2
 date: '2003-07-11T05:46:29+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973075104/hype-version-2

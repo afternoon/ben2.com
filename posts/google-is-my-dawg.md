@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google is my dawg
+title: Google Is My Dawg
 date: '2006-01-05T05:55:05+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880467780/google-is-my-dawg

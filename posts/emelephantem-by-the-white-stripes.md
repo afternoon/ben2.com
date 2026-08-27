@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elephant by The White Stripes
+title: Elephant by the White Stripes
 date: '2003-05-07T03:44:32+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973153130/emelephantem-by-the-white-stripes

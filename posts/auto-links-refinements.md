@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Auto-links refinements
+title: Auto-links Refinements
 date: '2001-07-31T04:08:12+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058206296/auto-links-refinements

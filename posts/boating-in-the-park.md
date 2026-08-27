@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boating in the park
+title: Boating in the Park
 date: '2003-04-19T04:41:33+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973260371/boating-in-the-park

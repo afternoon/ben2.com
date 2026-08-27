@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rapid response from the Green Party MEP
+title: Rapid Response from the Green Party MEP
 date: '2003-09-02T18:15:46+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973023147/rapid-response-from-the-green-party-mep

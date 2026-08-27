@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Type-check Your JavaScript With TypeScript
+title: Type-check Your JavaScript with TypeScript
 date: '2014-02-15T17:06:00+00:00'
 tags:
 - typescript

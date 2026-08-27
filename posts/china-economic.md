@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China economic
+title: China Economic
 date: '2004-09-20T04:05:30+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880502639/china-economic

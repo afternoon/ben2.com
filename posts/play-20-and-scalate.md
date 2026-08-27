@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Play 2.0 And Scalate Step-By-Step
+title: Play 2.0 and Scalate Step-By-Step
 date: '2012-10-01T17:20:00+01:00'
 tags:
 - play2

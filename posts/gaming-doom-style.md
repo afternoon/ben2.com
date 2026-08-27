@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gaming, Doom style
+title: Gaming, Doom Style
 date: '2003-11-12T06:14:09+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972945167/gaming-doom-style

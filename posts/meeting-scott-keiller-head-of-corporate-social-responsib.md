@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Meeting Scott Keiller, head of Corporate Social Responsibility for Starbucks
-  UK
+title: Meeting Scott Keiller, Head of Corporate Social Responsibility for Starbucks UK
 date: '2007-02-01T16:28:58+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880438590/meeting-scott-keiller-head-of-corporate-social-responsib

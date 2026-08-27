@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Best tip of all"'
+title: '"Best Tip of All"'
 date: '2003-11-26T07:25:29+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880569885/best-tip-of-all

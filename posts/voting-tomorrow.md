@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Voting tomorrow
+title: Voting Tomorrow
 date: '2004-06-09T22:47:49+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880512280/voting-tomorrow

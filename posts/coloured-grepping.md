@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coloured grepping
+title: Coloured Grepping
 date: '2007-04-14T03:27:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880434576/coloured-grepping

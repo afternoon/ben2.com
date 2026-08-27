@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generative art matures
+title: Generative Art Matures
 date: '2005-10-06T06:26:57+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880482343/generative-art-matures

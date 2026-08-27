@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Language fascism etc
+title: Language Fascism Etc
 date: '2003-09-23T03:54:24+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972990425/language-fascism-etc

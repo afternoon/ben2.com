@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open source success
+title: Open Source Success
 date: '2007-02-11T20:29:40+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880436753/open-source-success

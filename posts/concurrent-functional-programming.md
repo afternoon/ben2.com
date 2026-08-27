@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Concurrent functional programming
+title: Concurrent Functional Programming
 date: '2006-03-27T19:23:23+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880455922/concurrent-functional-programming

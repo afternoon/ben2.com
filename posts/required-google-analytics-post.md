@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Required Google Analytics post
+title: Required Google Analytics Post
 date: '2005-11-22T20:40:45+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880474044/required-google-analytics-post

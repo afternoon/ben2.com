@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basayev in the light
+title: Basayev in the Light
 date: '2005-08-04T04:15:53+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880484864/basayev-in-the-light

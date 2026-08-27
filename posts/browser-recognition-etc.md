@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Browser recognition etc
+title: Browser Recognition Etc
 date: '2002-05-12T22:53:41+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058155252/browser-recognition-etc

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brass Eye related Government communication!
+title: Brass Eye Related Government Communication!
 date: '2001-08-20T16:34:59+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058198864/brass-eye-related-government-communication

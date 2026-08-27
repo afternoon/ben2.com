@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SCJP revision
+title: SCJP Revision
 date: '2003-10-07T03:33:13+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972975139/scjp-revision

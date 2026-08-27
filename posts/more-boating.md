@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More boating
+title: More Boating
 date: '2003-04-21T03:44:48+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973257785/more-boating

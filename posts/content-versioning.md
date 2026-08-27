@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Content versioning
+title: Content Versioning
 date: '2005-04-11T17:47:03+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880489955/content-versioning

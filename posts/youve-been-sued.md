@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You've been sued!
+title: You've Been Sued!
 date: '2002-01-15T23:09:32+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058171662/youve-been-sued

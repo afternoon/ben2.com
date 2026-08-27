@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If you had an API for your email, what would you do with it?
+title: If You Had an API for Your Email, What Would You Do with It?
 date: '2012-11-19T09:00:49+00:00'
 tags:
 - email

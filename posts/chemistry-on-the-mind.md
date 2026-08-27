@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chemistry on the mind
+title: Chemistry on the Mind
 date: '2006-10-04T14:52:01+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880448422/chemistry-on-the-mind

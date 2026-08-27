@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cycling in London rocks
+title: Cycling in London Rocks
 date: '2004-04-08T00:00:16+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880531973/cycling-in-london-rocks

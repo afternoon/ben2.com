@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New design redux
+title: New Design Redux
 date: '2003-02-20T06:27:28+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973362765/new-design-redux

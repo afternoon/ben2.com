@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New stuff
+title: New Stuff
 date: '2003-01-08T06:10:31+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973370708/new-stuff

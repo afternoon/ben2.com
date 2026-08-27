@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I believe
+title: I Believe
 date: '2004-01-03T04:29:58+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880559392/i-believe

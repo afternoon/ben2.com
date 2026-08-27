@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing aftnn.org version 2.0
+title: Announcing aftnn.org Version 2.0
 date: '2009-03-06T12:16:50+00:00'
 tags:
 - django

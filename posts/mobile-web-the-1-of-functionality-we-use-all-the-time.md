@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mobile web: the 1% of functionality we use all the time'
+title: 'Mobile Web: The 1% of Functionality We Use All the Time'
 date: '2006-01-20T19:22:41+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880464383/mobile-web-the-1-of-functionality-we-use-all-the-time

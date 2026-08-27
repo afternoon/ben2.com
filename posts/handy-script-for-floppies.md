@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handy script for floppies
+title: Handy Script for Floppies
 date: '2001-08-14T22:30:04+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058201270/handy-script-for-floppies

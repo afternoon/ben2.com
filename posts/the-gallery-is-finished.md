@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The gallery is finished!
+title: The Gallery Is Finished!
 date: '2003-04-19T06:01:01+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973259811/the-gallery-is-finished

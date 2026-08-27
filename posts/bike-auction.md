@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bike auction
+title: Bike Auction
 date: '2005-04-06T19:14:42+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880491655/bike-auction

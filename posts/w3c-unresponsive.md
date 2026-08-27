@@ -1,6 +1,6 @@
 ---
 layout: post
-title: W3C unresponsive
+title: W3C Unresponsive
 date: '2003-07-03T21:47:47+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973093217/w3c-unresponsive

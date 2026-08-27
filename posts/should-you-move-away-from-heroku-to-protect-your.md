@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should You Move Away From Heroku To Protect Your Users?
+title: Should You Move Away from Heroku to Protect Your Users?
 date: '2013-06-07T10:44:00+01:00'
 tags:
 - heroku

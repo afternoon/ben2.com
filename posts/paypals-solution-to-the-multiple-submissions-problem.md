@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paypal's solution to the multiple submissions problem
+title: Paypal's Solution to the Multiple Submissions Problem
 date: '2003-10-24T20:14:26+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972962283/paypals-solution-to-the-multiple-submissions-problem

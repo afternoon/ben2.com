@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In search of Silicon Valley, post-mortem
+title: In Search of Silicon Valley, Post-mortem
 date: '2008-11-23T23:43:03+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880422257/in-search-of-silicon-valley-post-mortem

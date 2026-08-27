@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A nice sunny Sunday
+title: A Nice Sunny Sunday
 date: '2002-10-06T18:53:06+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973380179/a-nice-sunny-sunday

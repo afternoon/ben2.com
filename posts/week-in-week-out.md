@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week In, Week Out
+title: Week in, Week Out
 date: '2003-09-15T04:55:04+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972993827/week-in-week-out

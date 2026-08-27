@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Haskell web frameworks reinvent too much
+title: Haskell Web Frameworks Reinvent Too Much
 date: '2009-01-27T09:53:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880416947/haskell-web-frameworks-reinvent-too-much

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scheme and stuff
+title: Scheme and Stuff
 date: '2003-10-13T15:47:28+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972972821/scheme-and-stuff

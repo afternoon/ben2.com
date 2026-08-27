@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OmniGraffle is great
+title: OmniGraffle Is Great
 date: '2003-06-26T16:46:18+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973107052/omnigraffle-is-great

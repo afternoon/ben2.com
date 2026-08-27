@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing MobMart, my employer
+title: Introducing MobMart, My Employer
 date: '2006-09-25T15:23:07+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880449972/introducing-mobmart-my-employer

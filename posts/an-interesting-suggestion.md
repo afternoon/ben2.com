@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An interesting suggestion
+title: An Interesting Suggestion
 date: '2003-04-28T21:41:03+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973227466/an-interesting-suggestion

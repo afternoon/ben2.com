@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new CMS is born
+title: A New CMS Is Born
 date: '2004-06-23T21:54:17+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880509557/a-new-cms-is-born

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open source audio editing
+title: Open Source Audio Editing
 date: '2005-10-13T14:44:26+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880481814/open-source-audio-editing

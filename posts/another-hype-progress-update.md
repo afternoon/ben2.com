@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Hype progress update
+title: Another Hype Progress Update
 date: '2004-04-12T08:48:18+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880531513/another-hype-progress-update

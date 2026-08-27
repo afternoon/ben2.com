@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Italy photos up
+title: Italy Photos Up
 date: '2003-09-29T08:45:05+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972981876/italy-photos-up

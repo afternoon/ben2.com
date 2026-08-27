@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hype2 notes
+title: Hype2 Notes
 date: '2001-08-30T14:37:41+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058189172/hype2-notes

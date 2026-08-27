@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PHP masked file downloads
+title: PHP Masked File Downloads
 date: '2002-02-21T11:44:23+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058167611/php-masked-file-downloads

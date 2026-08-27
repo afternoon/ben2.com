@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The social web
+title: The Social Web
 date: '2006-10-10T14:04:01+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880446225/the-social-web

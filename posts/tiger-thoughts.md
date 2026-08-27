@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tiger thoughts
+title: Tiger Thoughts
 date: '2004-06-29T20:35:29+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880507376/tiger-thoughts

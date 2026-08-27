@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cycle Cambodia photos now up
+title: Cycle Cambodia Photos Now Up
 date: '2006-12-10T14:52:30+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880440336/cycle-cambodia-photos-now-up

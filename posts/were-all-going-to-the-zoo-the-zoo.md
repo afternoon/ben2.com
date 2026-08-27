@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're all going to the zoo, the zoo...
+title: We're All Going to the Zoo, the Zoo...
 date: '2003-08-04T00:52:47+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973041245/were-all-going-to-the-zoo-the-zoo

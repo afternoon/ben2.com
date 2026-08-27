@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Give your customers free data
+title: Give Your Customers Free Data
 date: '2006-01-26T22:25:41+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880462081/give-your-customers-free-data

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Iraq politic
+title: Iraq Politic
 date: '2004-09-19T18:03:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880503122/iraq-politic

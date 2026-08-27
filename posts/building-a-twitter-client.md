@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a Twitter client
+title: Building a Twitter Client
 date: '2009-01-08T07:27:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880418500/building-a-twitter-client

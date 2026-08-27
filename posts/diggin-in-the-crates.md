@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diggin' in the crates
+title: Diggin' in the Crates
 date: '2005-11-04T05:10:47+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880481278/diggin-in-the-crates

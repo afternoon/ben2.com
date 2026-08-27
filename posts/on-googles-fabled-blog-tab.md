@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Google's fabled blog tab
+title: On Google's Fabled Blog Tab
 date: '2003-05-12T21:38:05+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973145488/on-googles-fabled-blog-tab

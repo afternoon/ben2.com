@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chocks in no way away
+title: Chocks in No Way Away
 date: '2004-07-26T18:41:20+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880505880/chocks-in-no-way-away

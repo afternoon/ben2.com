@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arguing day, 2003, draws to a close
+title: Arguing Day, 2003, Draws to a Close
 date: '2003-06-24T02:56:35+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973110597/arguing-day-2003-draws-to-a-close

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friends page
+title: Friends Page
 date: '2003-12-15T05:12:51+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880562339/friends-page

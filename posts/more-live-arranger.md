@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Live arranger
+title: More Live Arranger
 date: '2003-06-26T03:10:51+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973107851/more-live-arranger

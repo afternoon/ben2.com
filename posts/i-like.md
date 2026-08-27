@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I like
+title: I Like
 date: '2003-11-24T03:07:25+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880574094/i-like

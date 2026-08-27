@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSS suxxors revisited
+title: CSS Suxxors Revisited
 date: '2003-05-13T02:34:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973144951/css-suxxors-revisited

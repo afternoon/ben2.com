@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good point from Martwine
+title: Good Point from Martwine
 date: '2003-04-30T02:18:27+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973222509/good-point-from-martwine

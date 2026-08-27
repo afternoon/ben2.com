@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Specious Notion That Everybody Has To Earn A Living
+title: The Specious Notion That Everybody Has to Earn A Living
 date: '2012-07-13T11:53:42+01:00'
 tags:
 - work

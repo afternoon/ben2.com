@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oh yeah...
+title: Oh Yeah...
 date: '2004-01-12T05:21:03+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880555256/oh-yeah

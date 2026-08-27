@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Router fun
+title: Router Fun
 date: '2003-04-08T19:11:51+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973342602/router-fun

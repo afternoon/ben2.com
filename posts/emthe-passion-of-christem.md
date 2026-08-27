@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Passion Of Christ
+title: The Passion of Christ
 date: '2004-03-16T02:19:49+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880544992/emthe-passion-of-christem

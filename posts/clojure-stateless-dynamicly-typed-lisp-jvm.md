@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clojure: a stateless dynamically-typed Lisp on the JVM'
+title: 'Clojure: A Stateless Dynamically-typed Lisp on the JVM'
 date: '2009-07-21T14:15:38+01:00'
 tags:
 - functionalprogramming

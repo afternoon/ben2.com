@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extreme programming, kind of
+title: Extreme Programming, Kind Of
 date: '2004-03-11T04:40:11+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880546696/extreme-programming-kind-of

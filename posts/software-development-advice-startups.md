@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software development advice for startups
+title: Software Development Advice for Startups
 date: '2009-05-19T21:59:59+01:00'
 tags:
 - startups

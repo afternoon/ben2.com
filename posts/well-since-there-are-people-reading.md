@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Well, since there are people reading...
+title: Well, Since There Are People Reading...
 date: '2002-03-15T00:25:51+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058162070/well-since-there-are-people-reading

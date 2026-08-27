@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New photography
+title: New Photography
 date: '2005-09-29T07:16:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880482730/new-photography

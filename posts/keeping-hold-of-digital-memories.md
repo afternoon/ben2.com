@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keeping hold of digital memories
+title: Keeping Hold of Digital Memories
 date: '2006-06-22T15:16:45+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880450924/keeping-hold-of-digital-memories

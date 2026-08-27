@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perhaps I'm just too old
+title: Perhaps I'm Just Too Old
 date: '2003-04-16T18:08:05+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973261410/perhaps-im-just-too-old

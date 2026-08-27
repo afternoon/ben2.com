@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fabric boss!
+title: Fabric Boss!
 date: '2004-05-17T00:47:18+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880514740/fabric-boss

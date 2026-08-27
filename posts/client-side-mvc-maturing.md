@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Client-side MVC is maturing
+title: Client-side MVC Is Maturing
 date: '2009-03-18T01:52:27+00:00'
 tags:
 - javascript

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 11th lie of the entrpreneur
+title: The 11th Lie of the Entrpreneur
 date: '2006-02-01T15:34:40+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880460932/the-11th-lie-of-the-entrpreneur

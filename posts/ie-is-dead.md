@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IE is dead
+title: IE Is Dead
 date: '2003-06-18T15:14:17+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973112720/ie-is-dead

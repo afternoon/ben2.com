@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week in the rear view mirror
+title: Week in the Rear View Mirror
 date: '2003-06-09T00:33:53+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973118232/week-in-the-rear-view-mirror

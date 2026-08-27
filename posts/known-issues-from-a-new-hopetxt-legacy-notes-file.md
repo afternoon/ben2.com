@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Known Issues from a-new-hope.txt (legacy notes file)
+title: Known Issues from a-new-hope.txt (Legacy Notes File)
 date: '2001-07-25T18:48:47+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058211195/known-issues-from-a-new-hopetxt-legacy-notes-file

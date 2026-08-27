@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 tips for professional site themes on WordPress.com
+title: 5 Tips for Professional Site Themes on WordPress.com
 date: '2009-02-11T10:06:42+00:00'
 tags:
 - wordpress

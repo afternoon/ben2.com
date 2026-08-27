@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mo Hype, mo money
+title: Mo Hype, Mo Money
 date: '2003-07-14T04:19:30+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973074312/mo-hype-mo-money

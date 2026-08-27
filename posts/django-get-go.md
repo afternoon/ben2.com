@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Django get-go
+title: Django Get-go
 date: '2005-12-01T07:18:06+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880472572/django-get-go

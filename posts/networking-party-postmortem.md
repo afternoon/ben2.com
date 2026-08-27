@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Networking Party postmortem
+title: Networking Party Postmortem
 date: '2003-06-16T13:41:33+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973113402/networking-party-postmortem

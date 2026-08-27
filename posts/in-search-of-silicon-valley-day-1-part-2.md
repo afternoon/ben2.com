@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'In search of Silicon Valley: day 1, part 2'
+title: 'In Search of Silicon Valley: Day 1, Part 2'
 date: '2008-11-04T10:02:16+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880422817/in-search-of-silicon-valley-day-1-part-2

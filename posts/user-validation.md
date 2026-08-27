@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User validation
+title: User Validation
 date: '2001-12-10T04:20:21+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058174287/user-validation

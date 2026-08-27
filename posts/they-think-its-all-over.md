@@ -1,6 +1,6 @@
 ---
 layout: post
-title: They think it's all over...
+title: They Think It's All Over...
 date: '2002-10-01T05:12:35+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973382701/they-think-its-all-over

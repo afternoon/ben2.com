@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So cunning etc etc
+title: So Cunning Etc Etc
 date: '2002-03-20T21:08:49+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058161644/so-cunning-etc-etc

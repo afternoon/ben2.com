@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doctests vs unit tests
+title: Doctests vs Unit Tests
 date: '2006-02-24T05:11:48+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880458701/doctests-vs-unit-tests

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Regularity is a symptom of bad code
+title: Regularity Is a Symptom of Bad Code
 date: '2006-10-04T16:20:16+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880447871/regularity-is-a-symptom-of-bad-code

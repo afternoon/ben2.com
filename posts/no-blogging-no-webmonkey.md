@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No blogging, no Webmonkey
+title: No Blogging, No Webmonkey
 date: '2004-02-18T00:03:00+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880551595/no-blogging-no-webmonkey

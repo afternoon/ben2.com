@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Frameworks Night and the attack of the alpha geeks
+title: Web Frameworks Night and the Attack of the Alpha Geeks
 date: '2005-11-18T03:40:39+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880475563/web-frameworks-night-and-the-attack-of-the-alpha-geeks

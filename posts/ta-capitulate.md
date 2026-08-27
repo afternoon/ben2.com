@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TA capitulate
+title: TA Capitulate
 date: '2006-07-03T13:27:26+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880450436/ta-capitulate

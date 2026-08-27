@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The stupid fluctuating world of freelance.
+title: The Stupid Fluctuating World of freelance.
 date: '2003-03-10T17:19:27+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973357358/the-stupid-fluctuating-world-of-freelance

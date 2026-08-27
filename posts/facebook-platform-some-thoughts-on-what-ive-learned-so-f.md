@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Facebook Platform: some thoughts on what I''ve learned so far'
+title: 'Facebook Platform: Some Thoughts on What I''ve Learned so Far'
 date: '2007-05-25T14:16:36+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880431672/facebook-platform-some-thoughts-on-what-ive-learned-so-f

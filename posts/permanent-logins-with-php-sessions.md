@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Permanent logins with PHP sessions
+title: Permanent Logins with PHP Sessions
 date: '2004-05-03T19:09:16+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880521099/permanent-logins-with-php-sessions

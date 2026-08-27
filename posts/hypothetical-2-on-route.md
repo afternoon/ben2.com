@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hypothetical 2 on route
+title: Hypothetical 2 on Route
 date: '2001-09-24T00:45:17+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058182963/hypothetical-2-on-route

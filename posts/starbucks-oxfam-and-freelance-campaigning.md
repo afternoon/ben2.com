@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starbucks, Oxfam and freelance campaigning
+title: Starbucks, Oxfam and freelance Campaigning
 date: '2007-01-26T15:27:37+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880439260/starbucks-oxfam-and-freelance-campaigning

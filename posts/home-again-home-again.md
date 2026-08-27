@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home again, home again
+title: Home Again, Home Again
 date: '2004-02-02T12:39:48+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880553137/home-again-home-again

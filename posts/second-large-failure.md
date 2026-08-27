@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second large failure
+title: Second Large Failure
 date: '2003-03-30T06:04:14+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973347107/second-large-failure

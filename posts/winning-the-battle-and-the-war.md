@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winning the battle, and the war
+title: Winning the Battle, and the War
 date: '2003-08-25T04:25:35+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973030021/winning-the-battle-and-the-war

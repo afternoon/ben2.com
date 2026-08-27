@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Highly recommended
+title: Highly Recommended
 date: '2003-08-07T03:49:15+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973039264/highly-recommended

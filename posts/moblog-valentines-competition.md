@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moblog Valentine's competition!
+title: Moblog Valentine's Competition!
 date: '2006-01-31T15:35:34+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880461473/moblog-valentines-competition

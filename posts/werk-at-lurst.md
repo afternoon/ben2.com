@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Werk at lurst
+title: Werk at Lurst
 date: '2002-05-20T12:55:02+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058153146/werk-at-lurst

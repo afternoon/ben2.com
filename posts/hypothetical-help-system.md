@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hypothetical help system
+title: Hypothetical Help System
 date: '2002-04-08T20:53:32+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058160658/hypothetical-help-system

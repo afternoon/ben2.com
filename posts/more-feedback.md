@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More feedback
+title: More Feedback
 date: '2003-04-28T04:48:58+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973244498/more-feedback

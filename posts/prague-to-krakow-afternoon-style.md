@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prague to Krakow, Afternoon style
+title: Prague to Krakow, Afternoon Style
 date: '2004-09-07T17:43:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880503740/prague-to-krakow-afternoon-style

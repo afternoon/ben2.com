@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm at peace
+title: I'm at Peace
 date: '2003-05-28T04:42:52+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973126941/im-at-peace

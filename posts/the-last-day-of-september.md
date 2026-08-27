@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The last day of september
+title: The Last Day of September
 date: '2003-09-30T18:06:03+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972979234/the-last-day-of-september

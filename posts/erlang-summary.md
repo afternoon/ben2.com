@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Erlang summary
+title: Erlang Summary
 date: '2008-12-01T02:35:00+00:00'
 tags:
 - erlang

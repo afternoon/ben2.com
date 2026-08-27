@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What the future holds
+title: What the Future Holds
 date: '2004-01-07T04:06:15+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880557858/what-the-future-holds

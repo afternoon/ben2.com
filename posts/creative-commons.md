@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creative commons
+title: Creative Commons
 date: '2005-05-18T05:38:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880486928/creative-commons

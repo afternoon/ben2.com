@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advertising in social networks
+title: Advertising in Social Networks
 date: '2007-07-02T03:08:16+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880429887/advertising-in-social-networks

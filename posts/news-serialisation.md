@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News serialisation
+title: News Serialisation
 date: '2001-08-31T01:41:47+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058188127/news-serialisation

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today I got...
+title: Today I Got...
 date: '2001-08-01T01:17:43+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058205235/today-i-got

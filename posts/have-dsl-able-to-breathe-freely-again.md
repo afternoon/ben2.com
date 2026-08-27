@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have DSL, able to breathe freely again
+title: Have DSL, Able to Breathe Freely Again
 date: '2003-09-02T06:10:56+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973025752/have-dsl-able-to-breathe-freely-again

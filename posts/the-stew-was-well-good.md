@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The stew was well good
+title: The Stew Was Well Good
 date: '2003-06-09T03:46:23+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973117769/the-stew-was-well-good

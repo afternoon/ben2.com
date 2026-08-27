@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL configuration files
+title: MySQL Configuration Files
 date: '2003-09-24T02:38:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972988164/mysql-configuration-files

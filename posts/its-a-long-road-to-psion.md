@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's a long road to Psion
+title: It's a Long Road to Psion
 date: '2001-08-13T13:39:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058202638/its-a-long-road-to-psion

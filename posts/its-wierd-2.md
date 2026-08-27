@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's wierd (2)
+title: It's Wierd (2)
 date: '2001-08-23T18:25:40+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058190424/its-wierd-2
