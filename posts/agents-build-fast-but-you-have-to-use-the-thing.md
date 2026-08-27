@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agents Build Fast But You Have To Use The Thing"
-date: "2026-08-27T18:00:00+01:00"
+date: "2026-08-17T18:04:14+00:00"
 tags: ["agentic-engineering", "claude"]
 ---
 Dynamic workflows can build genuinely complex software. Over about four weeks of evenings and one holiday, Claude merged 150 PRs into [Groove](https://github.com/afternoon/solid-groove), my web-based DAW side project — 45 of them in a single day — turning a stuck prototype into an app I could [deploy and open](https://groove-35c07.web.app).
