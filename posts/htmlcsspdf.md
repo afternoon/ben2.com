@@ -4,7 +4,7 @@ title: "htmlcsspdf: A Tool For Quickly Creating Beautiful PDFs"
 date: "2026-08-28T11:21:00+01:00"
 tags: ["html", "css", "pdf"]
 ---
-[htmlcsspdf](https://htmlcsspdf.ben2.workers.dev/) lets you generate PDFs from HTML and CSS with a live preview. If that sounds like an almost masochistic way to create documents, let me explain.
+[htmlcsspdf](https://htmlcsspdf.ben2.com/) lets you generate PDFs from HTML and CSS with a live preview. If that sounds like an almost masochistic way to create documents, let me explain.
 
 Creating a beautiful document takes time and attention to detail. Updating it later can then be painful. Agents are great for trying out content changes, but they struggle to preserve a document's design in document formats like docx or PDF. They don't yet have the eye for detail that humans have.
 
