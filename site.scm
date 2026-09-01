@@ -16,7 +16,9 @@
 (define (page-head page-title page-description canonical-url)
   `(head
     (meta ((charset "utf-8")))
-    (link ((rel "icon") (type "image/png") (href "/favicon.png")))
+    (link ((rel "icon") (type "image/png") (sizes "32x32") (href "/favicon.png")))
+    (link ((rel "icon") (type "image/png") (sizes "192x192") (href "/icon-192.png")))
+    (link ((rel "apple-touch-icon") (href "/apple-touch-icon.png")))
     (meta ((name "viewport") (content "width=device-width,initial-scale=1")))
     (link ((rel "sitemap") (href "/sitemap-index.xml")))
     (link ((rel "alternate") (type "application/rss+xml") (title ,title) (href ,(string-append site-url "/rss.xml"))))
