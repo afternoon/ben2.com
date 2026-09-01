@@ -9,3 +9,6 @@ build/
 
 # wrangler stuffs
 .wrangler/
+
+# Claude's worktrees
+.claude/worktrees/
