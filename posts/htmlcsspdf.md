@@ -12,4 +12,13 @@ For writing code, tools like [codepen](https://codepen.io) are great sandboxes f
 
 I wanted a workflow to update my document _content_ quickly without having to redo all the _styling_. This is the exact separation that HTML and CSS were created for. CSS is a wildly powerful tool for implementing design that flexes with different content.
 
-All that was missing was a tool with preview, reducing editing friction and shortening the feedback loop. So I built it. This version is basic, you can't save files, but you can use an agent browser extension to create content. Try uploading an existing doc and asking the agent to create the HTML and CSS for you.
+All that was missing was a tool with preview, reducing editing friction and shortening the feedback loop. So I built it.
+
+**Update, Sep 1**: You can now create documents by dragging and dropping files. You can also use htmlcsspdf from agents via MCP. Install the plugin to use it from Claude Code:
+
+```claude-code
+/plugin marketplace add afternoon/htmlcsspdf
+/plugin install htmlcsspdf@htmlcsspdf
+```
+
+To use it with other agents, ask it how to install a custom MCP server.
