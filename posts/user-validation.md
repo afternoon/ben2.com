@@ -1,7 +1,7 @@
 ---
 layout: post
 title: User Validation
-description: "Hype 1 has many users who are nobodies, they don’t post, they probably don’t read, they just don’t care [sob]. Alterations include real user being created when the password is changed."
+description: "Hype 1 has many users who are nobodies, they don’t post, they probably don’t read, they just don’t care sob. Alterations include real user being created when the password is changed."
 date: '2001-12-10T04:20:21+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058174287/user-validation

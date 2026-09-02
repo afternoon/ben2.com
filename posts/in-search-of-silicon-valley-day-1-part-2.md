@@ -4,7 +4,7 @@ title: 'In Search of Silicon Valley: Day 1, Part 2'
 date: '2008-11-04T10:02:16+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880422817/in-search-of-silicon-valley-day-1-part-2
-description: "\\\\\\\" It's a party for the election, which kills two birds with one stone. I also met one of Yahoo's mobile team and we exchanged mobile anecdotes. org office in SF (not Mountain View sadly, will have to find another way to get down there). I'm looking forward to meeting."
+description: "\\\" It's a party for the election, which kills two birds with one stone. I also met one of Yahoo's mobile team and we exchanged mobile anecdotes. org office in SF (not Mountain View sadly, will have to find another way to get down there). I'm looking forward to meeting."
 ---
 <p>I went along to the Mobile 2.0 drinks and met a good mix of people. Some locals, which means I now have a list of coffee places in Mission to hit. Plus, it was just over 24 hours after I landed that someone said the magic words: &ldquo;So are you going to the Digg party tomorrow?&rdquo; It&rsquo;s a party for the election, which kills two birds with one stone. Ideal!</p>
 <p>I also met some more industry people. It was especially good to meet the guys from mobile search engine <a href="http://taptu.com/">Taptu</a>. Ironic that we meet here given that they are Cambridge-based. I also met one of Yahoo&rsquo;s mobile team and we exchanged mobile anecdotes.</p>

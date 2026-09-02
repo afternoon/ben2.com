@@ -4,7 +4,7 @@ title: Accenture First Round Phone Interview
 date: '2003-08-21T14:03:54+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973035039/accenture-first-round-phone-interview
-description: " Getting back into the routine of everyday blogging, it makes no sense to block blog activity until I’m ready to do the holiday post, that way leads to never blogging again :-) Anyway, I just had a first round telephone interview with International Consultation MegaCorp Accenture ."
+description: "Getting back into the routine of everyday blogging, it makes no sense to block blog activity until I’m ready to do the holiday post, that way leads to never blogging again :-) Anyway, I just had a first round telephone interview with International Consultation MegaCorp Accenture ."
 ---
 <p>Getting back into the routine of everyday blogging, it makes no sense to block blog activity until I&rsquo;m ready to do the holiday post, that way leads to never blogging again :-)</p>
 <p>Anyway, I just had a first round telephone interview with International Consultation MegaCorp <a href="http://www.accenture.com/">Accenture</a>. They are recruiting a fairly large number of software people to work on big projects within their technology services department (I think).</p>

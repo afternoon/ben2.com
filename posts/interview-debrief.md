@@ -4,7 +4,7 @@ title: Interview Debrief
 date: '2003-03-11T03:14:18+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973356500/interview-debrief
-description: "It was an interview as well, it said \\\\\\\"chat\\\\\\\" on the invite but never mind. I think I did OK, we gelled at least a bit and I managed to break things down a bit by stumbling into discussions they were having and joining in. Overall I think I came."
+description: "It was an interview as well, it said \\\"chat\\\" on the invite but never mind. I think I did OK, we gelled at least a bit and I managed to break things down a bit by stumbling into discussions they were having and joining in. Overall I think I came."
 ---
 <p>I went to my interview. It was an interview as well, it said &ldquo;chat&rdquo; on the invite but never mind. Me and three guys who I would be working with if I got the job.</p>
 <p>I think I did OK, we gelled at least a bit and I managed to break things down a bit by stumbling into discussions they were having and joining in. They were a fairly diverse group, one was clearly a programmer and asked me lots of tricky Java questions, none of which I really fumbled too badly, although it&rsquo;s hard to tell. The other two seemed more in the admin side of things. I think I was OK there as well, I admitted that although I was experienced as a Windows user I&rsquo;m not the greatest Windows admin, which I suspect may cause weaken my chances.</p>

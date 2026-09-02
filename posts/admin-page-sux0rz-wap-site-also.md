@@ -4,7 +4,7 @@ title: Admin  Page SUX0Rz, WAP Site Also
 date: '2001-07-26T13:22:49+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058208977/admin-page-sux0rz-wap-site-also
-description: " The admin page takes ages and ages and ages to load. The site needs a proper Admin _AREA_ instead. The completed version needs to be secure as well, although I can’t see why I need to go much further than the PHP user login combined with the htaccess password."
+description: "The admin page takes ages and ages and ages to load. The site needs a proper Admin AREA instead. The completed version needs to be secure as well, although I can’t see why I need to go much further than the PHP user login combined with the htaccess password."
 ---
 <p>The admin page takes ages and ages and ages to load. This is because it&rsquo;s loads of stuff lumped into one page. The solution is modularisation. The site needs a proper Admin _AREA_ instead. Modules include:</p>
 <ul>

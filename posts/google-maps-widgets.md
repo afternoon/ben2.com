@@ -4,7 +4,7 @@ title: Google Maps Widgets
 date: '2007-08-22T15:11:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880428930/google-maps-widgets
-description: "So you can embed Google Maps really easily now. Just click \\\\\\\"Link to this page\\\\\\\" at the top right corner of the map, as well as an url, you'll get some HTML to cut 'n paste."
+description: "So you can embed Google Maps really easily now. Just click \\\"Link to this page\\\" at the top right corner of the map, as well as an url, you'll get some HTML to cut 'n paste."
 ---
 <p>So you can embed Google Maps really easily now. I just had to try it. Here&rsquo;s a map of where I work at <a href="http://mymart.com">MyMart</a>.</p>
 

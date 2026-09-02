@@ -1,7 +1,7 @@
 ---
 layout: post
 title: v0.2 Speeling
-description: "The results can be output with speeling mistaks highlighted somehow. or even [sharp intake of breath] correcting colour to color! pspell is enabled on Gradwell, using it is as easy as a short call that takes the message, and runs pspell check on every non HTML word."
+description: "The results can be output with speeling mistaks highlighted somehow. or even sharp intake of breath correcting colour to color! pspell is enabled on Gradwell, using it is as easy as a short call that takes the message, and runs pspell check on every non HTML word."
 date: '2001-11-21T01:21:47+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058176373/v02-speeling

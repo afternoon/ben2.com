@@ -6,7 +6,7 @@ tags:
 - erlang
 - otp
 tumblr_url: https://aftnn.org/post/47880419107/erlang-summary
-description: "\\\\\\\" The first part was a bit slow for a someone familiar with other functional languages. It may just be a passing fad, but it has delivered some heavyweight systems. Armstrong designed and implemented the first version of Erlang in 1986."
+description: "\\\" The first part was a bit slow for a someone familiar with other functional languages. It may just be a passing fad, but it has delivered some heavyweight systems. Armstrong designed and implemented the first version of Erlang in 1986."
 ---
 <p>I just finished reading Joe Armstrong&rsquo;s &ldquo;<a href="http://www.pragprog.com/titles/jaerlang/programming-erlang">Programming Erlang: Software for a Concurrent World</a>.&rdquo; The first part was a bit slow for a someone familiar with other functional languages. I thought a brief summary of the language might be useful.</p>
 

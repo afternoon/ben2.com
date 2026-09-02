@@ -4,7 +4,7 @@ title: Card Sorting
 date: '2003-11-27T07:15:25+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880569359/card-sorting
-description: " Or “My customers can’t find anything on my site!” A very tricky problem in web design is how to organise the information on the site into categories. Card sorting solves this problem in a way that’s really pretty obvious."
+description: "Or “My customers can’t find anything on my site!” A very tricky problem in web design is how to organise the information on the site into categories. Card sorting solves this problem in a way that’s really pretty obvious."
 ---
 <p>Or &ldquo;My customers can&rsquo;t find anything on my site!&rdquo;</p>
 <p>A very tricky problem in web design is how to organise the information on the site into categories. Card sorting solves this problem in a way that&rsquo;s really pretty obvious.</p>

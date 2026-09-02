@@ -4,7 +4,7 @@ title: Draws Nearer...
 date: '2002-09-28T22:42:22+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973383768/draws-nearer
-description: " I made a goodbye stencil: The little red text says “Goodbye City Road.” The ink ran really badly on the fairly shiny door paint. So today I’ve done that and copied all my files off my big storage drive in the server."
+description: "I made a goodbye stencil: The little red text says “Goodbye City Road.” The ink ran really badly on the fairly shiny door paint. So today I’ve done that and copied all my files off my big storage drive in the server."
 ---
 <p>I made a goodbye stencil:</p>
 <p><img src="/stuff/journal_src/thesign.jpg" alt="Norwich to London"/></p>

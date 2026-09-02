@@ -7,7 +7,7 @@ tags:
 - drupal
 - webmachine
 tumblr_url: https://aftnn.org/post/47880411928/django-drupal-webmachine-different-frameworks-different
-description: " Django is an awesome framework but different projects have different needs. Easy hacking, easy scaling Newer frameworks seek to make initial implementation easy and scaling easy too. Webmachine is undoubtedly somewhat harder to code for than Django, there are less batteries included, but, in theory at least, scaling is easier."
+description: "Django is an awesome framework but different projects have different needs. Easy hacking, easy scaling Newer frameworks seek to make initial implementation easy and scaling easy too. Webmachine is undoubtedly somewhat harder to code for than Django, there are less batteries included, but, in theory at least, scaling is easier."
 ---
 <p><a href="http://www.djangoproject.com/">Django</a> is an awesome framework but different projects have different needs. The last 2 projects I&rsquo;ve been involved with have been using <a href="http://drupal.org/">Drupal</a>. Other projects I&rsquo;m planning call for very RESTful designs. <a href="http://bitbucket.org/justin/webmachine/wiki/Home">Webmachine</a>, an Erlang framework, is a great fit for these.</p>
 

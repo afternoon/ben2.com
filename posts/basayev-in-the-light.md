@@ -4,7 +4,7 @@ title: Basayev in the Light
 date: '2005-08-04T04:15:53+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880484864/basayev-in-the-light
-description: " Shamil Basayev emerges out of Chechnya like a primal force. The Russians have not been able to paint the clear-cut picture of Chechnya as home of Basayev the terrorist they would like because they themselves are at fault also."
+description: "Shamil Basayev emerges out of Chechnya like a primal force. The Russians have not been able to paint the clear-cut picture of Chechnya as home of Basayev the terrorist they would like because they themselves are at fault also."
 ---
 <p>Shamil Basayev emerges out of Chechnya like a primal force. From a region of such chaos, destroyed cities, horrific abuses of corrupt federals and terrible punishments exacted by rebels driven by a need for horrific revenge, he&rsquo;s a rock. He is a brutal, brutal man and a fascinating one. Starting out as a soldier, his real skill is for terror, he looms like a comic book supervillain, decimating the pro-Russian population of the north Caucasus and killing indiscriminately in hospitals and schools. He&rsquo;s an anachronism, seemingly keeping the second Chechen war going single handedly as all it&rsquo;s other leaders fall fowl to the steady pressure of the Russians.</p>
 <p>But suddenly he&rsquo;s on TV. Channel 4 screened <a href="http://www.channel4.com/news/2005/02/week_1/03_basayev.html">an interview with him</a> in February, in the aftermath of Beslan. He responded to questions sent via middlemen. Now ABC has screened a <a href="http://abcnews.go.com/Nightline/International/story?id=990187&amp;page=1">face-to-face interview conducted by Andrei Babitsky</a>, severely irritating the Russian government.</p>

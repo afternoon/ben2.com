@@ -4,7 +4,7 @@ title: Appletalk Forwarding Over SSH
 date: '2003-09-08T06:49:32+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973006524/appletalk-forwarding-over-ssh
-description: " ssh -L 5548:127.0.0.1:548 user@host If the box you’re SSHing to is the machine you want to Appletalk to. The SSH terminal session must be active for the forwarding to be open, unfortunately. "
+description: "ssh -L 5548:127.0.0.1:548 user@host If the box you’re SSHing to is the machine you want to Appletalk to. The SSH terminal session must be active for the forwarding to be open, unfortunately."
 ---
 <p class="eg"><code>ssh -L 5548:127.0.0.1:548 user@host</code></p>
 <p>If the box you&rsquo;re SSHing to is the machine you want to Appletalk to. Awesome. Otherwise change 127.0.0.1 to the name of the server you want to talk to <em>as the remote machine sees it</em>.</p>
