@@ -13,6 +13,29 @@
       `(meta ((,name-attr ,name-value) (content ,description)))
       `(meta ((,name-attr ,name-value)))))
 
+(define (strip-html-tags value)
+  (let ([tag (split-many value "<")])
+    (if (> (length tag) 1)
+        (let ([tag-end (split-many (cadr tag) ">")])
+          (if (> (length tag-end) 1)
+              (strip-html-tags (string-append (car tag) (cadr tag-end)))
+              value))
+        value)))
+
+(define (first-paragraph post-content)
+  (let ([paragraph-start (split-many post-content "<p>")])
+    (if (> (length paragraph-start) 1)
+        (let ([paragraph-end (split-many (cadr paragraph-start) "</p>")])
+          (if (> (length paragraph-end) 1)
+              (trim (strip-html-tags (car paragraph-end)))
+              ""))
+        "")))
+
+(define (page-description-or-default page-description)
+  (if (> (string-length page-description) 0)
+      page-description
+      description))
+
 (define (page-head page-title page-description canonical-url)
   `(head
     (meta ((charset "utf-8")))
@@ -26,15 +49,15 @@
     (link ((rel "canonical") (href ,canonical-url)))
     (title ,page-title)
     (meta ((name "title") (content ,page-title)))
-    ,(meta-with-optional-content "name" "description" page-description)
+    ,(meta-with-optional-content "name" "description" (page-description-or-default page-description))
     (meta ((property "og:type") (content "website")))
     (meta ((property "og:url") (content ,canonical-url)))
     (meta ((property "og:title") (content ,page-title)))
-    ,(meta-with-optional-content "property" "og:description" page-description)
+    ,(meta-with-optional-content "property" "og:description" (page-description-or-default page-description))
     (meta ((property "twitter:card") (content "summary_large_image")))
     (meta ((property "twitter:url") (content ,canonical-url)))
     (meta ((property "twitter:title") (content ,page-title)))
-    ,(meta-with-optional-content "property" "twitter:description" page-description)
+    ,(meta-with-optional-content "property" "twitter:description" (page-description-or-default page-description))
     (link ((rel "stylesheet") (href "/global.css")))))
 
 (define (site-header)
@@ -109,7 +132,12 @@
         [post-id (hash-ref post-metadata 'id)])
     (page
       (string-append post-title " – " title)
-      description
+      (if (> (string-length description) 0)
+          description
+          (let ([paragraph (first-paragraph post-content)])
+            (if (> (string-length paragraph) 0)
+                paragraph
+                post-title)))
       (string-append site-url "/posts/" post-id "/")
       `((article
           (div ((class "prose"))
