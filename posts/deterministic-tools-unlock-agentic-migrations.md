@@ -3,7 +3,7 @@ layout: post
 title: "Deterministic Tools Unlock Agentic Migrations"
 date: "2026-08-27T11:26:00+01:00"
 tags: ["claude", "agentic-engineering", "migration"]
-description: "I tasked Claude with migrating Groove my web DAW side project, to Solid 2 and it immediately built such a tool It's basically just grep, but it allows Claude to objectively measure the progress of the migration, and it prevents future engineers, agent or human, from accidentally introducing regressions. The."
+description: "I tasked Claude with migrating Groove my web DAW side project to Solid 2 and it immediately built a tool to check for uses of Solid 1. Tools like this allow agents to objectively measure the progress of their work during migrations, and it prevents future engineers, agent or human, from accidentally introducing regressions."
 ---
 One of the areas where agents hold most promise is migration work, like upgrading to the latest version of a key dependency, or reworking the implementation of a key subsystem. This work has always been challenging to prioritise. It's risky, hard and often very boring. The value is hard to estimate, and doesn't accrue until some unknown future date. Teams kick the can down the road. This compounds: the older the dependency, the more changes to APIs, to patterns, the wider the gap and the more challenging the migration. Eventually it becomes impossible to avoid, perhaps when a long-term support version expires, and security patches are no longer forthcoming.
 
