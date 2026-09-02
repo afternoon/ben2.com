@@ -4,6 +4,7 @@ title: London Terror Bombs; City Not on Fire
 date: '2005-07-08T14:48:37+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880485785/london-terror-bombs-city-not-on-fire
+description: "Very little panic on the streets of London. I just want to see what it's like on the streets. What really furrows my brow is the portrayal of extremists as cartoon bad guys and very limited desire to try and understand what's going on here."
 ---
 <p>Very little panic on the streets of London.</p>
 <p>We had expected it for ages, I remember seriously getting the fear that it was imminent about three months after Madrid. Last night and today the atmosphere I&rsquo;m hearing from friends is one of &ldquo;we will prevail&rdquo; and such. I&rsquo;m actually itching to get up into the centre of town. I&rsquo;ve been watching from the sidelines and yet I&rsquo;m so close by. If I had a bike I would go ride round Westminster, Oxford Street and Holborn today. I could borrow Louise&rsquo;s I guess, but it&rsquo;s too small. I just want to see what it&rsquo;s like on the streets.</p>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tempura, Web Apps
+description: "The second is a tricky problem without a great solution. At least this way if the user does submit an out of date form this problem can be caught and the user warned. They create a programming language which is type checked with respect to web forms."
 date: '2003-10-16T03:34:40+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972972036/tempura-web-apps

@@ -4,6 +4,7 @@ title: 'Facebook Platform: Some Thoughts on What I''ve Learned so Far'
 date: '2007-05-25T14:16:36+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880431672/facebook-platform-some-thoughts-on-what-ive-learned-so-f
+description: "The interwebs are on fire today with news of the Facebook Platform , announced last night (yesterday US). \\\\\\\" The example that Mark Zuckerberg used in his speech was events. Facebook point to three key points on the platform site, so I'll use that structure. Jia Shen of widget company."
 ---
 <p>The interwebs are on fire today with news of the <a href="http://developers.facebook.com/">Facebook Platform</a>, announced last night (yesterday US).</p>
 <p>Facebook are saying &ldquo;we&rsquo;ve grown so big, growing isn&rsquo;t a concern any more, now it&rsquo;s keeping people, so we&rsquo;re going to let Facebook be the network of friendships that underpins all the applications you use.&rdquo; The example that Mark Zuckerberg used in his speech was events. 3x as many people get invited to stuff on Facebook as on Evite. That&rsquo;s because I&rsquo;m inviting my friends and that network (I have 40 right now, I&rsquo;m a loser) is much more developed than the list of emails I will cut and paste will ever be. Everything is done in the context of friends, much like in life. An existing and very rich friendship graph is an excellent foundation on which to build a lot of applications.</p>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spread Firefox, Make a World Record
+description: "Spread Firefox, Make a World Record"
 date: '2008-06-18T14:32:25+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880425461/spread-firefox-make-a-world-record

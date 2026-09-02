@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A humorous visual post featuring a Web 2.0 logo design, accompanied by a sardonic observation about the billions of investment supposedly surrounding the trend. It captures the period's enthusiasm and hype around Web 2.0 branding in just a few words."
 title: Web 2.0 Logo Jam
 date: '2006-02-07T03:18:50+00:00'
 tags: []

@@ -4,6 +4,7 @@ title: MySpace Marketing 1-2-3
 date: '2007-11-27T13:09:13+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880427758/myspace-marketing-1-2-3
+description: "A friend of mine runs a children's theatre company and wanted to build a site to promote herself. Make friends with people who are doing similar things, people you admire, anyone. When people search around or come straight to your site because they want to work with someone like you,"
 ---
 <p>A friend of mine runs a children&rsquo;s theatre company and wanted to build a site to promote herself. I recommended she use MySpace instead and gave her a rough strategy for marketing through MySpace.</p>
 

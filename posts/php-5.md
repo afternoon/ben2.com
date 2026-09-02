@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on php 5, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: PHP 5
 date: '2003-12-04T22:28:01+00:00'
 tags: []

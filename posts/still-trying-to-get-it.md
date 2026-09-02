@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Still Trying to Get It
+description: "Don’t reinvent the wheel !"
 date: '2003-10-24T05:52:26+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972962992/still-trying-to-get-it

@@ -4,6 +4,7 @@ title: 'Global Challenge: Cambodia'
 date: '2006-03-08T15:29:52+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880457632/global-challenge-cambodia
+description: "In November, Louise and I are going to ride 475km through Cambodia and Vietnam to raise money for Oxfam! We'll also be blogging (and moblogging) about our training and the event itself soon."
 ---
 <p>Project O revealed!</p>
 

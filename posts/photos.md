@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on photos, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Photos
 date: '2003-06-13T05:38:48+01:00'
 tags: []

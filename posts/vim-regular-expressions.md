@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vim Regular Expressions
+description: "A useful guide to using regular expressions in Vim , which is bit different from Perl or Posix systems."
 date: '2003-12-15T03:50:38+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880562904/vim-regular-expressions

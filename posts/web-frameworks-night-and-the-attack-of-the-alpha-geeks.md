@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A report from Web Frameworks Night comparing Catalyst, Django and Ruby on Rails, with particular attention to Django's Python stack, ORM, reuse and generated administration. The author considers rebuilding InfoCMS around similar ideas, while also recounting an inspiring conversation with a generative-media consultant."
 title: Web Frameworks Night and the Attack of the Alpha Geeks
 date: '2005-11-18T03:40:39+00:00'
 tags: []

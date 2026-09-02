@@ -4,6 +4,7 @@ title: Matrix Reloaded
 date: '2003-06-02T04:04:11+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973123304/matrix-reloaded
+description: "Well, what to say? However, the much touted burly brawl demonstrated how far CGI has yet to go, particularly in animation. If they'd managed to keep the pace a bit more constant, livened up and decheesed the plot and made the fight scenes fit in a bit more smoothly, it"
 ---
 <p>Well, what to say? You know already. You&rsquo;ve seen it in <em>Attack of the Clones</em> and in <em>the Two Towers</em>. Sequels, more to the point, second-of-trilogy films, are a disappointment.</p>
 <p><em>The Matrix</em> exploded on to the screen. There was a buzz for ages and amongst people who don&rsquo;t go for buzz easily. It raised the SFX bar (though not as much as Joel Silver likes to think) and it combined a neat plot idea and a neat film-making innovation nicely. <em>Reloaded</em> didn&rsquo;t. Like so many sequels before it, it barely nudged it&rsquo;s head over the bar. It&rsquo;s a lot better than <em>Towers</em> though, which was downright dull.</p>

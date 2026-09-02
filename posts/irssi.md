@@ -4,6 +4,7 @@ title: irssi
 date: '2004-02-19T06:46:30+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880549950/irssi
+description: "Then again it wouldn't be able to do it's funky windows business. Using IRC and Irssi's Perl support has made me think lots about scripting and bots. Some of the thinking here is based around the idea that IRC can serve as a meeting place. IRC is a simple beast,."
 ---
 <p>Been messing about with <a href="http://www.irssi.org">irssi</a>, which is definitely better than either ircII or BitchX. BitchX is the Emacs of IRC clients, funky and colourful though it is. Irssi is much more chill and is scriptable in Perl. I prefer the ircII scroll style of just letting text go off the top of the screen though. That way I can just scroll up with my wheel to see what&rsquo;s been going on. Then again it wouldn&rsquo;t be able to do it&rsquo;s funky windows business. It doesn&rsquo;t matter too much now I&rsquo;ve worked out how to scroll up! In OS X, there is no meta key by default. There is an option in Terminal to use the option key though. Why the fuck this isn&rsquo;t turned on by default I don&rsquo;t know. I turned on a few other things as well, like terminal bell.</p>
 <p>Using IRC and Irssi&rsquo;s Perl support has made me think lots about scripting and bots. Here is a quick rundown of the script ideas I&rsquo;ve had in the last few days:</p>

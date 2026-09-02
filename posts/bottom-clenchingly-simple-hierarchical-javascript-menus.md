@@ -4,6 +4,7 @@ title: Bottom-clenchingly Simple Hierarchical Javascript Menus
 date: '2003-04-25T04:26:14+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973255312/bottom-clenchingly-simple-hierarchical-javascript-menus
+description: "To explain, imagine Blah and Blah 2 have been clicked and Blah 3 is visible. But if you click Blah again, Blah 3 will still be visible under Blah 2."
 ---
 <ol>
 <li>

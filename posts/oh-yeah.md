@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on oh yeah..., drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Oh Yeah...
 date: '2004-01-12T05:21:03+00:00'
 tags: []

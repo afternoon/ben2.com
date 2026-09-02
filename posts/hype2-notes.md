@@ -4,6 +4,7 @@ title: Hype2 Notes
 date: '2001-08-30T14:37:41+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058189172/hype2-notes
+description: "2 notes, AYHABTU being the code for Hype. Anyway, the key to success is persistance, luckily the key to persistance is not success. Containers are pages that can include portlets (portlets being actual bits of functionality)."
 ---
 <p>Technically it should be All Your Homepage Are Belong to Us v0.2 notes, AYHABTU being the code for Hype.</p>
 <p>Anyway, the key to success is persistance, luckily the key to persistance is not success. Other wise I be stuck. ANYWAY, the key to Hype2 is one of those nice page tree diagrams that Soup get through so many of. Draw one of those, with every single page on it, soon everything will become clear&hellip;</p>

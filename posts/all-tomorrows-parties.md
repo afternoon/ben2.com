@@ -4,6 +4,7 @@ title: All Tomorrow's Parties
 date: '2005-12-05T20:07:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880472072/all-tomorrows-parties
+description: "But one track was wicked, featuring the chorus thus: Quintron: I’m a fuckin’ badass Pussycat (and us): I’m a fuckin’ badass Quintron: You’re a fuckin’ badass Pussycat (and us): You’re a fuckin’ badass Quintron: Muthafuckin’ badass Pussycat (and us): Muthafuckin’ badass Bad ass."
 ---
 <p>Just got back from <a href="http://">ATP</a>, a small festival based in a holiday camp on Camber Sands on England&rsquo;s south coast. The event is curated each year by a particular band who chooses the artists that will play - basically their friends, label-mates and influences. This year was curated by The Mars Volta, who I&rsquo;d never heard of, and who turned out to be white-afro-wearin prog rockers who weren&rsquo;t all that great. They chose some gooood music though, mostly on the psychedlic/kraut-rock side, with some hip hop, some metal, a dab of jazzy trip hop and Anthony and The Johnsons. Who hold the dubious Mercury Music Prize and so hence I could not give a fuck about. Had heard of only a small number of the bands that were playing, having booked it pretty much on the back of Michael Rother, Damo Suzuki and Holger Czukay playing (and a good bunch of people going :-).</p>
 <h2>Friday</h2>

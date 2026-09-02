@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A weekly update about working in Norwich, settling back into a productive routine and designing an intranet, alongside reflections on link-heavy navigation and web projects. The author also discusses travel, domestic life and the practical pressures of keeping several strands of work moving."
 title: Week in, Week Out
 date: '2003-09-15T04:55:04+01:00'
 tags: []

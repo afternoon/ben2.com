@@ -4,6 +4,7 @@ title: Blueteeth
 date: '2003-07-05T04:27:37+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973088891/blueteeth
+description: "It and the Mac totally love each other: iSync merged my calendars and contacts seemlessly System Prefs picked up on the phone for use as a network interface With the Salling Clicker , I can remote control Mac apps through Applescript."
 ---
 <p>I got a Bluetooth dongle today. It&rsquo;s neat, installation was a case of sticking it in the USB port. My new phone (<a href="http://www.sonyericsson.com/uk/spg.jsp?template=PS1&amp;B=ie&amp;PID=10055&amp;LM=PSM_V&amp;gal=105">Sony Ericsson T610</a>) has Bluetooth. It and the Mac totally love each other:</p>
 <ul>

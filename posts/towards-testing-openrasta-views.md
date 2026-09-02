@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Towards Testing OpenRasta Views (OR 2.0.3, .NET 4, VS 2010)
+description: "My employer is a .NET shop. I’m building a RESTful XML service with OpenRasta. A quick note about Web.config I want to do the same thing to my OpenRasta views."
 date: '2010-06-18T19:38:26+01:00'
 tags:
 - openrasta

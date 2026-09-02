@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A dense, playful description of an interactive meta-art work containing ten minimal Flash engines for making absurd audio-visual compositions. It frames generative digital media through flux, surveillance imagery, loops and hyper-real environments, blending art criticism, futuristic language and an intentionally chaotic ASCII signature."
 title: Work of Meta-Art in the Age of Generative Reproduction
 date: '2003-05-01T22:03:38+01:00'
 tags: []

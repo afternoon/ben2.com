@@ -4,6 +4,7 @@ title: Italia
 date: '2003-09-23T09:12:04+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972989013/italia
+description: "I've been writing this down in bits here and there, finally I found some time to finish it all. BTW, I have actually been working solidly since my last post, so I won't get fired for another day at least. I think it's one of their ways of keeping the."
 ---
 <p>I&rsquo;ve been writing this down in bits here and there, finally I found some time to finish it all. It&rsquo;s been nearly six weeks since we flew back, so some of the details might be hazy or even, sharp intake of breath, wrong. Sorry.</p>
 <p>BTW, I have actually been working solidly since my last post, so I won&rsquo;t get fired for another day at least.</p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A Christmas diary entry about hosting Louise's family, preparing vegetarian chestnut parcels, eating and sleeping through the holiday, and enjoying a relaxed family celebration. The author also reflects on gifts, domestic routines and the unusual title's connection to the Delia Derbyshire music being played."
 title: Woo-oooo-oo-ooo
 date: '2002-12-27T05:57:16+00:00'
 tags: []

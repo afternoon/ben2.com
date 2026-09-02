@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Speaking About AngularJS at the Excellent #Theleaddev Conference"
+description: "Speaking About AngularJS at the Excellent #Theleaddev Conference"
 date: '2015-09-16T23:32:40+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/129241668667/speaking-about-angularjs-at-the-excellent

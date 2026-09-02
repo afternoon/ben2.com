@@ -4,6 +4,7 @@ title: George Soros and American Supremacy
 date: '2003-12-03T02:51:50+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880567653/george-soros-and-american-supremacy
+description: "George Soros has come out against Bush, big-time, effectively pledging as much cash as is required to defeat him. As does a K5 MLP post , or, more specifically, the comments. Mat linked to the talking Ann Coulter doll today, eugh, the hideousness. If Ann Coulter turned up for a."
 ---
 <p>George Soros has come out against Bush, big-time, effectively pledging as much cash as is required to defeat him. Soros has $7bn to play with.</p>
 <p>An <a href="http://www.theatlantic.com/issues/2003/12/soros.htm">article by Soros attacking Bush&rsquo;s foreign policy</a>, published in the Atlantic, makes pretty interesting reading. As does a <a href="http://www.kuro5hin.org/story/2003/12/1/1745/18873">K5 MLP post</a>, or, more specifically, the comments.</p>

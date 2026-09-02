@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A rushed visit to the zoo leads to a tour of major attractions including lions, tigers, giraffes, gorillas, chimpanzees, tamarins and anacondas. The author recounts what the group managed to see in limited time, what they missed, and the pleasures of an improvised day out."
 title: We're All Going to the Zoo, the Zoo...
 date: '2003-08-04T00:52:47+01:00'
 tags: []

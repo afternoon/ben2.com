@@ -4,6 +4,7 @@ title: MultiInfoCMS
 date: '2004-11-18T02:55:50+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880500280/multiinfocms
+description: "An InfoCMS-alike . One way to do it would be to use rewrite rules to pass requests to the same code but adding query string flags. Also, a recipe for the ultimate blog"
 ---
 <p>An <a href="http://www.hut.fi/u/hsivonen/cms/te.html">InfoCMS-alike</a>.</p>
 

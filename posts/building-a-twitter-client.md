@@ -4,6 +4,7 @@ title: Building a Twitter Client
 date: '2009-01-08T07:27:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880418500/building-a-twitter-client
+description: "Until yesterday, the documentation for that method said it would return “up to 100 of the authenticating user’s friends who have most recently updated.” I.e. that the sort order is the created_at time of each friend’s latest status update. Followize adds those friends to a Gnip filter of Twitter users."
 ---
 <p>I&rsquo;m a keen twitterer. When I read my tweets I see find that certain voices shout louder than others, where volume = tweet frequency. Those voices aren&rsquo;t necessarily the ones I care about. I want to know what&rsquo;s going on with my more restrained friends too.</p>
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on questions, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Questions
 date: '2003-04-30T04:19:20+01:00'
 tags: []

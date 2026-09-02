@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Frustrated by the W3C's lack of progress on block-level centering, this post questions whether the standards body is responsive to recurring requests from web developers. It calls for a clearer process to resolve longstanding suggestions instead of leaving practitioners trapped in the same arguments."
 title: W3C Unresponsive
 date: '2003-07-03T21:47:47+01:00'
 tags: []

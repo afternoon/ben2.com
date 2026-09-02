@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Opera
+description: "We went to Madama Butterfly at the Royal Opera House in Covent Garden. The opera house itself has had a lot of money lavished on it recently and it is lovely inside. Before I went I really wasn’t sure whether I would like it or not. I really enjoyed it."
 date: '2005-03-30T17:56:40+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880496851/the-opera

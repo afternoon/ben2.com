@@ -4,6 +4,7 @@ title: Another Web Site Finished!
 date: '2002-05-03T05:21:36+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058158937/another-web-site-finished
+description: "I just finished my first site of my second bout of freelancism. Building the site I fell into the same patterns that I often do when building straight HTML. To this end I’ve thought about converting all the content to XML and then building a set of XSL transformations to."
 ---
 <p>I just finished my first site of my second bout of freelancism. <a href="http://www.certasolutions.com">Certa Solutions</a> went live about half an hour ago. I didn&rsquo;t do the design, BTW, just the build.</p>
 <p>Building the site I fell into the same patterns that I often do when building straight HTML. The effort of maintaining consistency between 40+ pages outweighs everything else. To this end I&rsquo;ve thought about converting all the content to XML and then building a set of XSL transformations to generate the site. Then the computer can do the repetive bit! Ha! The trick would then be to balance the content out between nodes - much easier than distributing it around one document.</p>

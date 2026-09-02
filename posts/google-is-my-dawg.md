@@ -4,6 +4,7 @@ title: Google Is My Dawg
 date: '2006-01-05T05:55:05+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880467780/google-is-my-dawg
+description: "In April 2003 I was third , rereading my post about that prompted me to try again, smilingly thinking I would be like last or something."
 ---
 <p>F&mdash; me!</p>
 

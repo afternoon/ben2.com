@@ -4,6 +4,7 @@ title: 'London: 1'
 date: '2003-10-03T03:33:34+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972975855/london-1
+description: "I forgot to do this yesterday, my one year in London post. Because I work from home I haven't got a line to work people. I'll have to keep looking on that front, but I think that shared offices are a bit of a neat idea that haven't really caught"
 ---
 <p>I forgot to do this yesterday, my one year in London post. We are now half way through our two year contract on the flat.</p>
 <p>I still like it.</p>

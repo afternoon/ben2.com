@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Today Hypothetical Was One Year Old
+description: "I’m kind of proud that Hypothetical is still going after a year. But realistically, the fact that it’s been going for a year just serves to highlight how badly it needs rewriting! I think I will use Smarty to code templates for themes."
 date: '2002-05-02T05:07:50+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058160037/today-hypothetical-was-one-year-old

@@ -5,6 +5,7 @@ title: '"And as we all know from experiments conducted during the Korean War, Di
 date: '2003-10-21T06:06:13+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972967468/and-as-we-all-know-from-experiments-conducted-during-the
+description: "It was OK though as the night didn’t start until 10, we sat and drank in a little pub around the corner from Holborn tube, near both the End and the college where Louise is having lots of fun doing her photography course."
 ---
 <p>Well it was a weekend of little sleep (I&rsquo;ve caught up now :-), but much good stuff and some bad. Mostly to do with a certain large public transport provider here in the capital of the UK.</p>
 <p>On Friday I went to see Mouse on Mars, Four Tet and others at The End with Miles and Fran (Lad and Squid of Hype fame). There was a derailment at Baron&rsquo;s Court on the Piccadilly line and it took me an extra hour to get into the city (not bad really, considering). It was OK though as the night didn&rsquo;t start until 10, we sat and drank in a little pub around the corner from Holborn tube, near both the End and the college where Louise is having lots of fun doing her photography course.</p>

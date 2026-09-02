@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tests and Hacks
+description: "Well, I’ve been using it for a couple of hours now and Virtual PC is already making testing so much easier. Now that I can actually test properly on IE 5 instead of just happening by a copy every once in a while, I’ve used my first CSS hack."
 date: '2003-11-07T00:18:52+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972953361/tests-and-hacks

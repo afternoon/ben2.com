@@ -1,6 +1,6 @@
 ---
 title: "Moving to Astro"
-description: "Moving to Astro"
+description: "After a decade on Tumblr, I've moved this blog to [Astro](https://astro.build) hosted on [Cloudflare Pages](https://pages.cloudflare.com). Jekyll is starting to get a bit old and the community is less active. We just didn't wire the pieces up."
 date: "Mar 24 2025"
 ---
 

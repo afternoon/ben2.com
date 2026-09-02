@@ -1,6 +1,7 @@
 ---
 layout: post
 title: UIE
+description: "A wicked good usability site . Contains practical solutions!"
 date: '2003-12-01T03:23:41+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880568188/uie

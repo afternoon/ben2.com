@@ -4,6 +4,7 @@ title: I Believe
 date: '2004-01-03T04:29:58+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880559392/i-believe
+description: "Michael Howard can keep his empty rhetoric. Indeed, they are the timeless milestones of public speaking of all colours and they've long since lost all real meaning. Cutting the size of the institutions as a specific goal is ludicrous."
 ---
 <p>Michael Howard can keep his empty rhetoric.</p>
 <p>His advert in the Times states what he believes and what he doesn&rsquo;t believe, they even compliment it with a front page article, practically advertorial IMHO. By issuing statements about what he does and doesn&rsquo;t believe, he implies (quite effectively) that Labour share none of his values. The truth of course is that his statements are so vague and meaningless as to be well in the court of any politician. Indeed, they are the timeless milestones of public speaking of all colours and they&rsquo;ve long since lost all real meaning.</p>

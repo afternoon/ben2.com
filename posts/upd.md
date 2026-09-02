@@ -1,6 +1,7 @@
 ---
 layout: post
 title: upd
+description: "I want to use some of these sounds in Live to make crossover sino electro madness. I’ve also upgraded Fortyfive (our firewall/NAT machine) to use a much better interface to the ADSL modem. Currently I’m upgrading to Debian 3, which is twatting my internet radio MP3 listening rather badly."
 date: '2002-07-26T04:55:06+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973397129/upd

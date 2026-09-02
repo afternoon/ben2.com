@@ -4,6 +4,7 @@ title: Now Today I'm Depressed
 date: '2002-05-13T22:24:46+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058153614/now-today-im-depressed
+description: "It's grey and shit. Also Louise and I spend at least £30 a week on food and there is still never anything to fucking eat. So yeah, bunch of shit really."
 ---
 <ul>
 <li>It&rsquo;s grey and shit. The weather is extremely nasty.</li>

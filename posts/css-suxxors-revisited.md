@@ -4,6 +4,7 @@ title: CSS Suxxors Revisited
 date: '2003-05-13T02:34:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973144951/css-suxxors-revisited
+description: "He has two columns nested within a lot of thin borders which look nice, if I use absolute positioning I lose the borders, otherwise I have to put up with the browser trying to wrap the page content around the navigation which I don’t want."
 ---
 <p>A friend of mine, Rog, asked me what I thought of a design he was working on. He showed me a template page and I thought it was pretty nice. It was a pretty simple layout but he&rsquo;d done it all with tables. He had a lot of borders and blocks of colour which were ripe for CSSifying. I decided to rewrite his page to demonstrate how easy it would be to him.</p>
 <p>An hour later I&rsquo;m furious. It wasn&rsquo;t supposed to be like this. It was a clean simple, bottom up design that is tailor made for HTML. Yet to achieve it all in CSS I have to go at the browser with a series of hacks and workarounds. Bollocks! I&rsquo;m not prepared to do it. I&rsquo;ve abandoned the project and mentioned it to him as an aside.</p>

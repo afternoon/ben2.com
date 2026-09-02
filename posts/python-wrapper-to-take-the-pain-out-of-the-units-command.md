@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on python wrapper to take the pain out of the units command, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Python Wrapper to Take the Pain out of the Units Command
 date: '2004-08-22T20:04:01+01:00'
 tags: []

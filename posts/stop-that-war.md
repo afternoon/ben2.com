@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stop That War!
+description: "Like lots of people I’m pretty confused by the Iraq situation, I’m not going to go into the reasons, because it’s ground thats been covered lots of times. There’s no need to kill Iraqis, if there are international scale criminals in Iraq, then they are confined to their Government."
 date: '2003-02-16T20:03:49+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973365294/stop-that-war

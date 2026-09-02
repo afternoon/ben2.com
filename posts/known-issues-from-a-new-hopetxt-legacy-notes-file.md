@@ -4,6 +4,7 @@ title: Known Issues from a-new-hope.txt (Legacy Notes File)
 date: '2001-07-25T18:48:47+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058211195/known-issues-from-a-new-hopetxt-legacy-notes-file
+description: "General as a cure for both security and cookie setting, go for PHP sessions and keep all hypo-data on the server (db?) page expiry date should be set to time of last message (cunning 4 caching) review caching stuff thoroughly, cos it's shit (is it required at all?) add target=\"_blank\""
 ---
 <h3>General</h3>
 as a cure for both security and cookie setting, go for PHP sessions and keep all hypo-data on the server (db?)<br/>

@@ -4,6 +4,7 @@ title: Mrs Marsh Hired Him to Fix the Jagwar
 date: '2002-08-22T05:10:28+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973392938/mrs-marsh-hired-him-to-fix-the-jagwar
+description: "Woo hoo! Sendmail isn't working properly again either. Nice one, guys."
 ---
 <p>Woo hoo! Mac OS X 10.2! Yay!</p>
 <p>Like a new version of Windows this is minor tweaks and new features. There are umpteen lists out there so I won&rsquo;t go into too much detail. Suffice to say that there are enough changes to give it a slightly disorienting feel but by NO means enough of an improvement to warrent the huge sticker price! Bastards always have to charge so much for what is essentially a very big bug fix.</p>

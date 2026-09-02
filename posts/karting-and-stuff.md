@@ -4,6 +4,7 @@ title: Karting and Stuff
 date: '2002-01-22T16:09:15+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058170547/karting-and-stuff
+description: "I went karting for the first time last night. I think if it hadn't been a competition I would have loved it, the pressure thing kind of killed it for me. Hmmm"
 ---
 <p>I went karting for the first time last night. I&rsquo;m not sure if I enjoyed it. I watched Fight Club as well and I&rsquo;m not sure whether I enjoyed that either. I think it was good to do both, I have no regret, but I&rsquo;m not sure whether I would do them again. I&rsquo;m coming round to thinking maybe.</p>
 <p>The karting was much more full-on than I expected. Basically I was expecting Wipeout. I got G forces. I was quite nervous as I always am about a thing with a time in the future, unfortunately this didn&rsquo;t go away when I got on to the track. I didn&rsquo;t have the confidence to throw myself into the corners basically. I was braking too much and not accelerating hard enough. Despite this, the whole caning into a corner and be pulled out with so much G was really doing my head in.</p>

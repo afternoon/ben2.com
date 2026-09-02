@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vi iMproved Usage Improved
+description: "Under urging from Miles , I’ve put BBEdit in a drawer and gone over to using Vim as my main editor. I’m trying to learn a bit more now though. I don’t really get along with the interactive help."
 date: '2003-11-24T22:54:04+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880573008/vi-improved-usage-improved

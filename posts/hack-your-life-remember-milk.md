@@ -7,6 +7,7 @@ tags:
 - lifehacks
 - webapps
 tumblr_url: https://aftnn.org/post/47880402391/hack-your-life-remember-milk
+description: "Dig deeper and you'll find a very flexible, customisable and programmable platform. Like many todo list apps, RTM roughly follows the Getting Things Done (GTD) methodology. They have a nice terse syntax for specifying the attributes of a task. RTM supports a myriad of ways to organise your life and."
 ---
 <p><img src="http://aftnn.org/stuff/journal_src/rtmtasks.png" alt="Alt text"/></p>
 

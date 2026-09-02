@@ -4,6 +4,7 @@ title: Home Again, Home Again
 date: '2004-02-02T12:39:48+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880553137/home-again-home-again
+description: "Well, back to cold grey England, slightly dazed but getting into the routine again. Since then I've been pottering around and spending a lot of time on my photo gallery. Blogs for the holiday to come in the next week or so."
 ---
 <p>Well, back to cold grey England, slightly dazed but getting into the routine again. I&rsquo;ve got work to do today indeed.</p>
 <p>We got back on Friday morning at about nine, I delt with 1,297 emails and then passed out. Since then I&rsquo;ve been pottering around and spending a lot of time on my photo gallery.</p>

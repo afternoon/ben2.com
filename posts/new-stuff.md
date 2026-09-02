@@ -4,6 +4,7 @@ title: New Stuff
 date: '2003-01-08T06:10:31+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973370708/new-stuff
+description: "Haven't blogged for a while. Anyway, the stress levels were high last night, I got into a mental block. It at least has nice Aqua form controls!"
 ---
 <p>Haven&rsquo;t blogged for a while. I&rsquo;ve been meaning to. I&rsquo;ve had a funny week or so.</p>
 <p>My Dad was meant to get married for the third time on the 27th of December. He didn&rsquo;t and instead split up with his long-term girlfriend. He&rsquo;s really sad about it, understandably, and I&rsquo;m quite depressed by it too. I don&rsquo;t really know what&rsquo;s happening but she seems to have just given up on their relationship. This may have been going on for ages without me knowing it, I haven&rsquo;t seen her since August, but still, I&rsquo;m sad.</p>

@@ -4,6 +4,7 @@ title: Arena4 Complete
 date: '2003-01-28T03:37:47+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973368438/arena4-complete
+description: "Arena4 is a learning community product that I have been working on. I feel that I need to use Arena4 more really, but it seems to work OK despite being designed kind of as individual chunks."
 ---
 <p>Well, 95% complete. The first users have their accounts and will be looking around the site tomorrow. Arena4 is a learning community product that I have been working on. I was asked to redesign the user interface in October. The product was working but needed to be rebuilt from a usability and design perspective. A task I have now pretty much completed.</p>
 <p>The project has been quite a big one and hard as I haven&rsquo;t been paid cash. I am a shareholder in the company as this is a new venture. I&rsquo;m happy with that, even though my finances have come close to the wire on several occasions. Today is a case in point, my rent went out successfully, but I only have £12 left in my account!</p>

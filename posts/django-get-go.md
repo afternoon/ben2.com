@@ -4,6 +4,7 @@ title: Django Get-go
 date: '2005-12-01T07:18:06+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880472572/django-get-go
+description: "So then I started about building a bare bones app to test that Django was installed and working. Django needs more early sanity checks that can flag up potential troubles and throw a StupidAdministratorException with a useful message. "
 ---
 <p>Tried to start doing some development on Django tonight. Had a bit of a night of it. First I wanted to get mod_python running with Apache on my Powerbook. Decided I wanted to stick to the OS X stock Apache 1.3.33. Getting mod_python 2.7.11 to work with that was a slag. Then I found that Django requires mod_python 3.x! That required Apache 2. So I installed that, which was actually fuggin&rsquo; easy thanks to Fink. Installed mod_python 3.2.5b and managed to produce a stack trace that looked right (no handlers configured yet). Then I spent about an hour trying to force it to reload Python modules per-request. Hint: make sure Apache can write to your Python module dirs.</p>
 

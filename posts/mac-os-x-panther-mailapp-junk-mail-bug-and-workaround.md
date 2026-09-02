@@ -4,6 +4,7 @@ title: Mac OS X Panther Mail.app Junk Mail Bug and Workaround
 date: '2003-12-05T14:42:18+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880565599/mac-os-x-panther-mailapp-junk-mail-bug-and-workaround
+description: "Panther's copy of Mail has a bug where junk email is recognised but not moved to the Junk folder, even when automatic mode is selected, if no other rules are present (i.e. A workaround is to create a dummy rule. Thanks to \"Jon\" who posted this workaround on Jim Bassett's"
 ---
 <p>Panther&rsquo;s copy of Mail has a bug where junk email is recognised but not moved to the Junk folder, even when automatic mode is selected, if no other rules are present (i.e. non-junk rules). A workaround is to create a dummy rule. Mine says something like:</p>
 <p class="eg">if from is equal to &ldquo;vdssb 1 3208222vb3vb33097&rdquo;<br/>

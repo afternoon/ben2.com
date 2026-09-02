@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Type-check Your JavaScript with TypeScript
+description: "TypeScript is a superset of JavaScript with optional static typing. Clone DefinitelyTyped to references TypeScript code needs to be annotated with comments to link to the type definitions we downloaded from DefinitelyTyped. Adding Definitions For Missing Modules"
 date: '2014-02-15T17:06:00+00:00'
 tags:
 - typescript

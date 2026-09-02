@@ -4,6 +4,7 @@ title: Encode Project Knowledge in XML
 date: '2004-01-02T17:26:19+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880559793/encode-project-knowledge-in-xml
+description: "This time I read a bit about SVG but also the introduction to the chapter on code generation. When we begin the project we agree on six areas, but as I build the site I notice that two areas could be merged into one. Even if that is as simple."
 ---
 <p>I went and sat and read the XSLT cookbook again. This time I read a bit about SVG but also the introduction to the chapter on code generation. The gist of it was that by encoding project knowledge in XML (or something similar) and using XSLT (or similar) to generate implementation files (of any form) you can adapt to changes in that source knowledge easily.</p>
 <p>For example, I&rsquo;m asked to build a website and as part of the design we decide to put tabs across the top of the page to link to the main areas of the site. When we begin the project we agree on six areas, but as I build the site I notice that two areas could be merged into one. Instead of having to change every page I&rsquo;ve made so far (by hand or by Perl), I just tweak my knowledge file and set my stylesheets loose on it again.</p>

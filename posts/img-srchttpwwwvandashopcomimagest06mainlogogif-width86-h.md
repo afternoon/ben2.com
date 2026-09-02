@@ -4,6 +4,7 @@ title: V&A
 date: '2004-05-09T19:46:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880516719/img-srchttpwwwvandashopcomimagest06mainlogogif-width86-h
+description: "I've been doing so much stuff on Hype we haven't really been spending so much time together and it was our three year anniversary! We then went into the Bill Brandt exhibition that they're showing pretty much straight away. Although it was nice to see a side of him that."
 ---
 <p>Went to the <a href="http://www.vam.ac.uk/">V&amp;A</a> yesterday with Louise. I&rsquo;ve been doing so much stuff on Hype we haven&rsquo;t really been spending so much time together and it was our three year anniversary! We&rsquo;ve also been talking about going to the V&amp;A for ages, having lived about ten minutes down the road from it for a year and a half.</p>
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on rapid response from the green party mep, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Rapid Response from the Green Party MEP
 date: '2003-09-02T18:15:46+01:00'
 tags: []

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Safari Issue
+description: "Apple: there’s a bug in Safari with hyperlinked images positioned with position:relative; . Here’s a test case ."
 date: '2003-04-19T14:45:16+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973259150/safari-issue

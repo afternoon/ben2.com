@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on proce55ing, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Proce55ing
 date: '2003-12-14T05:28:53+00:00'
 tags: []

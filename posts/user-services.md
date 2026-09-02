@@ -1,6 +1,7 @@
 ---
 layout: post
 title: User Services
+description: "Hypo needs to help them out more anything to make their lives easier. Maybe a help screen that is shown to users after they signup. Anyways, there should be a help page always available. name, email, browser + platform, page they were at, logged in or not."
 date: '2001-07-25T20:04:43+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058210402/user-services

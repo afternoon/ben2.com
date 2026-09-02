@@ -4,6 +4,7 @@ title: Chuck It, Rude Boy!
 date: '2004-06-22T08:03:21+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880510065/chuck-it-rude-boy
+description: "Chuck and STK are already integrated to a limited extent, but one would expect to see more STK stuff going into Chuck. Chuck usefully allows you to access the VM from within code, so you could set up a script which automates this, but say you don’t want to automate."
 ---
 <p>Been playing around with <a href="http://chuck.cs.princeton.edu/">Chuck</a>, a realtime audio programming environment, again. Got a bit further this time, i.e. as far as playing a sample and doing some other bits and pieces. Not very close to making anything that you could call music yet though.</p>
 <p>I had the honour of being the first person to post to the mailing list, I hope they are responsive, as close contact with the developers is going to be pretty much essential given the rough and ready state of the documentation.</p>

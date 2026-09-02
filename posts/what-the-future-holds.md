@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A conversation with Louise about buying a desk becomes a wider reflection on commitment, ambition and their future together. The author considers Louise's creative career hopes, his own entrepreneurial plans, and the tension between building a stable life and remaining open to major change."
 title: What the Future Holds
 date: '2004-01-07T04:06:15+00:00'
 tags: []

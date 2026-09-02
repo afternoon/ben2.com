@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Syncasting
+description: "I’m organised and I appreciate having this data on the run. It only takes about five minutes, but it’s just hassle. But now I’m restricted to the places where I can get signal."
 date: '2006-02-03T15:01:39+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880460268/syncasting

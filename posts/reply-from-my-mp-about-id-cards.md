@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on reply from my mp about id cards, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Reply from My MP About ID Cards
 date: '2005-01-21T14:58:53+00:00'
 tags: []

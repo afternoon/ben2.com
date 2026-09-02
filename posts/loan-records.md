@@ -4,6 +4,7 @@ title: Loan Records
 date: '2004-12-12T16:12:30+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880499807/loan-records
+description: "Let it be known formally in a Googlable place, that: Charlie has my copy of Blondie 24 I have Ultraruby 's copy of the Penguin Café Orchestra That is all"
 ---
 <p>Let it be known formally in a Googlable place, that:</p>
 

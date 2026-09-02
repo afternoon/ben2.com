@@ -4,6 +4,7 @@ title: A Couple of Ideas
 date: '2003-03-07T18:19:38+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973360660/a-couple-of-ideas
+description: "I’ve been writing blocks of code which perform three or four operations but have to clad those ops in 15 lines of error checking armour. By defining different catcher functions for different scopes, it would be possible to actually do different things when an error comes in."
 ---
 <ol>
 <li>For Blanket, adding an URL base would prevent the need to rewrite relative links, which would certainly lighten the load a bit. Also, if this value is carried across to javascript that would mean some semblance of JS support.</li>

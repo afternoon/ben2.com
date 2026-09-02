@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Urge to Kill... Rising...
+description: "How can any system claim to be a complete design tool when it’s concept of space is so wildly schizophrenic (it’s some paper, it’s a window, it looks crap whatever media you choose)? However, all he does is bang on about how CSS is God’s gift to designers."
 date: '2003-04-29T05:18:09+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973226360/urge-to-kill-rising

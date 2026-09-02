@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TA Capitulate
+description: "TextAmerica have announced that they will not delete free accounts after all. In celebration of our existing users that have recently upgraded, all accounts upgraded on or before 7/15/06 will hold “Founding Memberships” with special VIP privileges not available to other users."
 date: '2006-07-03T13:27:26+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880450436/ta-capitulate

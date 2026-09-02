@@ -4,6 +4,7 @@ title: Craxy World of Noon
 date: '2002-12-13T06:53:26+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973372583/craxy-world-of-noon
+description: "They are a mighty cool company and I really, really want to work there. The only drawback is that it’s Old Street, so not too near, but it’s flexitime (core hours style) so I could avoid the rush hour."
 ---
 <p>Yesterday I went for an interview at a company called <a href="http://www.lshift.net">LShift</a>. They are a mighty cool company and I really, really want to work there. They do a lot more interesting stuff than all the other companies I&rsquo;ve visited and they have a suitably impressive client list.</p>
 <p>The interview was just an informal chat, beer included. The MD, Andy Wilson, told me about the company and it&rsquo;s structure and philosophy. Everything he said made me want to work there even more. The only drawback is that it&rsquo;s Old Street, so not too near, but it&rsquo;s flexitime (core hours style) so I could avoid the rush hour. I will hopefully be invited back for a technical interview next week. This bit I&rsquo;m really nervous about, I&rsquo;m going to be quizzed by a guy who is, by the sounds of it, a very serious computer scientist. I already have a lot of respect for him and I hope that my knowledge will be sufficient to convince him that I&rsquo;m a good guy to hire. First I have to convince myself and I will be revising textbooks until then!</p>

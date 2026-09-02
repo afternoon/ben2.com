@@ -9,6 +9,7 @@ tags:
 - erlang
 - haskell
 tumblr_url: https://aftnn.org/post/47880410552/clojure-stateless-dynamicly-typed-lisp-jvm
+description: "Clojure is a modern Lisp, but follows the stateless style very closely, taking ideas from Haskell and ML. Recommended viewing For a more complete description watch Clojure creator Rich Hickey describing Clojure and walking through a concurrent application . "
 ---
 <p>I&rsquo;m a big fan of programming without state in languages like Haskell and Erlang. <a href="http://clojure.org/">Clojure</a> is a modern Lisp, but follows the stateless style very closely, taking ideas from Haskell and ML. Clojure is implemented in Java and runs on the JVM, providing full access to all of Java&rsquo;s libraries.</p>
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on regularity is a symptom of bad code, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Regularity Is a Symptom of Bad Code
 date: '2006-10-04T16:20:16+01:00'
 tags: []

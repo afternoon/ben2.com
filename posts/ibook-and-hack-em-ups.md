@@ -4,6 +4,7 @@ title: iBook and Hack-em-ups
 date: '2001-12-03T03:51:27+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058175366/ibook-and-hack-em-ups
+description: "With all the grace and poise of Mac OS X I can't help but smirk somewhat. It outputs the urls and so would need to know about cached versions anyway. I suspect that this will be the trend for the coming additions."
 ---
 <p>Well, my new iBook is very sexy indeed. With all the grace and poise of Mac OS X I can&rsquo;t help but smirk somewhat.</p>
 <p>As the h_button script is run every time a button is generated for a page, it should be in charge of maintaining the cache of button images. It outputs the urls and so would need to know about cached versions anyway. The script could check for the existence of an up to date cache item and use it or create it. Cache items should be stored in folders with theme name and button file time. If the time on the file changes then the cache will be thrown away and a new folder created. The new buttons would be rendered into the cache folder as the different pages are accessed.</p>

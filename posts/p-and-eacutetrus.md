@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on pétrus, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Pétrus
 date: '2006-10-11T15:55:32+01:00'
 tags: []

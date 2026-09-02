@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Social Software and Sociopaths
+description: "The eventual arrival of sociopaths in any social system seems inevitable. I think the key is isolating the core group. Once they become core group members, the system will become confused. <edit Or I could just let group owners appoint the mods for a group."
 date: '2004-04-25T17:58:39+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880522550/social-software-and-sociopaths

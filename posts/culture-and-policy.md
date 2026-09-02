@@ -6,6 +6,7 @@ tags:
 - culture
 - policy
 tumblr_url: https://aftnn.org/post/137843070917/culture-and-policy
+description: "Comparison Culture Policy Creation Culture must be created early and grow with the company. Preventing issues If you have a culture of investigating issues, preventing them before they happen and baking quality in to your ways of working, then you may be able to avoid a wide-range of complex issues."
 ---
 <p>As a regulated financial services company, Wonga has a number of clearly-defined policies covering aspects of its operations from marketing to customer
 services to software engineering. The goal of these is to ensure proper care is

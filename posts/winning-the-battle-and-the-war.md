@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A domestic weekend update combines an ever-growing eMusic collection and looming laptop disk shortage with a canal trip from Camden to Little Venice. The author reflects on music, markets, food and London wandering while balancing the pleasures of accumulation against the practical need for more storage."
 title: Winning the Battle, and the War
 date: '2003-08-25T04:25:35+01:00'
 tags: []

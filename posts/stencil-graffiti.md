@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stencil Graffiti
+description: "Did my first bit of stencil graffiti today: Worked OK. Bigger bit of card, with lots of space for holding. You have to get good coverage without getting too much paint in one place."
 date: '2002-05-05T01:38:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058158409/stencil-graffiti

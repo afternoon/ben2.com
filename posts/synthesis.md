@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Synthesis
+description: "I made a middle C with SDL. Then I dump than buffer on to the sound card repeatedly. I don’t understand how synthesisers are made. I made a middle C with SDL."
 date: '2003-10-24T04:29:45+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972964269/synthesis

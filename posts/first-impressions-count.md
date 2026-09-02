@@ -4,6 +4,7 @@ title: First Impressions Count
 date: '2006-01-20T21:51:22+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880463958/first-impressions-count
+description: "First Impressions Count in Website Design . \\\\\\\"Web designers have as little as 50 milliseconds to capture the interest of potential customers. Except of course, that while you can fit in a few meetings a week, your homepage can be shipped to hundreds, thousands, millions of visitors."
 ---
 <p><a href="http://www.websiteoptimization.com/speed/tweak/blink/">First Impressions Count in Website Design</a>.</p>
 

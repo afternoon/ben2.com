@@ -4,6 +4,7 @@ title: And, on a Similar Note
 date: '2003-03-05T13:00:34+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973361426/and-on-a-similar-note
+description: "Oh god, HTML email is all good but it does mean that I have to go through a slew of new and fairly crappy rendering enginesto make sure that they can all handle what I’m sending them. It currently lacks a realistic interface (it looks very much like the database."
 ---
 <p>If you get links that don&rsquo;t work in Apple Mail it may be because you&rsquo;ve put align=&ldquo;left&rdquo; on the table tag.</p>
 <p>Oh god, HTML email is all good but it does mean that I have to go through a slew of new and fairly crappy  rendering enginesto make sure that they can all handle what I&rsquo;m sending them. I&rsquo;m surprised by the low quality of a lot of the products. Particuarly Apple Mail actually, which does not understand a line of CSS. I hope this situation will change with the whole Safari thing.</p>

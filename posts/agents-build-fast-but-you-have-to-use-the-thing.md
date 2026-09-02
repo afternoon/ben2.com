@@ -3,6 +3,7 @@ layout: post
 title: "Agents Build Fast But You Have To Use The Thing"
 date: "2026-08-17T18:04:14+00:00"
 tags: ["agentic-engineering", "claude"]
+description: "Tests passed, CI was green, review said fine, and every one of those criteria was satisfied by code that was going the wrong way. ## Everything I asked to be checked, was The temptation is to conclude I forgot to give the agents the product context."
 ---
 Dynamic workflows can build genuinely complex software. Over about four weeks of evenings and one holiday, Claude merged 150 PRs into [Groove](https://github.com/afternoon/solid-groove), my web-based DAW side project — 45 of them in a single day — turning a stuck prototype into an app I could [deploy and open](https://groove-35c07.web.app).
 

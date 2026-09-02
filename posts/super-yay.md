@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SUPER YAY!
+description: "I have a tabbed browser, but it opens windows for pages from other apps in new windows. Safari is bright though. Exposé or no, I really dislike having more than one browser window. Thanks to inessential.com for the tip off ."
 date: '2003-11-25T07:50:54+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880571958/super-yay

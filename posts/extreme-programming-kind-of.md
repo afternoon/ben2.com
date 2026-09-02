@@ -4,6 +4,7 @@ title: Extreme Programming, Kind Of
 date: '2004-03-11T04:40:11+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880546696/extreme-programming-kind-of
+description: "Been programming OCaml , getting into it. It all started on Saturday when Miles and I went to a programming contest run by the BCS. On the drive down we discussed languages, the competition, Perl promotion strategies and much more. Next time I'll be ready and it sort of seems."
 ---
 <blockquote>A very large percentage of program errors &ndash; and the problem that drives programmers to debuggers &ndash; occur because variables obtain unexpected values during the course of program execution. Functional programs bypass this particular issue by simply not assigning values to variables at all.</blockquote>
 <p>From <a href="http://www-106.ibm.com/developerworks/linux/library/l-prog.html">Functional Programming in Python</a>.</p>

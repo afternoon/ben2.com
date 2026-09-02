@@ -4,6 +4,7 @@ title: Don't Send to Sender, Unix-style
 date: '2004-07-20T07:51:08+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880506896/dont-send-to-sender-unix-style
+description: "Make your .qmail file summat like this: |/var/qmail/bin/condredirect notdude1@example.com /bin/test $SENDER = \"dude1@example.com\" |/var/qmail/bin/condredirect notdude2@example.com /bin/test $SENDER = \"notdude2@example.com\" |/var/qmail/bin/condredirect notdude3@example.com /bin/test $SENDER = \"notdude3@example.com\" &everyone@example.com Then set up the not*@ email addresses to forward to the right parties and setup everyone@ to go them all."
 ---
 <p>Took a while to get this one right, but I set up a filter system whereby an email is routed to everyone but it&rsquo;s sender with only .qmail files and without need for Perl scripts etc.</p>
 

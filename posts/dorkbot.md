@@ -4,6 +4,7 @@ title: Dorkbot
 date: '2003-10-23T06:40:04+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972964988/dorkbot
+description: "I was late so I missed some of the talking, however I saw Ben Woodeson talking about some of his installation pieces, I saw Alex (of Slab and Slub ) perform some really nice IDM with nowt but a bunch of console windows with Perl scripts in them and then."
 ---
 <p>I finally got around to going to <a href="http://dorkbot.org/">Dorkbot</a>, after only a year of meaning to. It was cool.</p>
 <p>It was held at <a href="http://www.state51.co.uk">State 51</a>, a new media company occupying a disused factory just at the top of Brick Lane, on the fringe of the Shoreditch New Media Mafia Zone. The factory was ace, practically derelict except for signs of workshop-like activities. I was assured that they have proper offices upstairs. If it were me I would be worried that the place was about to collapse.</p>

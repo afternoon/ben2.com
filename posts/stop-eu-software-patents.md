@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stop EU Software Patents
+description: "Help defeat the proposed EU software patents! Dear <MEP , I am writing to you because I am concerned by current plans to legalise software patents in Europe despite the damaging effect on innovation and competition. Current EU law expressly prohibits patents on computer programs."
 date: '2003-09-02T17:24:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973024449/stop-eu-software-patents

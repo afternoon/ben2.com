@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SCJP Revision
+description: "About.com do though. I always have mixed feelings about About. Often there are questions where the experts at About are the only people publishing the right answers. Then the window would redirect to another About page full of sponsored links and stuff, within about ten seconds."
 date: '2003-10-07T03:33:13+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972975139/scjp-revision

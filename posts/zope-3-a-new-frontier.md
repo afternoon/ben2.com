@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "After studying Zope 3, the author praises its clean component architecture, schemas, generated forms and separation of concerns while comparing it with InfoCMS. The main gap is flexible portal and portlet support, so the post outlines a user-managed assembly model and plans to investigate Plone and Archetypes."
 title: 'Zope 3: A New Frontier'
 date: '2005-04-11T08:44:07+01:00'
 tags: []

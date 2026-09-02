@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Business of Blogging
+description: "All they have to worry about is hiring writers who create interesting blogs. Must think of a good model for my plan. The blog content drives traffic through their ads and that’s a business."
 date: '2005-11-21T21:43:11+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880474476/the-business-of-blogging

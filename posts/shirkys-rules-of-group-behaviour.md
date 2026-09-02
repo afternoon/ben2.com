@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Shirky's Rules of Group Behaviour
+description: "As outlined in The Group is it’s Worst Enemy . The core group has rights that trump individual rights in some situations. Second, you have to design a way for there to be members in good standing. You have to find a way to spare the group from scale."
 date: '2004-04-06T06:44:03+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880532868/shirkys-rules-of-group-behaviour

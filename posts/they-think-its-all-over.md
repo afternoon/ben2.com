@@ -1,6 +1,7 @@
 ---
 layout: post
 title: They Think It's All Over...
+description: "After all that calmed down we got the van and got on with the heavy lifting, my the heavy lifting! After the pub we had our last mini after party, the room was hot despite the fact that I was still loading the van and had the front door open."
 date: '2002-10-01T05:12:35+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973382701/they-think-its-all-over

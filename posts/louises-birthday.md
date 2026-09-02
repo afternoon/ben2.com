@@ -4,6 +4,7 @@ title: Louise's Birthday
 date: '2001-10-11T05:35:55+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058178602/louises-birthday
+description: "We had big food, fajitas and then choc fondue. I did it with bog standard images. Never mind, it's a novelty for now and I've got a free upgrade waiting at Orange for when I tire of it."
 ---
 <p>We had big food, fajitas and then choc fondue. Mmm mm good. Lots of people and jolity, nice.</p>
 <p>I wrote Louise <a href="http://hypothetical.co.uk/birthdaygirl/">a game</a> as a present. It&rsquo;s just javascript and a bunch of images, but it&rsquo;s neat, I think. I was kind of thinking of trying out tetris. A grid of images in a table would be manipulated by javascript functions, including some use of setInterval. Ah, javascript rules. While writing the game I found that it is possible to attach abritrary members or, presumably, functions to objects. I did it with bog standard images.</p>

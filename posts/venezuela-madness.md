@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Venezuela Madness
+description: "Pat Robertson, a US TV preacher (; ) called for the assasination of Hugo Chavez , the president of Venezuela, on his 700 club TV show. Pat Robertson, a US TV preacher (; ) called for the assasination of Hugo Chavez , the president of Venezuela, on his 700 club TV show."
 date: '2005-08-24T05:43:55+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880483805/venezuela-madness

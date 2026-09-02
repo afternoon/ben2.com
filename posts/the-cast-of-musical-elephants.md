@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Cast of Musical Elephants
+description: "Types is things like byte and char , control is if and do , objects is class and implements , modifiers is public and final and exceptions is try and catch and the rest."
 date: '2003-11-13T03:26:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972942463/the-cast-of-musical-elephants

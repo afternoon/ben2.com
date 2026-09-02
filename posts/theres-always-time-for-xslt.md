@@ -1,6 +1,7 @@
 ---
 layout: post
 title: There's Always Time for XSLT
+description: "Was just perusing O'Reilly’s XSLT Cookbook in Books Etc. One thing that caught my eye was using XSLT to populate an HTML form with some data from an XML document. This is slightly more effort in this case than a PHP solution: <form <input type=\"text\" id=\"city\" value=\"<?= $city ?"
 date: '2003-12-18T22:00:50+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880560789/theres-always-time-for-xslt

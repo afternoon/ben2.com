@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Use SSH Public Key Authentication with Fabric
+description: "Fabric is a very useful Python tool for scripting administration of remote servers. Increasingly I’m using configuring sshd to allow public key authentication only. If you want your Fabric tasks to access machines using public key authentication, add something like to your Fabfile:"
 date: '2009-04-24T15:13:12+01:00'
 tags:
 - fabric

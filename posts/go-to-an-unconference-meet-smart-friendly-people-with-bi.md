@@ -4,6 +4,7 @@ title: 'Go to an Unconference: Meet Smart, Friendly People with Big Ideas'
 date: '2008-10-08T16:38:09+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880424303/go-to-an-unconference-meet-smart-friendly-people-with-bi
+description: "I went along to 2 unconferences in London: BarCamp London 5 (Sep 27) and Social Media Camp (Oct 4). Both times I chose small rooms and it couldn’t have been less intimidating. The result is talks from people on the front line, not people paid to waffle on"
 ---
 <p>I went along to 2 unconferences in London: BarCamp London 5 (Sep 27) and Social Media Camp (Oct 4). The unconference format is really great, smart people presenting about things they know and love followed by excellent discussion, no pretensions, no stuffiness.</p>
 

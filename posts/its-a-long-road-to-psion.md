@@ -4,6 +4,7 @@ title: It's a Long Road to Psion
 date: '2001-08-13T13:39:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058202638/its-a-long-road-to-psion
+description: "I spent a lot of time this weekend hacking about with the Psion. Maybe I should try the non-CF one as it may be smaller. It contains busybox, a single binary responsible for many of Unix's traditional little commands, like sh. I want to get Microwindows up and running, and."
 ---
 <p>I spent a lot of time this weekend hacking about with the Psion. I found the whole thing a bit wierd because some stuff was mind-numbingly easy and other bits well tricky. My 64mb Compact Flash card does not work, so I will have to return it and ask Dabs for one that does. Pending that I have had no storage space and so nowhere to actually install Linux to properly.</p>
 <p>This is is a big issue, the Psion itself only has 300k free after loading the PsiLinux ramdisk image. Maybe I should try the non-CF one as it may be smaller.</p>

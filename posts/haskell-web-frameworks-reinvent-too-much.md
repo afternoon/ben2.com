@@ -4,6 +4,7 @@ title: Haskell Web Frameworks Reinvent Too Much
 date: '2009-01-27T09:53:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880416947/haskell-web-frameworks-reinvent-too-much
+description: "Paul R Brown's web application perpubplat (personal publishing platform) differs from a lot of the other Haskell web code I've seen - it doesn't try to reinvent every wheel. The HAppS project is implementing transactional ACID-compliant in-memory state, SMTP, IRC, DNS and much more. As a programmer considering using these."
 ---
 <p>Paul R Brown&rsquo;s web application <a href="http://github.com/prb/perpubplat/tree">perpubplat</a> (personal publishing platform) differs from a lot of the other Haskell web code I&rsquo;ve seen - it doesn&rsquo;t try to reinvent every wheel.</p>
 

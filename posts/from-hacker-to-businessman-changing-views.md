@@ -4,6 +4,7 @@ title: 'From Hacker to Businessman: Changing Views'
 date: '2006-01-08T21:50:15+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880467187/from-hacker-to-businessman-changing-views
+description: "I come from the open source community side, so it's no surprise that my view of Bill Gates has never been that rosy. I thought it was a bit dull, nothing revolutionary there, but then it is a consumer crowd, rather than technologists so that's fair enough I guess. I'm."
 ---
 <p>I&rsquo;m a hacker. Hacking is my <em>raison d'etre</em> you might say. I come from the open source community side, so it&rsquo;s no surprise that my view of Bill Gates has never been that rosy.</p>
 <p>I watched Bill&rsquo;s presentation from CES today. I thought it was a bit dull, nothing revolutionary there, but then it is a consumer crowd, rather than technologists so that&rsquo;s fair enough I guess.</p>

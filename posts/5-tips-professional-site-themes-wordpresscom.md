@@ -6,6 +6,7 @@ tags:
 - wordpress
 - css
 tumblr_url: https://aftnn.org/post/47880415714/5-tips-professional-site-themes-wordpresscom
+description: "A practical guide to building a professional WordPress.com site despite its hosted platform constraints, based on creating the Yakeba charity site. It explains using a static homepage, choosing a suitable theme, custom CSS, theme HTML hooks, and widgets to achieve a polished custom design."
 ---
 <p>WordPress is a great platform for building a simple website. It&rsquo;s a featureful and flexible blogging engine and CMS. Even better <a href="http://wordpress.com">WordPress.com</a> allows you host your site for free. Reasonably priced upgrades allow you to host your site on your own domain and apply custom CSS. This all adds up to a great tool for hosting even professional sites.</p>
 

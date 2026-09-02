@@ -4,6 +4,7 @@ title: Have DSL, Able to Breathe Freely Again
 date: '2003-09-02T06:10:56+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973025752/have-dsl-able-to-breathe-freely-again
+description: "I'd hate for everybody to have to suffer the humiliation of being an ice cream man without an ice cream van. I used to force her to watch Star Trek on Wednesdays and everything. We had a nice meal and then copped out of going to the cinema and got."
 ---
 <p>Hands up who&rsquo;s DSL connection has been down all day. Just me? That&rsquo;s OK then. I&rsquo;d hate for everybody to have to suffer the humiliation of being an ice cream man without an ice cream van. Audible-frequency modems simultaneously suck and blow. I can&rsquo;t believe I used to live in a house where about five of us shared a V.90 modem!</p>
 <p>Anyway, to attempt to return to normal blogging practice, what did I get up to this weekend? My little baby sister, now 16, came to visit me. When I was still living at home she and I used to spend virtually all of our free time sat watching telly in the front room at my mum&rsquo;s house, strictly her domain these days. I used to force her to watch Star Trek on Wednesdays and everything. My relationship with her hasn&rsquo;t been quite the same since I left for Norwich, which saddens me a bit. When I left she was young and we were very close, now she is a teenager and I&rsquo;m just a walk-on in her life. That&rsquo;s fair enough I guess, and just shows yet another way that I&rsquo;m getting suckered by nostalgia.</p>

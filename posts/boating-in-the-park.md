@@ -4,6 +4,7 @@ title: Boating in the Park
 date: '2003-04-19T04:41:33+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973260371/boating-in-the-park
+description: "Louise suggested a few days ago that since Megan was in town we should do something cool and that boating at Hyde Park sounded good. Megan was a personal trainer for a long time and she advised me that I could burn my “stored energy” in a month if I."
 ---
 <p>Louise&rsquo;s friend Megan came to visit. Megan works on cruise ships and has a glamorous life flying around the place, the apex of which was two weeks training in Watford. Megan is cool, she&rsquo;s very sarcastic, which kind of disarmed me a bit at first, but now I&rsquo;ve worked it out I like her and we get on pretty well.</p>
 <p>Louise suggested a few days ago that since Megan was in town we should do something cool and that boating at Hyde Park sounded good. With the weather getting sunnier and hotter day after day it did sound good, so off we went to Kensington.</p>

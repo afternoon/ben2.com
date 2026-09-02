@@ -4,6 +4,7 @@ title: Is That Really Why You Made a Weblog?
 date: '2001-07-25T17:23:31+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058211710/is-that-really-why-you-made-a-weblog
+description: "The real reason is I found myself sending myself a lot of email. If I have something to say, I'll post it to Hypothetical, because I'll want people to read it and shout at me (if you get my meaning)."
 ---
 <p>No. The real reason is I found myself sending myself a lot of email. This is my main way of keeping notes about life in general, mostly about <a href="http://hypothetical.co.uk/">Hypothetical</a>. So I&rsquo;m going to post all that shit here from now on, when I&rsquo;m in a webmasterly mood.</p>
 <p>Here&rsquo;s a load of back-dated crap:</p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A personal week-in-review covering the stress of writing a lengthy specification, a delayed PowerBook delivery, a relaxed visit to a Notting Hill farmers' market, reading about different kinds of space, furniture plans with Louise, and finally watching Seven for the first time."
 title: Week in the Rear View Mirror
 date: '2003-06-09T00:33:53+01:00'
 tags: []

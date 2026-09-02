@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Joy of pdb.set_trace()
+description: "First of all, it’s worth showing just how easy it is to get started with my debugger, pdb . import pdb pdb.set trace() When the interpreter runs into pdb.set trace() , it’ll drop into the pdb prompt and you can start inspecting the innards of your code."
 date: '2007-04-25T14:51:37+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880432721/the-joy-of-codepdbsettracecode

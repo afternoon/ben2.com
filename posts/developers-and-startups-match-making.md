@@ -4,6 +4,7 @@ title: Developers and Startups Match Making
 date: '2008-10-16T19:29:53+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880423789/developers-and-startups-match-making
+description: " What: Developers and Startups Match Making When: Oct 29, 19:00 Where: The Old Crown (New Oxford St, nr Holborn) Startups need developers. Find developers experienced with a wide range of tools and platforms and from a variety of backgrounds, including major web properties, agencies, startups and freelancing."
 ---
 <p><strong>What: Developers and Startups Match Making<br/>
 When: Oct 29, 19:00<br/>

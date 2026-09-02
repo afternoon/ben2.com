@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Hours
+description: "I’ve been working ridiculous hours this week. Then I don’t get up until at least two. The silly thing is that I’ve been working really well and not just sitting around staring at my computer the whole time."
 date: '2003-09-25T08:53:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972986241/the-hours

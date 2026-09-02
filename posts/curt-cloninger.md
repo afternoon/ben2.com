@@ -4,6 +4,7 @@ title: Curt Cloninger
 date: '2003-05-02T00:06:46+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973165723/curt-cloninger
+description: "CSS really great, mainly Tables bad, complicated, old, semantically useless Web design hard, medium has little control, people (esp. clients) demand faithful reproduction Fluidity is one of the keys to success, allows people to do cool things like bump their text sizes or turn off images or resize their browser."
 ---
 <p>In Part XVIIII of Afternoon Attacks the Web Community with a Cudgel, I pick on designer and writer <a href="http://www.lab404.com">Curt Cloninger</a>. Curt is the author of the excellent <a href="http://www.lab404.com/dan/">Fresh Styles for Web Designers</a>, the only book on web design I own.</p>
 <p>I explained my crusade, albeit not very well, and he had some interesting points to make, not least this:</p>

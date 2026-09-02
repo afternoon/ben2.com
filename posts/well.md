@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The author experiments with sensational headlines for messages on Hypothetical, wondering whether titles add meaning or merely atmosphere. The post is also a brief reflection on deciding what belongs on the site and what should remain part of the experimental Hype project."
 title: Well
 date: '2001-07-26T02:14:20+01:00'
 tags: []

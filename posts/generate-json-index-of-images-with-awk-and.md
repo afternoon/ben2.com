@@ -7,6 +7,7 @@ tags:
 - imagemagick
 - unix
 tumblr_url: https://aftnn.org/post/79547282738/generate-json-index-of-images-with-awk-and
+description: "io mobile app which includes a set of images indexed by size. I want to transform that into some JSON. Copy and paste into manifest, remove trailing comma, make cup of tea."
 ---
 <p>I maintain a manifest file for a Trigger.io mobile app which includes a set of images indexed by size. I&rsquo;ve taken to generating the JSON with <code>awk</code> and <a href="http://www.imagemagick.org/script/identify.php">Imagemagick&rsquo;s <code>identify</code></a> command:</p>
 

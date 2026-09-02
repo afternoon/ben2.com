@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on portlet/theme enhancements, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Portlet/theme Enhancements
 date: '2001-08-29T05:00:52+01:00'
 tags: []

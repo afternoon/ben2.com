@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some Support!
+description: "I just replied to www style quickly explaining my plan, the same content as the previous post but one really. Other than inconsistency across browsers, tables are a great layout mechanism easy to understand and very powerful."
 date: '2003-04-28T04:08:43+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973245256/some-support

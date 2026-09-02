@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on patterns, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Patterns
 date: '2003-11-24T06:56:18+00:00'
 tags: []

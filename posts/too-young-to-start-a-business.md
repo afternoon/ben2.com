@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Too Young to Start a Business
+description: "I’m currently working in my second and third startups. Library House’s data suggests the answer is well ahead. Library House’s data comes from companies seeking funding. I should also mention that I have yet have a successful business, but we’re all working hard on it."
 date: '2007-05-09T15:24:22+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880432252/too-young-to-start-a-business

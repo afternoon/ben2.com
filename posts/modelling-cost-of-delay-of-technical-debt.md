@@ -7,6 +7,7 @@ tags:
 - estimation
 - costofdelay
 tumblr_url: https://aftnn.org/post/143756019147/modelling-cost-of-delay-of-technical-debt
+description: "Don Reinertsen and others propose Cost of Delay as a metric for prioritising work in product delivery teams (read: agile). If non-transactional features are not working, the cost might be more to your reputation, which knocks on to your revenue/profit in ways which are hard to predict. The simplest approach"
 ---
 <p><a href="https://www.amazon.co.uk/Principles-Product-Development-Flow-Generation/dp/1935401009">Don
 Reinertsen</a>

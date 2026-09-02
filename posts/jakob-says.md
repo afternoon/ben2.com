@@ -4,6 +4,7 @@ title: Jakob Says...
 date: '2002-05-12T05:11:55+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058155653/jakob-says
+description: "For a modem that means 2k, 8k for ADSL/ISDN or 100k for T1."
 ---
 <p>In order to be a good website, you need:</p>
 <p class="eg">

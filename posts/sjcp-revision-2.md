@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SJCP Revision 2
+description: "I found an excellent set of study notes for the SCJP exam . The nice thing about this set of notes is that each section has a couple of tips and traps to watch out for, here’s the full set ."
 date: '2003-11-12T21:20:57+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972944202/sjcp-revision-2

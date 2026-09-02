@@ -4,6 +4,7 @@ title: Carnivale!
 date: '2003-08-26T05:49:01+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973029136/carnivale
+description: "We couldn’t be content with letting the procession go by, so we ended up walking along the route with the first people for much of the way. I’m definitely going to go again and next time I’m going to go and find myself a great vantage point on Westbourne Grove."
 ---
 <p>Notting Hill Carnival is cool.</p>
 <p>Charlie and I got there quite early this morning. It was before the procession started and long before the crowds really intensified. We wandered around the &ldquo;eye of the storm&rdquo; area in the middle of the U-shaped procession route, checking out the soundsystems and chicken roasting operations. Eventually we found ourselves up behind the Westway at the point where the procession was setting off from. We saw the king and queen kicking things off followed by the highly energetic initial dancing.</p>

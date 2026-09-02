@@ -4,6 +4,7 @@ title: New York, New York!
 date: '2003-03-29T17:32:35+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973348165/new-york-new-york
+description: "I started the day today with a bowl of Oreo's cookie cereal, a sickly mass of souvenir bounty. I bought the new Gibson, Pattern Recognition and a book about AI, Blondie 24 . All in all, I had a great time and I can't wait until my next adventure!"
 ---
 <p>I started the day today with a bowl of Oreo&rsquo;s cookie cereal, a sickly mass of souvenir bounty. Yes, we&rsquo;re back in the UK (as of about 8 A.M. yesterday).</p>
 <p>I&rsquo;ve summarised the holiday a lot for postcards and phone calls already, but I&rsquo;ll try not to do that here. To summarise though, we had a great time and did loads of stuff. It went far too quickly and we did not want to come back at all.</p>

@@ -4,6 +4,7 @@ title: BBC News and Some Example Grid Syntax
 date: '2003-04-29T18:40:05+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973224652/bbc-news-and-some-example-grid-syntax
+description: "Obviously it wouldn’t be a grid if there wasn’t some kind of consistency in sizes between blocks, but when layouts get more complex the table author has to rely on increasingly more cunning configurations of colspan and rowspan in order to get the right sized blocks into the layout."
 ---
 <p>The BBC news site could in many ways be described as a bellwhether and a goal. It&rsquo;s intensely gridded and is a pretty nice layout. Also, it&rsquo;s very highly visited and needs to be compatible with everything. They&rsquo;re not going to be abandoning tables soon. Still, the page could be used as a test case for new syntax.</p>
 <p>One thing that occurs to me about any new kind of grid layout is that it needs to have a much more flexible approach to columns and rows. Obviously it wouldn&rsquo;t be a grid if there wasn&rsquo;t some kind of consistency in sizes between blocks, but when layouts get more complex the table author has to rely on increasingly more cunning configurations of colspan and rowspan in order to get the right sized blocks into the layout.</p>

@@ -4,6 +4,7 @@ title: Another Problem Layout
 date: '2003-04-28T03:36:49+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973248750/another-problem-layout
+description: "An example would be the portlets down the left of Amazon’s front page or the content areas on The Forum’s site (one of mine). This problem distills down to a more fundamental one: the problem of arranging one piece of content at the left side of a block and another."
 ---
 <p>Blocks with pretty graphical borders.</p>
 <p>Often you see content managed sites that feature content split up into multiple blocks. The chief example is probably the weblog. Many people like to put nice graphical borders around each &ldquo;portlet&rdquo;, but this requires tables or a whole bunch of CSS faff. The gist is simple, a particular graphic at each corner and then others that scale either vertically or horizontally to fit the sides, the sizes of which are dictated by the content.</p>

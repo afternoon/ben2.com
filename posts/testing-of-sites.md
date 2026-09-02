@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Testing of Sites
+description: "In many ways Soup’s test room is a lie. This means that no one changes their fonts or installs an office bar or anything so heinous. A much better way to test a product is on site. Test on site, even if you hate them and it’s fucking miles away."
 date: '2002-02-21T12:31:00+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058167060/testing-of-sites

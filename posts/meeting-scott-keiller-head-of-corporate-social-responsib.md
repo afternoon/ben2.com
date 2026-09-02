@@ -4,6 +4,7 @@ title: Meeting Scott Keiller, Head of Corporate Social Responsibility for Starbu
 date: '2007-02-01T16:28:58+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880438590/meeting-scott-keiller-head-of-corporate-social-responsib
+description: "Yesterday I met Scott Keiller of Starbucks to discuss his company's role in the Ethiopian government's attempts to trademark the names of several premium types of coffee. While much of this data comes via Scott rather than through any kind of rigourous journalism, Phil Bloomer, head of Oxfam's Make Trade"
 ---
 <p>Yesterday I met Scott Keiller of Starbucks to discuss his company&rsquo;s role in the Ethiopian government&rsquo;s attempts to trademark the names of several premium types of coffee. We met in a Starbucks store on Fulham Palace Road in London and chatted for 40 minutes. Scott covered off quite a few of the things Starbucks does to try to reach out to the people of the areas in which it has stores and talked about coffee production and buying, Oxfam and other organisations and Starbucks&rsquo; take on this specific case. Scott disputed the allegations made by Oxfam and said &ldquo;Starbucks believes that Ethiopian farmers have a right to their regional coffee names and that [they] do not claim any ownership rights to Ethiopia&rsquo;s coffee names.&rdquo;</p>
 

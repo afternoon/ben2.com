@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Search Term Highlighting
+description: "I added a regular expression to highlight search terms in matching entries, in the style of Google’s cache. a search for hypothetical will replace all instances of hypothetical with <span style=\"background color: 9f0;\" hypothetical</span ."
 date: '2002-06-28T06:30:36+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058145549/search-term-highlighting

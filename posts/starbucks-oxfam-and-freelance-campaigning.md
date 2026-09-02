@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Starbucks, Oxfam and freelance Campaigning
+description: "I received a card from Oxfam to send to Phil Broad, the managing director of Starbucks, yesterday. So I took a walk, wandered into their reception and announced that I was there to meet to Phil Broad. Phil was in Seattle."
 date: '2007-01-26T15:27:37+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880439260/starbucks-oxfam-and-freelance-campaigning

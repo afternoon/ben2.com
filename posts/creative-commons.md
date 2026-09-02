@@ -4,6 +4,7 @@ title: Creative Commons
 date: '2005-05-18T05:38:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880486928/creative-commons
+description: " I made a track a long time ago and when I came to build this site I decided to upload it. A few days ago Drew emailed me to ask if it was OK to use the track for a recording of a series of interviews."
 ---
 <p>I made a <a href="/stuff/music/afternoon-hurry.mp3/">track</a> a long time ago and when I came to build this site I decided to upload it.</p>
 <p>A few days ago <a href="http://starant.com/">Drew</a> emailed me to ask if it was OK to use the track for a recording of a series of interviews. I said yeah! The interviews focus on the relationship between image and text and are very interesting.</p>

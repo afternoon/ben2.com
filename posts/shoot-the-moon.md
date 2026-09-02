@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Shoot the Moon
+description: "My parents divorced when I was about nine. I almost don’t remember how I really felt about it, the emotion that I must have felt seems as distant as that of the others around me at the time."
 date: '2003-07-29T02:41:39+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973051980/shoot-the-moon

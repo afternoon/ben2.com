@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thoughts on Django
+description: "Had a bit of play with Django today, just messing around really. Sometimes I even have to write form tags! Django doesn’t generate forms for you because it lets you control the presentation. This is mad, Django has this great model for plugging apps into sites."
 date: '2005-11-19T06:33:51+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880474927/thoughts-on-django

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Roses
+description: "I bought her a pretty big bouquet of roses and thistles. It was the first time I’d bought flowers and also the first time Louise had been bought flowers. When I went back to collect them I got to watch the guy making the bouquet, which was pretty good."
 date: '2003-10-17T04:23:29+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972970515/the-roses

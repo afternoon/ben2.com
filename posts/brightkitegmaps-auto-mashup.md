@@ -4,6 +4,7 @@ title: BrightKite/GMaps Auto-mashup
 date: '2008-11-27T17:03:25+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880421515/brightkitegmaps-auto-mashup
+description: "I was happy to see that creating an embeddable map of my BrightKite check-ins was as simple as feeding my BrightKite RSS url (which contains GeoRSS) info into the search box on maps.google.com and then requesting the embed code."
 ---
 <p>A sign that the mashup ecosystem is maturing fast. I was happy to see that creating an embeddable map of my BrightKite check-ins was as simple as feeding my BrightKite RSS url (which contains GeoRSS) info into the search box on <a href="http://maps.google.com/">maps.google.com</a> and then requesting the embed code.</p>
 

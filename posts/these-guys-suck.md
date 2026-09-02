@@ -1,6 +1,7 @@
 ---
 layout: post
 title: These Guys Suck!
+description: "Don’t click here ! NPR won’t like me! Yes this link is top rated on Blogdex right now. NPR: You are wrong! Official."
 date: '2002-06-21T00:28:44+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058149132/these-guys-suck

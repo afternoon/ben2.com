@@ -4,6 +4,7 @@ title: Inspecting CSS in Python with cssutils
 date: '2007-03-12T14:53:38+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880435651/inspecting-css-in-python-with-codecssutilscode
+description: "The values they give us are used to generate a CSS stylesheet which alters the rendering of certain page items. I wanted to write test cases to ensure that the CSS is being generated correctly, so I used Christof Hoecke's cssutils module to parse and then inspect the CSS. cssutils."
 ---
 <p>For a new <a href="http://mymart.com/">MyMart</a> feature, we&rsquo;re allowing our members to customise the look of parts of the site.They can choose custom colours with a palette widget. The values they give us are used to generate a CSS stylesheet which alters the rendering of certain page items.</p>
 <p>I wanted to write test cases to ensure that the CSS is being generated correctly, so I used Christof Hoecke&rsquo;s <a href="http://cthedot.de/cssutils/"><code>cssutils</code></a> module to parse and then inspect the CSS.</p>

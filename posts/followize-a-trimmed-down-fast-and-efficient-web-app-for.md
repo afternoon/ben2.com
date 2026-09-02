@@ -4,6 +4,7 @@ title: Followize - A Trimmed down, Fast and Efficient Web App for Reading Tweets
 date: '2009-01-16T18:14:26+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880417972/followize-a-trimmed-down-fast-and-efficient-web-app-for
+description: "Followize is a trimmed down, fast and efficient web app for reading tweets. Followize let's you keep up-to-date with everyone easily."
 ---
 <p><a href="http://followize.appspot.com/">Followize</a> is a trimmed down, fast and efficient web app for reading tweets. See the latest update from each person you follow, explore replies and timelines easily. It&rsquo;s kind of to Twitter as Gmail is to email.</p>
 

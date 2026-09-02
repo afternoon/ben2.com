@@ -4,6 +4,7 @@ title: New Laptop!
 date: '2003-06-09T16:12:13+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973117178/new-laptop
+description: "Woo hoo! First impressions: It's actually surprisingly light for it's size The screen is huge It's very quick The titanium feels really quite nice, very tactile It's a bit noisier The keyboard is mostly the same, but my fingers are nervous OS X is much happier on a 1Ghz G4"
 ---
 <p>Woo hoo! It arrived finally. First impressions:</p>
 <ul>

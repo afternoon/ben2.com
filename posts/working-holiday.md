@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "While temporarily working in Norwich, the author spends an evening drawing a Routemaster bus in Photoshop and struggles to fit it into a wider design. The short diary entry also records missing Louise, who has returned to London after visiting for the weekend."
 title: Working Holiday
 date: '2003-09-08T05:22:23+01:00'
 tags: []

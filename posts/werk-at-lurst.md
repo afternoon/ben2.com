@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The author describes getting a first contracting assignment as a usability consultant: evaluating a website, recording emotional reactions and producing a report. The work offers a welcome change from ongoing client revisions and prompts reflection on how usability problems can be identified and communicated clearly."
 title: Werk at Lurst
 date: '2002-05-20T12:55:02+01:00'
 tags: []

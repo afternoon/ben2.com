@@ -4,6 +4,7 @@ title: Live Reaktions
 date: '2005-09-26T17:01:31+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880483247/live-reaktions
+description: "Moblog are running a competition \" The soundtrack to your life \" in conjunction with Sony Ericsson. Damn that is the sweetest piece of software ever. I'd just like to produce good music and share it really."
 ---
 <p>Moblog are running a competition &ldquo;<a href="http://http://www.thesoundtracktoyourlife.com/">The soundtrack to your life</a>&rdquo; in conjunction with Sony Ericsson. It&rsquo;s a musical theme to promote the sexay W800i walkman phone. I entered a piece of what might be broadly termed photojournalism. I went to my favourite record shop, Rough Trade, and to a crazy shop that sells synths and music production tech and interviewed the people there, chatted about music and then pulled it all together into a brief piece exploring my interaction with music. You can find the entry split into four parts on the site: <a href="http://moblog.co.uk/view.php?id=96784">1</a>, <a href="http://moblog.co.uk/view.php?id=%2096786">2</a>, <a href="http://moblog.co.uk/view.php?id=%2096788">3</a>, <a href="http://moblog.co.uk/view.php?id=%2096789">4</a>.</p>
 

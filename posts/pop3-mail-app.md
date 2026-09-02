@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on pop3 mail app, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: POP3 Mail App
 date: '2002-01-11T15:40:31+00:00'
 tags: []

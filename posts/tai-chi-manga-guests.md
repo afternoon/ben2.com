@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tai Chi, Manga, Guests
+description: "It’s the old frame and Kenny was teaching the new frame. I learnt a little bit more of the 19 point form. On Friday we had loads of guests come down and went to a Manga all nighter at The Other Cinema in Soho. It’s clearly the way forward."
 date: '2003-02-06T02:50:02+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973367872/tai-chi-manga-guests

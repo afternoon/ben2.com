@@ -4,6 +4,7 @@ title: Exhausted
 date: '2003-05-27T04:07:50+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973127767/exhausted
+description: "Oh my God, I had a big weekend. I crawled into bed very drunk and smelling of paraffin from fire breathing. Delia is the father's boss (he works for Norwich City Football Club). In conclusion, the summer is here and it's going to be *the bomb*."
 ---
 <p>Oh my God, I had a big weekend. Not toxic, but super-fulfilling.</p>
 <p>We arrived in Norwich at about eleven on Saturday night (damn my disorganisation) as Peter&rsquo;s engagement party was in full swing. I got drunk. I then hung around chatting with loads of people until about seven the following morning. I crawled into bed very drunk and smelling of paraffin from fire breathing. Fire breathing is mad. I&rsquo;d say it&rsquo;s better to look at than to do and the following paraffin burps are dark. So dark that even two bowls of Mat&rsquo;s fantastic green curry couldn&rsquo;t get rid of them. I ate two bowls of Rhubarb crumble as well :-)</p>

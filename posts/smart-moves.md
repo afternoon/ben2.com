@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Smart Moves
+description: "Got a bit further with Smarty. For example, I pass in an array describing the left hand portlet block of Hype (login, threads, etc). Smarty doesn’t seem to cover these problems."
 date: '2002-05-13T09:09:09+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058154134/smart-moves

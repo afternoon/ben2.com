@@ -4,6 +4,7 @@ title: More Vim Hacks
 date: '2003-11-25T05:58:52+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880572572/more-vim-hacks
+description: ":set keywordprg=google Where google is a shell script that simply looks like: #!/bin/sh /usr/bin/open http://www.google.com/search?q=$1 The net effect is the whenever I hit K in Vim, I get a google search of the keyword under the cursor. :-) BTW, open is a clever OS X program which uses OS X's"
 ---
 <p class="eg"><code>:set keywordprg=google</code></p>
 <p>Where <code>google</code> is a shell script that simply looks like:</p>

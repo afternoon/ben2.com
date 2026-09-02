@@ -4,6 +4,7 @@ title: IT People
 date: '2003-10-21T06:46:07+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972966524/it-people
+description: "I've been having a few problems with an IT department lately. We agreed a price and a date for the work to start. I got a bit nervous about IT, as I've had problems before. When people contact me they've often been thinking about their new site for a while,."
 ---
 <p>I&rsquo;ve been having a few problems with an IT department lately. Being freelance, you wouldn&rsquo;t think this happens much, but sometimes my clients consist of a marketing/managerial person, who wants to do something interesting online, and the IT department, that wants to go home early.</p>
 <p>I pitched for a job building a small site that had quite bit of content saying that I would deploy a simple CMS, written in PHP or something and with a little DB backend, to store the content. It will be really simple, I said. You&rsquo;ll be able to access any page and edit it, move it around or create new pages all through a nice simple web interface (I&rsquo;m envisaging something kind of like Zope&rsquo;s interface). My client doesn&rsquo;t know HTML so it was cool. We agreed a price and a date for the work to start.</p>

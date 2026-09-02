@@ -4,6 +4,7 @@ title: Exif/BS
 date: '2003-04-14T05:56:03+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973276521/exifbs
+description: "PHP's read_exif_data function found a mine of information (literally I guess) in my digital picture library. It outputs an index page and a page with previous/next navigation for each image. The next step is to write PHP that will read these XML gallery definitions and produce an interface."
 ---
 <p>After installing several CPAN modules to dig Exif data out of JPEGs (including Image::Info) I was appalled that none of them found a thing. PHP&rsquo;s <code>read_exif_data</code> function found a mine of information (literally I guess) in my digital picture library.</p>
 <p>I&rsquo;ve been meaning to do a gallery section for this site for a while, but I want to keep my iPhoto library and my online library in sync and make it easy for me to add new photos to both. Plus I didn&rsquo;t want a database. iPhoto can export to HTML. It outputs an index page and a page with previous/next navigation for each image. It also generates scaled versions for thumbnails and for actual-size pictures if you wish. After toying with the idea of reformatting the output HTML in Perl or PHP, it occurred to me that this would mean that the design of the gallery section became static and that I would have to regenerate every time I wanted to tweak the pages.</p>

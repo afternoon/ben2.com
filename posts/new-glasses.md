@@ -4,6 +4,7 @@ title: New Glasses
 date: '2003-07-17T05:04:04+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973068031/new-glasses
+description: "I got my new glasses today. I've still got rims, but they're deeply rectangular, and they are designer (Calvin Klein of all things) rather than own-brand. I probably can't actually bring myself to put my current sunglasses on ever again."
 ---
 <p>I got my new glasses today. For the first time in a long time I&rsquo;m very aware of the fact that I&rsquo;m wearing glasses.</p>
 <p>I&rsquo;d got ever so used to the framing of the world provided by the old pair and the new pair are quite different. They are much wider, which gives some things a crazy movie look. They are also  a fairly different prescription on the left side, which is disorienting and a little painful. I can&rsquo;t drive in them yet for this reason.</p>

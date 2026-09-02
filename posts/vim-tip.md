@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vim Tip
+description: "Use this command to go to where you were before the last jump operation. “ This means /blah, not down, up etc. ” (that’s two apostophes) does to the beginning of the line as well."
 date: '2003-11-28T21:42:49+00:00'
 tags:
 - vim

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on permanent logins with php sessions, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Permanent Logins with PHP Sessions
 date: '2004-05-03T19:09:16+01:00'
 tags: []

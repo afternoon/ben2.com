@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Liberal Democrat Force
+description: "Charles Kennedy is no Tony Blair, but his party is growing year on year. Their strong showing in this week’s elections is interesting, but the European parliament votes aren’t released until tomorrow."
 date: '2004-06-12T23:08:36+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880510572/the-liberal-democrat-force

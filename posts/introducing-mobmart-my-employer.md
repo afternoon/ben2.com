@@ -4,6 +4,7 @@ title: Introducing MobMart, My Employer
 date: '2006-09-25T15:23:07+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880449972/introducing-mobmart-my-employer
+description: "FeedBurner reports that my RSS traffic hasn't fallen off particularly, but then people rarely unsubscribe from blogs because of low traffic. Not me at least, I have a Full Time Job . After five years as a freelance developer, punctuated with a period of Cohacking and Moblogging, I have become."
 ---
 <p>Wow, two months since I&rsquo;ve posted. And I was doing so well. Oh well, I hope the del.icio.us feed has kept you interested :-). FeedBurner reports that my RSS traffic hasn&rsquo;t fallen off particularly, but then people rarely unsubscribe from blogs because of low traffic. High traffic on the other hand, who has the time?!</p>
 <p>Not me at least, I have a <strong>Full Time Job</strong>.</p>

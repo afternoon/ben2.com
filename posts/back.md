@@ -4,6 +4,7 @@ title: Back
 date: '2007-10-31T16:24:57+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880428395/back
+description: "I may not stick with it, but I’ve been trying to find time to build an OpenID-powered comments system for a year now and it doesn’t look like it’s going to happen any time soon!"
 ---
 <p>Louise and I went to St Petersburg. It was pretty interesting to see what Russia is like these days, pounded by Tsars and communists, and finally starting to get some freedom, though of a limited sort. They love Putin, he&rsquo;s increased salaries by 10x on average. I took <a href="http://www.flickr.com/photos/afternoon/sets/72157602373892820/">some pictures</a>.</p>
 

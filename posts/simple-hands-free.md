@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Simple Hands Free
+description: "It’s not even activated yet and I’m sure it will be great when it is, but the hands free that it ships with is rubbish. This extra feature has a nasty side effect. Mine’s done it already."
 date: '2006-10-17T20:57:21+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880445319/simple-hands-free

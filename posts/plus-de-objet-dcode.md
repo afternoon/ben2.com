@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on plus de objet d'code, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Plus De Objet D'code
 date: '2002-08-23T02:42:44+01:00'
 tags: []

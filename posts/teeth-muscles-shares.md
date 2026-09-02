@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teeth, Muscles, Shares
+description: "Teeth I went to the shiny dentist . My teeth are absolutely fine! Muscles Later on yesterday I decided to get to the swimming pool as well. It’s a very expensive club, but the pool is only £2.95."
 date: '2003-04-26T17:24:38+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973250112/teeth-muscles-shares

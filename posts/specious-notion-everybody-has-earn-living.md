@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Specious Notion That Everybody Has to Earn A Living
+description: "We must do away with the absolutely specious notion that everybody has to earn a living. The youth of today are absolutely right in recognizing this nonsense of earning a living. So we have inspectors of inspectors and people making instruments for inspectors to inspect inspectors."
 date: '2012-07-13T11:53:42+01:00'
 tags:
 - work

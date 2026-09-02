@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Second Large Failure
+description: "I’m deeply upset and confused. Whilst I was away they found somebody else to work on the system. This is the second major failure of my freelance career. Whilst I was away my email application failed nearly totally."
 date: '2003-03-30T06:04:14+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973347107/second-large-failure

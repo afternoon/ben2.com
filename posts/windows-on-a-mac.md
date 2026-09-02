@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "To test a site in Internet Explorer 5, the author installs Windows on a PowerBook using Bochs instead of Microsoft's Virtual PC. The post records the practical frustrations and technical trade-offs of PC emulation on a Mac for browser compatibility testing."
 title: Windows on a Mac
 date: '2003-11-06T19:56:53+00:00'
 tags: []

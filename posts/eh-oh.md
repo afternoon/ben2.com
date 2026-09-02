@@ -4,6 +4,7 @@ title: Eh Oh
 date: '2001-07-31T01:00:14+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058207226/eh-oh
+description: "Maybe it's because I got something done for the first time in a while. It's tricky because I might not have any events for January but loads in June. I've just been reading about an interesting system developed at MIT Media Lab. I wish I could be an ideas hamster."
 ---
 <p>I had a good day at work today. I don&rsquo;t know why. Maybe it&rsquo;s because I got something done for the first time in a while.</p>
 <p>The challenge I am currently beset by is quite a teaser. It involves getting events from a list and displaying them in handy chronological boxes, for year, month etc. It&rsquo;s tricky because I might not have any events for January but loads in June. The data has gaps and clusters, a state which I&rsquo;m sure has an excellent Com Sci name. Additionally I may have even known this name once.</p>

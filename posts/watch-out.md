@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A brief political follow-up to correspondence with the author's MP about identity cards, sharing a freedom-themed flyer warning against Britain becoming a police state. The post points readers toward a high-resolution version of the flyer and closes with an exhortation to vote."
 title: Watch Out!
 date: '2005-04-24T22:23:55+01:00'
 tags: []

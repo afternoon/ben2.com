@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Social Web
+description: "Being an entrepreneurial developer has it’s upside! Last night I went to Banner’s Inside The Bubble event. I chatted to another nice guy, Greg Plumbly, and drank some free drinks. We were inside the bubble, it was the hype, I left before the talks started."
 date: '2006-10-10T14:04:01+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880446225/the-social-web

@@ -4,6 +4,7 @@ title: A Quickplace Function
 date: '2002-02-14T14:33:39+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058168385/a-quickplace-function
+description: "A Quickplace Function discusses"
 ---
 For reference:
 <pre>

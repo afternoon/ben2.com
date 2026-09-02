@@ -4,6 +4,7 @@ title: Moblog Valentine's Competition!
 date: '2006-01-31T15:35:34+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880461473/moblog-valentines-competition
+description: "Over at the Mobloplex we've been having fun putting together the Moblog UK Valentine's Day competition . We want to see your pictures! From your phone you can use your email application or just send an MMS to that address."
 ---
 <p>Over at the Mobloplex we&rsquo;ve been having fun putting together the <a href="http://moblog.co.uk/blog/valentines">Moblog UK Valentine&rsquo;s Day competition</a>. It&rsquo;s really three competitions in one, with prizes for the cutest couple as well as the best batchelor and batchelorette. We don&rsquo;t like to exclude anyone.</p>
 

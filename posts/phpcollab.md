@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on phpcollab, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: phpCollab
 date: '2004-03-05T03:36:55+00:00'
 tags: []

@@ -4,6 +4,7 @@ title: Ideas from Greymatter
 date: '2002-01-18T13:30:07+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058171143/ideas-from-greymatter
+description: "Greymatter is a particuarly feature packed blog package. It has here style comments, which are no good for Hype, IMHO. A better idea would be a set of 3 list boxes somewhere in the profile section."
 ---
 <p><a href="http://www.noahgrey.com/greysoft/features.shtml">Greymatter</a> is a particuarly feature packed blog package. Has things like karma and stuff. It can do on-the-fly skin changes with CSS.</p>
 <blockquote><p>Literally dozens of configuration options&hellip;</p></blockquote>

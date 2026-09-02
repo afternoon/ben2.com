@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The 11th Lie of the Entrpreneur
+description: "Guy Kawasaki adds the following to his top ten lies of entrepreneurs : “We’ll generate a lot of traffic and monetize it with Google AdSense” He spills the beans on his blog’s numbers in a very open way for a VC, it’s certainly useful for comparison."
 date: '2006-02-01T15:34:40+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880460932/the-11th-lie-of-the-entrpreneur

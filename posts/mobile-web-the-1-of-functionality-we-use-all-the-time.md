@@ -4,6 +4,7 @@ title: 'Mobile Web: The 1% of Functionality We Use All the Time'
 date: '2006-01-20T19:22:41+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880464383/mobile-web-the-1-of-functionality-we-use-all-the-time
+description: "Saturday evening, over cheap Lastminute.com dinner at Quaglino's, Louise and I were discussing which film we'd like to see afterwards. Mobile services should, IMHO, be about shipping the tiny fraction of functionality which is genuinely useful in a mobile setting, everything else should be done through the web. Wait, Orange"
 ---
 <p>Saturday evening, over cheap Lastminute.com dinner at Quaglino&rsquo;s, Louise and I were discussing which film we&rsquo;d like to see afterwards. It wasn&rsquo;t a late meal but for some reason there&rsquo;s a dead zone in showing times between 20:30 and 23:00. I started looking things up on the Orange Wap site. I used a location search to find the nearest cinemas. Clicking through to a cinema gave me a list of films, which after one more click gave me a list of times. What I wanted was cinemas a) near me, b) showing one of the three films I wanted and c) showing them in the next hour. Surely this is an extremely common case? This should be a single click. I should be able to bookmark <a href="http://orange.multimedia/films/nowshowing/">http://orange.multimedia/films/nowshowing/</a> and just get this list, location-aware. Instead I spent much of the meal clicking away, instead of laughing and making polite conversation.</p>
 

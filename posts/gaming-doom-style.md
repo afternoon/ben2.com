@@ -4,6 +4,7 @@ title: Gaming, Doom Style
 date: '2003-11-12T06:14:09+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972945167/gaming-doom-style
+description: "I've just been playing Metroid Prime for the last couple of hours. Before I bought Metroid , I read a Eurogamer review where the guy said the feeling he got while playing it was the feeling he got when playing Doom . When I first got Doom (one HD, one."
 ---
 <p>I&rsquo;ve just been playing <em>Metroid Prime</em> for the last couple of hours. I was playing the section where you get the thermal visor. Suddenly everything goes black, so you switch on the visor. This is not much better.</p>
 <p>Before I bought <em>Metroid</em>, I read a <a href="http://www.eurogamer.net/article.php?article_id=4515">Eurogamer review</a> where the guy said the feeling he got while playing it was the feeling he got when playing <em>Doom</em>. I wasn&rsquo;t sure before, but reading that made me buy it. It really is like playing <em>Doom</em>.</p>

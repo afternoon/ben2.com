@@ -7,6 +7,7 @@ tags:
 - nginx
 - byteflow
 tumblr_url: https://aftnn.org/post/47880414966/announcing-aftnnorg-version-20
+description: " Version 2.0 of aftnn.org is here! Byteflow actually allows me to select a text renderer per-post, so I can write one post in Markdown, the next in MediaWiki markup. Django sets cookies immediately, instead of when a session is actually used, so it’s page are effectively uncacheable."
 ---
 <p>Version 2.0 of <a href="http://aftnn.org/">aftnn.org</a> is here!</p>
 

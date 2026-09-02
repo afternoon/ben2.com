@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The author critiques a client's visually elaborate application mock-up, arguing that competent Photoshop work does not make a usable interface. The post examines tabs, rollovers, 3D effects and muddled navigation, asking when a developer should challenge a client's design rather than simply implement it."
 title: When Should You Go with a Flow You Don't Like?
 date: '2003-04-09T14:15:47+01:00'
 tags: []

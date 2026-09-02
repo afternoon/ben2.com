@@ -4,6 +4,7 @@ title: Kenya, Finally
 date: '2004-03-05T03:54:34+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880547470/kenya-finally
+description: "Kenya was incredible. Both shopping centres are useful, but there's something about the guards and the people there, it's just not comfortable. We even flew straight over our flat, much as the first planes of the day are flying over me now."
 ---
 <p>Kenya was incredible. We spent a few days with my sister in Nairobi, four days on safari on the Maasai Mara and three nights at the coast.</p>
 <p>We came back just over a month ago and it feels like it never happened. Just six weeks ago I was in a van looking a lion in the face at a distance of about three metres. Man. With all the photos and the stories it seems almost like I just watched David Attenborough do it one time too many. The photos are great but they&rsquo;re so static and the memory of the movement and the people and the animals has faded so quickly. Here I am again sat in my flat in London at my laptop pretending not to work when there&rsquo;s a whole world out there.</p>

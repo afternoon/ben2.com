@@ -4,6 +4,7 @@ title: Bike Auction
 date: '2005-04-06T19:14:42+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880491655/bike-auction
+description: "Give yourself an hour for viewing Take paper to make notes on the bikes/stuff you’re interested in Set a maximum price that you’re willing to pay for each item When the auction starts be impassionate, just let it happen Or at least that’s what intend to do when I go."
 ---
 <p><a href="http://moblog.co.uk/view.php?id=55438"><img src="http://moblog.co.uk/blogs/140/thumbs/moblog_af7a2e0381aee.jpg" width="160" height="120" alt="All teh bikexorz"/></a></p>
 <p>I went to an auction of lost property and stolen stuff recovered by the police at <a href="http://lloyds-auction.co.uk/">Lloyds Auction House</a> in Wandsworth to try and buy a new bike.</p>

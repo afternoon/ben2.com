@@ -4,6 +4,7 @@ title: Monster
 date: '2004-04-03T19:45:22+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880535063/emmonsterem
+description: "The previous film I saw was 21 Grams , also excellent, but in no way jolly. I believe the truth is that people do things for a reason and Aileen is a very sad example of that. Yet her portrait of a terribly poor downtrodden woman is utterly convincing. I'm."
 ---
 <p>Monster is an amazing film. As I sat down at the beginning I thought, I&rsquo;m not sure I want to watch this. The previous film I saw was <em>21 Grams</em>, also excellent, but in no way jolly. I have to give myself a break, I thought.</p>
 <p>The film is very sympathetic to Aileen Wournos. The Daily Mail reader in you will turn that sentence around and could revile the film and me for saying such a bleeding-heart liberal thing. I believe the truth is that people do things for a reason and Aileen is a very sad example of that.</p>

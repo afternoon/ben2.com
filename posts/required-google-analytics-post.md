@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on required google analytics post, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Required Google Analytics Post
 date: '2005-11-22T20:40:45+00:00'
 tags: []

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "After three months working from Bali, the author examines long-distance contracting, cheap coworking cafés, connectivity, time-zone friction and clients' reluctance to start projects without face-to-face meetings. Returning to London brings renewed professional energy, startup connections and questions about freelancing, consulting and building a scalable business."
 title: Working from Bali, Working from London
 date: '2009-03-18T19:20:17+00:00'
 tags:

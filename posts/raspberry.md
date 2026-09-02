@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on raspberry, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Raspberry
 date: '2003-10-08T20:21:28+01:00'
 tags: []

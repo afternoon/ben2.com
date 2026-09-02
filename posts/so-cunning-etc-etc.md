@@ -1,6 +1,7 @@
 ---
 layout: post
 title: So Cunning Etc Etc
+description: "Well, IE is having a crashy day so I’m posting with NS6. Well, IE is having a crashy day so I’m posting with NS6. It wouldn’t be too bad except that I actually have some work to do."
 date: '2002-03-20T21:08:49+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058161644/so-cunning-etc-etc

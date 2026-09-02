@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Haskell Highway
+description: "Well, first of all I’ve never used Rails, so I suck. Python and Ruby have some neat syntactic toys, but Haskell is the state of the art when it comes to expressive code. Haskell is a compiled, static language. I should just stick to Django probably : )."
 date: '2006-03-22T03:18:38+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880456985/the-haskell-highway

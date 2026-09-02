@@ -4,6 +4,7 @@ title: IE Hack
 date: '2003-06-02T18:47:32+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973121636/ie-hack
+description: "Go here in IE/PC to find out."
 ---
 <p>Ha ha ha ha hahahaaah ahah ahahahaaah ahahahhahaaa!!</p>
 <p>The following code:</p>

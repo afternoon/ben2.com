@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The author recommends Provenance Unknown's concise web writing style guide and argues that more people writing online need a consistent editorial standard. The post praises the guide's thoughtful approach while lamenting how rarely web authors apply even basic consistency to their own work."
 title: Web Writing Style Guide
 date: '2003-11-17T05:00:57+00:00'
 tags: []

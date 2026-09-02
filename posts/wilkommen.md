@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "An opening announcement for a new personal weblog. The author already has another site but wanted a separate space away from friends' attention, and celebrates the simple fact that the new weblog is working and ready to use."
 title: Wilkommen!
 date: '2001-07-25T16:44:33+01:00'
 tags: []

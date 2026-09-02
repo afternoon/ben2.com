@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Scheme and Stuff
+description: "I’m slightly worried that I’m not applying as I’m learning. As I was reading the author mentioned Scheme, which I don’t know much about other than that it is Lisp like in style. This has unique applications in the world of HTTP."
 date: '2003-10-13T15:47:28+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972972821/scheme-and-stuff

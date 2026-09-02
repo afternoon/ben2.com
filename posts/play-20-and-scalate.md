@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on play 2.0 and scalate step-by-step, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Play 2.0 and Scalate Step-By-Step
 date: '2012-10-01T17:20:00+01:00'
 tags:

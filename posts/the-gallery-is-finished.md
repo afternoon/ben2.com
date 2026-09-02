@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Gallery Is Finished!
+description: "Today it is finally finished. I’m going to do that tomorrow though. All week long I have been working on a gallery section for this site in my spare time."
 date: '2003-04-19T06:01:01+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973259811/the-gallery-is-finished

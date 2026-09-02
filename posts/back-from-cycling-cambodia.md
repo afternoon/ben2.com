@@ -4,6 +4,7 @@ title: Back from Cycling Cambodia
 date: '2006-12-05T23:49:24+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880441355/back-from-cycling-cambodia
+description: "We didn’t have time to dig deeper unfortunately, but we were able to get off the plane, through immigration, on to the train, into town, transfer on the tube equivalent, look around a little bit, have supper, get the LRT and train back, back through check-in and immigration in under."
 ---
 <p>Cambodia and Vietnam are fantastic places, really very friendly and beautiful. I found them to be much more chilled than Kenya, cities especially. Ho Chi Minh is on the cusp of modernisation, though currently quite ramshackle. Phnom Penh is colonial splendor and Buddhist architecture. Out of the cities, both countries are lush and very flat (at least in the southern areas, the Mekong etc).</p>
 

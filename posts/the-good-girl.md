@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Good Girl
+description: "I thought this was nice. It’s so rare to find people with believable flaws. I thought this was nice. Jennifer Aniston, Jake Gylenhaal and John C Reilly were all really excellent."
 date: '2003-06-02T02:40:05+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973126093/the-good-girl

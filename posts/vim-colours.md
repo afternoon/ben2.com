@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vim Colours
+description: "I finally got around to making my own Vim colour scheme. But then all Vim colour schemes are defined as a set of differences from the default, so it won’t, like, break at any point. It’s powerful and it’s really usable."
 date: '2004-03-17T06:39:20+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880538736/vim-colours

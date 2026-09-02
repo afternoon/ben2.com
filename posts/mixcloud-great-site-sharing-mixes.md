@@ -6,6 +6,7 @@ tags:
 - mixcloud
 - minimal
 tumblr_url: https://aftnn.org/post/47880407083/mixcloud-great-site-sharing-mixes
+description: "UK startup Mixcloud has built a great site for sharing DJ mixes. It was fun enough that I typed out the full track-listing for my now-venerable Make It Minimal mix, all 43 tracks! Make It Minimal by Afternoon on Mixcloud"
 ---
 <p>UK startup Mixcloud has built a great site for sharing DJ mixes. It was fun enough that I typed out the full track-listing for my now-venerable <a href="http://aftnn.org/stuff/music/afternoon_-_make_it_minimal.mp3">Make It Minimal</a> mix, all 43 tracks!</p>
 

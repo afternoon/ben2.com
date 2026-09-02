@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "After noticing readers and comments, the author resumes blogging to discuss leaving Soup, unemployment, disrupted sleep and uncertainty about what comes next. The post captures an early period of transition, mixing self-deprecating observations with attempts to find direction and structure after quitting a job."
 title: Well, Since There Are People Reading...
 date: '2002-03-15T00:25:51+00:00'
 tags: []

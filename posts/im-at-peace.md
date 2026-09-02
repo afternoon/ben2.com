@@ -4,6 +4,7 @@ title: I'm at Peace
 date: '2003-05-28T04:42:52+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973126941/im-at-peace
+description: "Laptop bags are always really ugly, far too big and obviously laptop bags. I'm using it as a selling point when touting the machine around. The basic ones come in at about £65 including shipping from the US."
 ---
 <p>I found a bag for my Powerbook. This is a tricky decision. Laptop bags are always really ugly, far too big and obviously laptop bags.</p>
 <p>I carry my iBook in an <a href="http://www.drbott.com/prod/db.lasso?code=5811-IBSP">IceBook Sleeve</a>, which I&rsquo;m very happy with. I&rsquo;m using it as a selling point when touting the machine around. The nice thing is that it&rsquo;s custom made for the 12&quot; iBook. The computer sits snugly and the accessories pocket is full but never bursting. The only problem I have with it is that it&rsquo;s not big enough for documents or magazines, but this is due to the size of the iBook itself and shouldn&rsquo;t be an issue with the Powerbook.</p>

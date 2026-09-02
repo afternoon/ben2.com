@@ -4,6 +4,7 @@ title: mod_perl
 date: '2003-10-02T06:58:59+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972977004/modperl
+description: "I've got a job coming up where I'll be writing a bunch of Perl. By functional, I don't just refer to Lisp et al, I mean any code where a function is a black box. And I signed up for an exam to become a Sun certified J2SE programmer."
 ---
 <p>I&rsquo;ve got a job coming up where I&rsquo;ll be writing a bunch of Perl. I had a look at the response of the web server I&rsquo;ll be running on and found that it&rsquo;s running mod_perl. Ooh I thought, I&rsquo;ll go and have a look at that and see what it looks like.</p>
 <p>What I found is a tutorial that tells you at great length that you will fall on your arse if you dare to use closures, or destructive subroutines in any way.</p>

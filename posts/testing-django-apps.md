@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Testing Django Apps
+description: "I’ve started work on a new, quite large Django project. A unit test base class (derived from unittest.TestCase ) that uses testenv setup and testenv teardown . The result is a simple module that can be used to create either doctests and unit tests that test both models and views."
 date: '2006-02-17T06:15:19+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880459196/testing-django-apps

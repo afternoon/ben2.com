@@ -4,6 +4,7 @@ title: Hypothetical Objects
 date: '2002-07-07T21:21:06+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973404421/hypothetical-objects
+description: "one to manage the filestore, one which is the core message handler and another that builds pages with portlets. ), by keeping it separate it should be possible to grow it until it implements all of Red Herring's ideas."
 ---
 <p>Hype 2 will be object oriented. Here are some of the objects:</p>
 <ul>

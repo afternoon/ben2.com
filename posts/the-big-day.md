@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Big Day
+description: "The Big Day is getting closer. So I’ve bid farewell to almost everybody, just the few close friends to say a final goodbye to. All this saying goodbye belies the fact that we’ve got a fuckload of packing and general sorting out to do."
 date: '2002-09-27T23:16:23+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973384457/the-big-day

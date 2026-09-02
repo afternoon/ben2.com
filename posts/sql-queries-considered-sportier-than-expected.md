@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SQL Queries Considered Sportier Than Expected
+description: "Did some optimising of Hype this weekend. When I came to do some optimisation the first thing I looked at was the number of queries that were actually being run. Once I eliminated that, the other queries take no time at all. The queries themselves can be slow however."
 date: '2004-05-17T00:36:47+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880515177/sql-queries-considered-sportier-than-expected

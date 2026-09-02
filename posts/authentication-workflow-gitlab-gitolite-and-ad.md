@@ -4,6 +4,7 @@ title: Authentication Workflow for Gitlab, Gitolite and AD
 date: '2012-07-21T00:39:20+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880399455/authentication-workflow-gitlab-gitolite-and-ad
+description: "User logs in to gitlab web interface gitlab checks user’s credentials against Active Directory ( via ominauth plugin ) and allows log in User uploads SSH key via gitlab web interface gitlab writes key to gitolite keys dir?"
 ---
 <p><a href="http://gitlabhq.com">gitlab</a> and <a href="http://sitaramc.github.com/gitolite/">gitolite</a> can be integrated with Active Directory (or another LDAP server), but how it works is a bit roundabout.</p>
 

@@ -4,6 +4,7 @@ title: Aggregate Operations in Shell
 date: '2006-02-27T19:25:02+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880458151/aggregate-operations-in-shell
+description: "To calculate mean, divide the accumulator result by the built-in variable NR , which is incremented each time a record (line) is processed and so contains the total line count by the time we reach the END block. "
 ---
 <p>You might be familiar with aggregate clauses in SQL, you know, <code>count(*)</code> and friends. I was interested in performing aggregate functions on files of tab-separated data. I&rsquo;d do an aggregate query in SQL, get a set of result rows, then I needed to total one column.</p>
 <p>I output the data to TSV, using a <code>mysql -e</code> command and redirecting the output to a file. The data looks something like:</p>

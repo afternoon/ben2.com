@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The author celebrates receiving a much better Vestax DJ mixer, then describes a rare shopping trip with Louise, music and domestic plans. The post mixes enthusiasm about finally being able to mix properly with everyday observations about buying furniture, clothes and other things for their home."
 title: Weekend Gladness
 date: '2003-07-07T04:12:19+01:00'
 tags: []

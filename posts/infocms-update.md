@@ -4,6 +4,7 @@ title: InfoCMS Update
 date: '2004-12-30T06:16:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880498625/infocms-update
+description: "Since talking to Mat about his future plans for Moblog I've been working on adding virtual-serving and componentised pages to InfoCMS. PHP doesn't really have types, so I've been thinking about what this stuff would look like in a statically-typed language. Crap, now I spent an hour building mod_caml ,."
 ---
 <p>Since talking to Mat about his future plans for <a href="http://moblog.co.uk/">Moblog</a> I&rsquo;ve been working on adding virtual-serving and componentised pages to InfoCMS. The former is there now and can be considered alpha. The latter still has a bit of a way to go, but with the latest version I can construct pages by pointing and clicking my way around.</p>
 

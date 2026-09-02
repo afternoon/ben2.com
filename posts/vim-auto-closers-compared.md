@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vim Auto-closers Compared
+description: "I type { , Vim types } for me. Handle escaped string terminators Don’t break other plugins Understand that \" is the comment character in Vim BONUS! The Winner: Auto Pairs I type { , Vim types } for me."
 date: '2014-02-05T22:14:00+00:00'
 tags:
 - vim

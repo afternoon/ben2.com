@@ -4,6 +4,7 @@ title: A Vim in TextMate Clothing
 date: '2006-06-19T17:46:18+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880452667/a-vim-in-textmate-clothing
+description: "Project plugin The project tab in TextMate is quite useful but the project plugin by Aric Blumer beats it hands down. Vim 7 also has built-in spell-checking, with Word-style wiggly red lines, tabs (a la TextMate, Safari, Firefox, etc), browsing through Netrw, syntax highlighting for Django templates built-in and a."
 ---
 <p>I&rsquo;ve been meaning to write all this stuff up for ages, but millions of everything got in the way. After my TextMate trial period expired, it became obvious that I could do most everything I wanted with Vim and a few more downloaded scripts. The great thing about TextMate is that it&rsquo;s all there for you, no <strike>months</strike> years of hacking to get things just so. The great thing about Vim though (and Emacs I&rsquo;m sure) is that it grows with you.</p>
 <h2>OS X key mappings</h2>

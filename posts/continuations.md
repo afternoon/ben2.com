@@ -4,6 +4,7 @@ title: Continuations
 date: '2004-03-11T06:20:57+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880546094/continuations
+description: "The mechanism is also fairly simple, when you need to ask a question you have a ask_question function which saves everything, dumps a batch of HTML to the user and stops processing."
 ---
 <p>Just been reading a <a href="http://mojave.cs.caltech.edu/papers/cont-tut.ps">tutorial on continuations</a> (Postscript - Postscript! WTF! It&rsquo;s 2004!) and I think I understand now. I first read about continuations in Lshift&rsquo;s discussion of their solution for NMK and again in Paul Graham&rsquo;s <a href="http://lib1.store.vip.sc5.yahoo.com/lib/paulgraham/bbnexcerpts.txt">discussion of his Lisp hacking at Viaweb</a>.</p>
 <p>The motivation is simple: when you write a normal program you do some stuff and then if you need user input, you ask for it. With HTTP, the user asks you for a result and you calculate it. To express web apps more easily in code, you want to be able to reverse that flow. The mechanism is also fairly simple, when you need to ask a question you have a ask_question function which saves everything, dumps a batch of HTML to the user and stops processing. When the user clicks something, you start processing again, parse the input and then pass it back up the stack. The calling function should never know that you stopped.</p>

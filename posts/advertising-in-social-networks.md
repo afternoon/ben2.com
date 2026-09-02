@@ -4,6 +4,7 @@ title: Advertising in Social Networks
 date: '2007-07-02T03:08:16+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880429887/advertising-in-social-networks
+description: "I’m a big one for publishing stuff on the web, photos, links, blog entries, etc, so I have spent quite a bit of time populating my Facebook profile, including adding which films, music, books and TV shows I like. Given the rich pool of data available to them, Microsoft and."
 ---
 <p><a href="http://www.nytimes.com/2006/08/23/technology/23soft.html?ex=1183435200&amp;en=e2f4d2fcb5512fe3&amp;ei=5070">Microsoft to Provide and Sell Ads on Facebook</a>.</p>
 <p><a href="http://news.bbc.co.uk/1/hi/business/5254642.stm">Google signs $900m News Corp deal</a>.</p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on plotting server performance, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Plotting Server Performance
 date: '2006-11-17T23:29:06+00:00'
 tags:

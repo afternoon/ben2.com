@@ -4,6 +4,7 @@ title: Content Versioning
 date: '2005-04-11T17:47:03+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880489955/content-versioning
+description: "Zope 3 has undo, but that’s not object-specific, it’s system-wide, so if you make a fatal change and then do ten or so things to another object, you’ve lost your undo for your fatal change."
 ---
 <p>Everything in a CMS should be versioned. Zope 3 has undo, but that&rsquo;s not object-specific, it&rsquo;s system-wide, so if you make a fatal change and then do ten or so things to another object, you&rsquo;ve lost your undo for your fatal change.</p>
 <p>Everything: content object, images, stylesheets and especially products (or modules, InfoCMS&rsquo;s equivalent) should be version managed. The user should be able to just select from the last X versions and branch from there, without destroying newer versions.</p>

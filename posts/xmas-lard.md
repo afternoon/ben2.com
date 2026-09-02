@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A humorous post-Christmas account of overeating, family visits, films, shopping and plans to rearrange the flat. The author jokes about gaining a beer belly while also worrying about overspending, reduced freelance income and an upcoming holiday, contrasting financial anxiety with gratitude for relative comfort."
 title: Xmas Lard
 date: '2003-12-29T21:30:46+00:00'
 tags: []

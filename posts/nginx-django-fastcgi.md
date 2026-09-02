@@ -7,6 +7,7 @@ tags:
 - django
 - fastcgi
 tumblr_url: https://aftnn.org/post/47880417429/nginx-django-fastcgi
+description: "A lot of people seem to have posts like this, but there were some things that I got stuck on when moving to Nginx from Apache. With this config, it will try to serve `/usr/local/django/django/contrib/admin/media/admin/media/css/base.css`. If you want to track the progress of request uploads, you will need to use"
 ---
 A lot of people seem to have posts like this, but there were some  things that I got stuck on when moving to Nginx from Apache.
 

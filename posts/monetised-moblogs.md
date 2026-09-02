@@ -4,6 +4,7 @@ title: Monetised Moblogs
 date: '2006-01-04T00:21:58+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880468429/monetised-moblogs
+description: "We're in the process of bringing advertising to Moblog UK . $10 Launch Media $6.60 BlueMountain.com $3.23 Lycos $2.57 MP3.com $1.84 Excite $0.73 DrKoop.com $0.47 The average is $38, by that kind of logic, Moblog is worth $4.1m! We've made a lot of plans in the last few years, and"
 ---
 <p>We&rsquo;re in the process of bringing advertising to <a href="http://moblog.co.uk">Moblog UK</a>. Just simple Google AdSense ads for the moment, but it&rsquo;s a turning point for a site started as a hobby. It&rsquo;s becoming a business. I got involved in the Moblog Technology side of things, which seeks to find applications for the underlying mobile content capture technology. However, since talking to Technokitten and others we&rsquo;re now re-evaluating the value of the site, of the community. Having just got into web dev as the dotcom crash arrived, I wasn&rsquo;t hugely taken by a advertising-lead business plan. But look at the average acquisition price per monthly unique visitor from some of the big deals, some old, some bang up to date (data from <a href="http://money.cnn.com/magazines/business2/business2_archive/2005/12/01/8364594/index.htm">Business 2.0</a>):</p>
 

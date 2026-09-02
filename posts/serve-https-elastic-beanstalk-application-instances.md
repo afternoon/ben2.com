@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Serve HTTPS from Elastic Beanstalk Application Instances
+description: "An Elastic Beanstalk application consists of one or more EC2 instances running your application and a set of supporting resources, including an Elastic Load Balancer . Using Elastic Beanstalk Configuration Files Customize AWS Elastic Beanstalk with Configuration Files is a good starting point for Elastic Beanstalk configuration files."
 date: '2013-04-05T16:15:00+01:00'
 tags:
 - aws

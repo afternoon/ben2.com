@@ -4,6 +4,7 @@ title: Citizen Journalism?
 date: '2006-01-14T17:34:19+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880465661/citizen-journalism
+description: " Watching the BBC’s Review 2005 programme on mobile-phone news gathering certainly provokes thoughts about nature of “citizen journalism”. Currently at least the citizen journalist model works because content is passed to a major news organisation."
 ---
 <p>Watching the <a href="http://news.bbc.co.uk/nolavconsole/ukfs_news/hi/newsid_4550000/newsid_4553800/bb_wm_4553802.stm?scope=nolavconsole&amp;tab=nolavconsole&amp;q=how%20mobile%20changed%20the%20face%20of%20news&amp;edition=ukfs&amp;mediaformat=bb_wm_&amp;start=&amp;order=">BBC&rsquo;s Review 2005 programme on mobile-phone news gathering</a> certainly provokes thoughts about nature of &ldquo;citizen journalism&rdquo;.</p>
 <p>It&rsquo;s clear that there is a massive shift is underway with in the journalism world. Blogging democratises reporting, but with mobile content, there&rsquo;s something more subtle happening. The majority of the eyewitnesses in the programme, the alleged citizen journalists, did not really identify with the phrase at all. They saw their role almost just as simple cogs in the machine, snapping pictures to support the real journalists.</p>

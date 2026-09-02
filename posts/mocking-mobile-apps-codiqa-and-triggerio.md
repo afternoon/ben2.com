@@ -8,6 +8,7 @@ tags:
 - codiqa
 - trigger.io
 tumblr_url: https://aftnn.org/post/47880395558/mocking-mobile-apps-codiqa-and-triggerio
+description: "I'm a fan of HTML for building mobile apps. Sign up for Codiqa basic account so you can build more than 3 pages and export your mock as HTML Build an awesome mock by dragging and dropping Optional: customise your app by creating a theme with jQuery Mobile Themeroller and"
 ---
 <p>I&rsquo;m a fan of HTML for building mobile apps. Its incredibly quick and easy to build simple apps. I already know HTML, CSS and JavaScript. Lots of other developers do too, so it&rsquo;s easier to find people to work with than native platforms.</p>
 

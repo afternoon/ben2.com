@@ -4,6 +4,7 @@ title: Illness
 date: '2003-03-14T04:21:52+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973355642/illness
+description: "I don't get ill very often and find it very frustrating when I do, yesterday I spent most of the day moaning. As a result I managed to do some stuff yesterday and today I am pretty much back to normal, although I still have the sore throat. The projects."
 ---
 <p>I&rsquo;ve been ill for the last few days. Fairly hefty fever, headaches and very sore throat. On Tuesday I was actually laid up in bed all day! I don&rsquo;t get ill very often and find it very frustrating when I do, yesterday I spent most of the day moaning.</p>
 <p>I am very lucky to have Louise around though, she took good care of me by prescribing a diet of only fruit and vegetables (mostly in the form of soup) and dosing me with vitamin C and Echinacea and the odd paracetamol so I could sleep. As a result I managed to do some stuff yesterday and today I am pretty much back to normal, although I still have the sore throat.</p>

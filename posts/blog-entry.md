@@ -4,6 +4,7 @@ title: Blog Entry
 date: '2003-06-12T04:30:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973115181/blog-entry
+description: "It’s run down, there’s a lot of graffiti, but the graffiti is really cool and the run downness just gives it a lived in feel rather than a broken one."
 ---
 <p>Sorry for the lack of real title. This is going to be a two-parter.</p>
 <h2>Part 1</h2>

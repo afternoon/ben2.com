@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Software Development Advice for Startups
+description: "If you can possibly avoid writing software, do so. Software is complex and fragile. It’s many times easier to change an idea or a document or a diagram than to change software."
 date: '2009-05-19T21:59:59+01:00'
 tags:
 - startups

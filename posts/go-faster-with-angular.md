@@ -6,6 +6,7 @@ tags:
 - angular
 - theleaddev
 tumblr_url: https://aftnn.org/post/130553298087/go-faster-with-angular
+description: "Go faster with Angular – Ben Godfrey at The Lead Developer 2015 from White October on Vimeo ."
 ---
 <iframe src="https://player.vimeo.com/video/139870422" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

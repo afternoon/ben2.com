@@ -4,6 +4,7 @@ title: A New CMS Is Born
 date: '2004-06-23T21:54:17+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880509557/a-new-cms-is-born
+description: "Although, to be honest, my XSLT is pretty simple: <xsl:transform version=\"1.0\" xmlns:xsl=\" <xsl:output method=\"xml\" version=\"1.0\" indent=\"yes\" encoding=\"utf-8\" doctype-public=\"-//W3C//DTD XHTML 1.0 Strict//EN\" doctype-system=\" <xsl:template match=\"*\"> <xsl:copy-of select=\".\"/> </xsl:template> </xsl:transform> InfoCMS will hopefully be released open source sometime soon."
 ---
 <p>I&rsquo;ve been making a new simple CMS for <a href="http://cohack.com">my new company&rsquo;s website</a>. It&rsquo;s based on the Hypothetical code, but instead of injecting portlets into templates, it creates simple XHTML output and offers you the chance to transform that with XSLT (and also decorate it with CSS of course). I wondered how quick doing an XSLT transform with Sablotron under PHP was.</p>
 

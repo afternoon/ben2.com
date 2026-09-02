@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on quantified self, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Quantified Self
 date: '2013-04-15T11:50:00+01:00'
 tags:

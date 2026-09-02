@@ -4,6 +4,7 @@ title: 'In Search of Silicon Valley: Day 1'
 date: '2008-11-04T03:09:46+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880423336/in-search-of-silicon-valley-day-1
+description: "I've come to the San Francisco Bay Area to find Silicon Valley. I flew in yesterday, found my hotel via BART and a MUNI bus. My plan is to hit as many free networking events as possible. Before I arrived I asked some people in my London network for Bay."
 ---
 <p>I&rsquo;m a London-based developer and startup founder. I&rsquo;ve come to the San Francisco Bay Area to find Silicon Valley.</p>
 <p>I flew in yesterday, found my hotel via BART and a MUNI bus. I&rsquo;m close to Union Square, at the heart of SF.</p>

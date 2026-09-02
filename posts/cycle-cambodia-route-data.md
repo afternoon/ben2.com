@@ -4,6 +4,7 @@ title: Cycle Cambodia Route Data
 date: '2006-12-06T19:08:45+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880440779/cycle-cambodia-route-data
+description: " Phil, the Tour Manager for our Cycle Cambodia trip and all-round excellent guy, used a Garmin GPS unit along the way to keep track the route, of stops for fruit and water and the distance travelled."
 ---
 <p>Phil, the Tour Manager for our Cycle Cambodia trip and all-round excellent guy, used a Garmin GPS unit along the way to keep track the route, of stops for fruit and water and the distance travelled. He exported the file from the unit using Garmin MapSource and gave it to me. I dug around and found a little utility called <a href="http://www.gpsbabel.org/">GPSBabel</a> which converts between various GPS and mapping file types and used it to create a file for Google Earth.</p>
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Schmocial Schmoftware
+description: "I think social software ain’t all that or a bag of potato chips. Social software is software, mostly websites, that allow people to hang out and stuff. I don’t believe people can really have 300 friends. If I can get her and her friends to use it, I’m in business."
 date: '2004-04-15T06:49:49+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880529929/schmocial-schmoftware

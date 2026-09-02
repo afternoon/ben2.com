@@ -6,6 +6,7 @@ tags:
 - email
 - analytics
 tumblr_url: https://aftnn.org/post/47880396090/if-you-had-api-your-email-what-would-you-do-it
+description: "If you could analyse all your email, or all your organisation's email, in any way, what would you do with it? By analysing the all the email in the world (or a sufficiently large volume thereof), you could apply the kind of social analytics that Twitter, Facebook, Bitly, PeerIndex, etc,."
 ---
 <p>If you could analyse all your email, or all your organisation&rsquo;s email, in any way, what would you do with it? Leave a comment with your answers.</p>
 

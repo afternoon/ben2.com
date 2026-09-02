@@ -4,6 +4,7 @@ title: A Lovely Weekend in the Country
 date: '2003-04-14T03:18:55+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973277073/a-lovely-weekend-in-the-country
+description: "We have just arrived back from celebrating Miles’ (Ladislav on Hype) birthday and Laotian New Year with Miles, my sister Kate, Ruth, Charlie, Greg, Robert and others in Oxford. We hadn’t had a communal weekend party like that for a while before we left Norwich, but in London it’s even."
 ---
 <p>We have just arrived back from celebrating Miles&rsquo; (Ladislav on Hype) birthday and Laotian New Year with Miles, my sister Kate, Ruth, Charlie, Greg, Robert and others in Oxford. My sister now lives there having studied at Christchurch and moved back home for a bit. Miles is at New college and Ruth is at St Hilda&rsquo;s.</p>
 <p>Last night we were fed to the gunnels by Miles and his team of crack Laotian chefs. The highlight was the fried chicken and ginger, which had more coconut than anything else it seemed, but was delicious. There was also a selection of other treats of many weird and wonderful varieties. We got progressively more pissed, pushing through the singing phase into Vodka and beyond to being phoned by the neighbours. It was a knees up alright. Miles&rsquo; mates from the Oxford University Light Entertainment Society (OULES) were nuts and we were all on fine form.</p>

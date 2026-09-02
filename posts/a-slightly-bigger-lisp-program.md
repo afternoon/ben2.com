@@ -4,6 +4,7 @@ title: A Slightly Bigger Lisp Program
 date: '2003-10-27T05:35:42+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972959911/a-slightly-bigger-lisp-program
+description: " I’ve been slowly reading On Lisp still and probably not picking much of it up because I haven’t really been able to think of anything to use as a testbed for code techniques."
 ---
 <p>I&rsquo;ve been slowly reading <em>On Lisp</em> still and probably not picking much of it up because I haven&rsquo;t really been able to think of anything to use as a testbed for code techniques.</p>
 <p>I realised this was silly and decided to stay within the bounds of what I know and implement a simple web site engine of some kind, probably towards the CMS end of the spectrum, although we&rsquo;ll see. For now I&rsquo;ve created a teeny weeny script that uses two functions to facilitate the generation of valid CGI output. <a href="/stuff/journal_src/firstcgi.lisp">Check it out</a> (feedback welcome).</p>

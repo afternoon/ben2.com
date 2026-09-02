@@ -4,6 +4,7 @@ title: If You Want to Go Far Whilst Sitting Down
 date: '2003-03-17T09:12:12+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973349475/if-you-want-to-go-far-whilst-sitting-down
+description: "Code software or sit on a plane. I'm doing both, of course, I've been hacking like a demon for the last seventeen hours and my five hour flight starts in nine hours time. cc , despite the fact that the point is moot thanks to my imminent departure. And slightly."
 ---
 <p>Code software or sit on a plane.</p>
 <p>I&rsquo;m doing both, of course, I&rsquo;ve been hacking like a demon for the last seventeen hours and my five hour flight starts in nine hours time.</p>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The $100 Laptop
+description: "Nicholas Negroponte and Kofi Annan have just formally launched the $100 laptop project at WSIS. CTO Mary Lou Jepsen said “We basically reinvented the laptop” and it really sounds like it. Smaller countries hard because of sales force issues!Negroponte thinks that perhaps the UNDP could help with smaller countries later."
 date: '2005-11-16T20:50:13+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880476112/the-100-laptop

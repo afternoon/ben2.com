@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A lively account of a week in Norwich combining contract work, business conversations, an accountant's advice about forming a company, a stag night, gambling and a lap-dancing club, before celebrating Peter and Lucy's wedding. The author reflects on ambition, freelance life and the possibility of building a larger business."
 title: Weddings and That
 date: '2004-03-29T04:36:30+01:00'
 tags: []

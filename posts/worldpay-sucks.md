@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The author criticises WorldPay's poor customisation options, outdated documentation and lack of support for its advanced Java product on Tomcat, despite decent customer service. The experience raises broader concerns about consistent application design and whether merchants should handle payment details through their own SSL-backed infrastructure."
 title: WorldPay Sucks
 date: '2004-01-05T06:09:15+00:00'
 tags: []

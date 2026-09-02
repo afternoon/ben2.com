@@ -6,6 +6,7 @@ tags:
 - vim
 - sublime
 tumblr_url: https://aftnn.org/post/75789536422/bubble-lines-up-and-down-like-sublime-text-in
+description: "We can safely use it in both normal and visual mode because it works with multiline blocks: We pass locations relative to the selection to :move , '<-2 is 2 lines before the first line of the selection, '>+1 is one line after the last line."
 ---
 <p><strong>NB</strong>: You can <a href="https://github.com/afternoon/dotvim/blob/master/gvimrc#L175">see this hack in my <code>.vim</code> repo on GitHub</a>.</p>
 

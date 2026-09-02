@@ -1,6 +1,7 @@
 ---
 layout: post
 title: See You in Two...
+description: "Might post from Nairobi or Mombasa, but quite possibly won’t. Be nice to your fellow man, etc, etc. Can’t quite bring myself to turn my laptop off… Might post from Nairobi or Mombasa, but quite possibly won’t."
 date: '2004-01-16T04:28:18+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880553801/see-you-in-two

@@ -4,6 +4,7 @@ title: Keeping Hold of Digital Memories
 date: '2006-06-22T15:16:45+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880450924/keeping-hold-of-digital-memories
+description: "Boing Boing, mobile blogger Russell Buckley and community evangelist Tomi Ahonen picked up the TextAmerica announcement and placed it the context of an ongoing debate about the importance of being good custodians of digital memories. They’re not announcing that car part 357 will be replaced with 457 next month. Storage"
 ---
 <p>Boing Boing, mobile blogger Russell Buckley and community evangelist Tomi Ahonen picked up the TextAmerica announcement and placed it the context of an ongoing debate about the importance of being good custodians of digital memories.</p>
 <p><a href="http://www.boingboing.net/2006/06/20/textamerica_goes_fee.html">Boing Boing&rsquo;s post</a> features some pretty horrible scary stories. TA user Noah Lockwood says this:</p>

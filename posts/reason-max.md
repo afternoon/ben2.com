@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on reason max, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Reason Max
 date: '2004-07-22T17:28:10+01:00'
 tags: []

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This essay defines Web 2.0 as emergent organisation: tags, feeds, APIs and open data allow useful collections and services to arise from many independent contributions. It explores mapped-data mash-ups, considers business applications, and reflects on the difficulty of turning the vision into an investable plan."
 title: 'Web 2.0: Emergent Information Organisation'
 date: '2005-11-29T01:46:02+00:00'
 tags: []

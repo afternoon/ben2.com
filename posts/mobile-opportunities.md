@@ -4,6 +4,7 @@ title: Mobile Opportunities
 date: '2006-01-20T05:10:58+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880465116/mobile-opportunities
+description: "Went along to Mobile Opportunities today. Fertile ground indeed. You can see the pictures I took at the event on my Moblog, they're a bit rubbish I'm afraid."
 ---
 <p>Went along to Mobile Opportunities today. Tony Fish of <a href="http://www.amfventures.com/">AMF Ventures</a> brought a good crowd of enterprises, entrepreneurs and investors, many part of the Momo community, to the basement auditorium of <a href="http://www.simmons-simmons.com/index.cfm?fuseaction=simmons_simmons_com.main">Simmons &amp; Simmons</a> in the city. The investment part of the crowd apparently representing some £20bn of private equity.</p>
 

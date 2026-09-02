@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tai Chi Lineage
+description: "On Thursday I’m going to a new Tai Chi class in Kensington. He’s the only guy I have been able to find teaching Chen style this side of London and has the added bonus that he’s a student of Grandmaster Chen Xiao Wang ."
 date: '2003-01-14T16:49:16+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973369195/tai-chi-lineage

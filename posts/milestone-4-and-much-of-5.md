@@ -4,6 +4,7 @@ title: Milestone 4 and Much of 5
 date: '2004-04-19T06:25:09+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880522980/milestone-4-and-much-of-5
+description: "Well, first of all, I set out a bunch of milestones for Hypothetical, so that I could measure my progress a bit more. At points I've felt a bit uninspired by some of the interface design I'm doing. It's the little things&hellip;"
 ---
 <p>Well, first of all, I set out a bunch of milestones for Hypothetical, so that I could measure my progress a bit more. Today I knocked M4 down and got two thirds of the way to M5.</p>
 <p>M4 was basically the groups section. That is functionality to browse groups, join them, leave them, create new groups, kick people out of groups and all kinds of funky stuff. That&rsquo;s all running now. I&rsquo;m pretty happy with the way it works as well.</p>

@@ -4,6 +4,7 @@ title: No More Link Splicing
 date: '2008-03-18T12:46:06+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880427278/no-more-link-splicing
+description: "I've turned off FeedBurner's link splicing feature. They added search this week and I swear they didn't have a Facebook app last time I looked. XFN is around, but it's too much like hard work."
 ---
 <p>I&rsquo;ve turned off FeedBurner&rsquo;s link splicing feature. Although it was quite cool, it was like I was mixing my media all wrong. Instead, if you want the total information overload, I recommend following <a href="http://friendfeed.com/afternoon">my FriendFeed</a>.</p>
 

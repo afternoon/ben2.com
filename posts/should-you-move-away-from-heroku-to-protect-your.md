@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Should You Move Away from Heroku to Protect Your Users?
+description: "Heroku provides an SSL add on for encrypting traffic between browsers and the Heroku network. That network is AWS. Does this mean your traffic can be intercepted by other users? About a month ago, Heroku revised their networking model to improve isolation between dynos :"
 date: '2013-06-07T10:44:00+01:00'
 tags:
 - heroku

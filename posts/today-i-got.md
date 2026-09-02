@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Today I Got...
+description: "It’s still a strange beast. It crawls a bit. True I haven’t seen Fireworks or Dreamweaver all day, I currently have no classic environment. Places to look are hard to find, it’s another alien web community to get into."
 date: '2001-08-01T01:17:43+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058205235/today-i-got

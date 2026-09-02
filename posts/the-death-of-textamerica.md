@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Death of TextAmerica
+description: "MoblogUK rival TextAmerica will soon stop offering free accounts. Current ‘free sites’ will be suspended starting July 1 with a planned deletion scheduled for the fall 2006. THANK YOU for your consideration in this regard."
 date: '2006-06-13T18:30:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880453270/the-death-of-textamerica

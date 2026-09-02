@@ -4,6 +4,7 @@ title: Credit, Employment, Shopping
 date: '2003-08-23T23:35:10+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973030927/credit-employment-shopping
+description: "I’ve never had a credit card and I’ve never defaulted on a debt of any kind. I’m hoping that if I can get a credit card then I can just use it as a delayed action debit card and that will help ingratiate me with the non-high street banks."
 ---
 <p>I just applied for a <a href="http://www.barclaycard.co.uk/">Barclaycard</a>. I have credit issues for some reason. I&rsquo;ve never had a credit card and I&rsquo;ve never defaulted on a debt of any kind. I have a student loan but no other forms of finance. I have no idea why I have credit issues, but I got refused for a current account twice with <a href="http://www.smile.co.uk/">Smile</a> and once with <a href="http://www.cahoot.com/">Cahoot</a> a couple of times. I&rsquo;m hoping that if I can get a credit card then I can just use it as a delayed action debit card and that will help ingratiate me with the non-high street banks. I think that the reason I&rsquo;ve been turned down a couple of times is because the non-high streets have stricter policies regarding who they&rsquo;ll accept.</p>
 <p>Anyway, if I don&rsquo;t get accepted for a Barclaycard I&rsquo;ll get one of the horrendous interest rate bad credit cards, like the <a href="http://www.capitalone.co.uk/">CapitalOne</a> one. I don&rsquo;t intend to keep a balance on it so what could possibly go wrong? :-)</p>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sigh
+description: "I emailed Underwired to apologise and kind of to test the water. Kind of expecting an angry response, I was surprised and saddened when I all got was a single word, “thanks”."
 date: '2003-03-31T15:43:27+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973346015/sigh

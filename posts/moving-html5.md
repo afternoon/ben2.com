@@ -5,6 +5,7 @@ date: '2010-07-29T22:26:45+01:00'
 tags:
 - html5
 tumblr_url: https://aftnn.org/post/47880400975/moving-html5
+description: "I've converted this site to HTML5. These are optional in HTML5. Their introduction was based on a large-scale analysis of HTML document structure performed by Google ."
 ---
 <p><img src="http://aftnn.org/stuff/journal_src/abookapart_html5.jpg" alt="HTML5 book"/></p>
 

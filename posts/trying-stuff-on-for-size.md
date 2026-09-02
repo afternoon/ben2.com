@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trying Stuff on for Size
+description: "To: Afternoon From: Google Resume Thanks Subject: Thank you from Google! After reviewing your resume, a member of our staffing team will be in touch if we find you may be a fit for the role for which you’ve applied."
 date: '2005-12-08T03:21:08+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880470637/trying-stuff-on-for-size

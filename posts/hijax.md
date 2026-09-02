@@ -4,6 +4,7 @@ title: Hijax
 date: '2006-01-10T06:06:45+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880466736/hijax
+description: "Got back from Mobile Monday drunk, snoozed for an hour and now I'm learning new hacking tricks! So instead of building an app with a bunch of links that call JS functions, I'd create a vanilla web app with links to new pages. This idea doesn't just relate to Ajax."
 ---
 <p>Got back from Mobile Monday drunk, snoozed for an hour and now I&rsquo;m learning new hacking tricks! I surely do have the strangest working hours. I have an excuse, Louise started a new job working nights this week, she finishes at four and will be back in an hour. I wanted to stay up and wait for her.</p>
 

@@ -4,6 +4,7 @@ title: More Mouse Things
 date: '2002-10-30T11:08:12+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973377624/more-mouse-things
+description: "Or cheese, as Tom suggested. I got quite a lot done, several different pieces. Although I still don't have my submission, I'm well chuffed with what I've acheived tonight and I'm hopeful that I will get a chance to sort out a more sophisticated, finalised piece by Friday."
 ---
 <p>Or cheese, as Tom suggested.</p>
 <p>My original aim was to begin work on something of sufficient quality to submit to the Flash contest running on <a href="http://www.redism.com/">redism.com</a>. It&rsquo;s a corporate sponsored site, but it&rsquo;s run by Underwired and so I thought I&rsquo;d chip in. I wanted to go down the generative/interactive route that I&rsquo;ve been heading towards for a while. So, trusty copy of Maeda in hand, I booted Flash.</p>

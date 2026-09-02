@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on on chiho aoshima at gloucester road, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: On Chiho Aoshima at Gloucester Road
 date: '2007-02-20T13:52:41+00:00'
 tags: []

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "After sending Jeffrey Zeldman a heated web-standards rant, the author is unexpectedly invited to submit an article to A List Apart. The opportunity prompts reflection on overzealous mailing-list arguments, the need to read existing work, and the value of turning frustration into a considered proposal."
 title: Zeldman!
 date: '2003-04-30T01:49:43+01:00'
 tags: []

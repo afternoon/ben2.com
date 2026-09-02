@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tonight's Major Hacking Feat
+description: "The WAP bit of Hype didn’t work. For example, mod rewrite, Smarty and classes are all going to be in there. I broke some things, like DB access, off into functions, which is good. All in all it’s been a successful couple of weeks of hacking."
 date: '2002-07-04T09:45:07+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058143678/tonights-major-hacking-feat

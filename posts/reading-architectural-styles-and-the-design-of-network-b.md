@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on reading \"architectural styles and the design of network-based software architectures, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Reading "Architectural Styles and the Design of Network-based Software Architectures"
 date: '2009-02-04T09:31:27+00:00'
 tags:

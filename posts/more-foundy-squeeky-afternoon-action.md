@@ -4,6 +4,7 @@ title: More Foundy Squeeky Afternoon Action
 date: '2004-06-28T17:21:30+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880507855/more-foundy-squeeky-afternoon-action
+description: "July 3rd, 3 - 7, and July 17th, 3 - 7. I really want to try out cool fantastic stuff though. Might try that at some point."
 ---
 <p>July 3rd, 3 - 7, and July 17th, 3 - 7.</p>
 

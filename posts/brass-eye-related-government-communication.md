@@ -4,6 +4,7 @@ title: Brass Eye Related Government Communication!
 date: '2001-08-20T16:34:59+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058198864/brass-eye-related-government-communication
+description: "Under the current broadcasting arrangements, responsibility for what is broadcast on television and radio rests with the broadcasters and the broadcasting regulatory bodies -the Governors of the BBC, the Independent Television Commission (ITC), the Welsh Fourth Channel Authority (S4C) and the Radio Authority."
 ---
 <p>Got this reply from Emily Kidd, Tessa Jowell&rsquo;s policy advisor! Check it out:</p>
 

@@ -4,6 +4,7 @@ title: NotGeorge
 date: '2004-06-25T04:36:17+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880509043/notgeorge
+description: "I have a beer belly. I eat meat quite a lot. Although I guess you don't actually die that quickly, your body must start getting really crap at stuff long before that."
 ---
 <p>I have a beer belly. A little one. I&rsquo;ve always had it, as long as I can remember. Generally I&rsquo;m an average height, fairly skinny guy, but with a paunch. It&rsquo;s got a little bigger recently, since I had my bike stolen. I&rsquo;d stopped swimming and then the bike went and I haven&rsquo;t been getting out a whole lot. Combine this with the fact that I eat well and you have paunch. Note, the title of this post is a reference to my flatmates paunch, which has been named. I prefer not to name mine. George is bigger, but then we have different body types anyway.</p>
 <p>Anyway I&rsquo;m a touch narcissistic, so I thought it would be nice to burn that little ridge away. The web is out there waiting, so I searched it for <a href="http://www.google.com/search?q=exercises+burn+abdominal+fat&amp;ie=UTF-8&amp;oe=UTF-8">exercises burn abdominal fat</a>. That was a good search, instead of the TRY TH3 AT|&lt;1NSS DIET N0W ads I was expecting, I got some handy stuff.</p>

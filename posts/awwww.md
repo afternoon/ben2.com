@@ -4,6 +4,7 @@ title: Awwww
 date: '2003-05-02T17:38:04+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973155610/awwww
+description: "It does give me more CPU power, but I don’t really want a bigger machine, plus the larger built-in screen devalues the usefulness of a second monitor almost enough for me to not be bothered."
 ---
 <p>You can&rsquo;t connect one of the new 12&quot; Powerbooks to the cinema displays. Not without a $300 non-Apple adapter.</p>
 <p><strong>:-(</strong></p>

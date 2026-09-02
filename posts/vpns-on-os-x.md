@@ -1,6 +1,7 @@
 ---
 layout: post
 title: VPNs on OS X
+description: "Are really easy to setup! route made short work of this problem however: route delete default route add default $ROUTER IP route add $FOREIGN NETWORK $VPN IP Luckily the network I’m connecting to uses a different class C IP range, so the routes were easy to add."
 date: '2003-09-30T16:45:27+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972980163/vpns-on-os-x

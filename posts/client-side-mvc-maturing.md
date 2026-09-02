@@ -7,6 +7,7 @@ tags:
 - mvc
 - ria
 tumblr_url: https://aftnn.org/post/47880414427/client-side-mvc-maturing
+description: "We’ve reached the stage where they aren’t called RIAs any more, they’re just cool websites. (Ever heard someone call Facebook an RIA?) There is a increasing demand for tools to build great UIs easily and to build JavaScript-only applications for platforms such as OpenSocial."
 ---
 <p>Rich Internet Applications (RIAs) are still increasing in popularity. We&rsquo;ve reached the stage where they aren&rsquo;t called RIAs any more, they&rsquo;re just cool websites. (Ever heard someone call Facebook an RIA?) There is a increasing demand for tools to build great UIs easily and to build JavaScript-only applications for platforms such as OpenSocial. There are a range of toolkits for building RIAs but most of them are tied to a specific server platform.</p>
 

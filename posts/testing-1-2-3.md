@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Testing 1 2 3
+description: "Having spent a week on the Smarty mailing list I’ve learnt quite a lot about and and thought about how to use it. I also wrote a lot of Perl. Also for new hype, I’ve been thinking about threads more."
 date: '2002-05-10T22:51:06+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058156163/testing-1-2-3

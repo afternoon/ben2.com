@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Stupid Fluctuating World of freelance.
+description: "Depression and dispair at lack of money and time to make money comes at the end of a project, then I start to look at removing myself from the freelance scene by way of some kind of gainful employment."
 date: '2003-03-10T17:19:27+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973357358/the-stupid-fluctuating-world-of-freelance

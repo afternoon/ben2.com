@@ -4,6 +4,7 @@ title: Networking Party Postmortem
 date: '2003-06-16T13:41:33+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973113402/networking-party-postmortem
+description: "Should have blogged this yesterday. Several of the speakers and organisers talked a bit about how they'd started and the processes of their work. I'm very grateful to Marc and Ruth for letting me come along and I look forward to retreading the connections I created and attending more events."
 ---
 <p>Should have blogged this yesterday. Lazy blogger gain no audience. Anyway, the Furtherfield networking party on Saturday was good fun and very interesting.</p>
 <p>The music side was a bit of a failure really. I didn&rsquo;t take any headphones and the gallery didn&rsquo;t have any, so, despite having lugged a crapload of vinyl all the way there (and later all the way back), I didn&rsquo;t do any mixing. Doh! Bad DJ, no twinkie. The MP3&rsquo;s went well, unsurprisingly, but there was actually a lot more content than I had expected and so I didn&rsquo;t play very much music at all.</p>

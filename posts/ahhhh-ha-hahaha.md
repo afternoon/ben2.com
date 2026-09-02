@@ -4,6 +4,7 @@ title: Ahhhh Ha Hahaha!
 date: '2004-08-13T08:00:28+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880504904/ahhhh-ha-hahaha
+description: "I’ve been hacking heavily on InfoCMS and I’m really starting to create cool stuff now: I created a form representation system which describes a form spec in XML and then provides methods to allow generation of an HTML form with notes and hints and things, validate data entered into that."
 ---
 <p>I&rsquo;ve been hacking heavily on <a href="http://www.cohack.com/tools/infocms/">InfoCMS</a> and I&rsquo;m really starting to create cool stuff now:</p>
 <ul>

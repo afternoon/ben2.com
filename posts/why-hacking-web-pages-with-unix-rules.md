@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Working on an old site built with outdated tools, the author explains why Unix makes maintenance faster. The discussion highlights command-line utilities such as wget and other small composable tools that simplify downloading, searching, editing and repeatedly applying changes across web files."
 title: Why Hacking Web Pages with Unix Rules
 date: '2003-02-14T11:30:09+00:00'
 tags: []

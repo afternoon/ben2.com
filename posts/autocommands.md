@@ -4,6 +4,7 @@ title: Autocommands
 date: '2003-11-26T04:02:13+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880570902/autocommands
+description: " au BufRead * set keywordprg=/Users/ben/Documents/bin/google.php au BufRead *.java set keywordprg=/Users/ben/Documents/bin/google.php\\ java\\ site:sun.com Autocommands are a powerful tool in Vim. As I edit more and more files I’ll be adding a lot of autocommands for each filetype using much of Vim’s functionality, like macros for tags for an HTML mode."
 ---
 <p class="eg"><code>au BufRead * set keywordprg=/Users/ben/Documents/bin/google.php<br/>
 au BufRead *.java set keywordprg=/Users/ben/Documents/bin/google.php\ java\ site:sun.com</code></p>

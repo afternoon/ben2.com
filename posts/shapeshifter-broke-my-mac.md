@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Shapeshifter Broke My Mac!
+description: "I installed Unsanity Shapeshifter (no link sour grapes) to try out some themes. This had been discussed on the Vim Mac mailing list but no answer found. I had installed this at the same time as the Vim problem appeared."
 date: '2004-06-12T20:54:55+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880511601/shapeshifter-broke-my-mac

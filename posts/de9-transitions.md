@@ -4,6 +4,7 @@ title: DE9 | Transitions
 date: '2005-11-04T17:27:03+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880476618/de9-transitions
+description: "It’s a 96 minute mix, done in Dolby 5.1, but there’s also a MP3 version for plain old stereo people, like me, and for putting on iPods and such and also a CD with a cut down 74 min version. Describing how once software takes care of beat matching the."
 ---
 <p>Just got my copy of Richie Hawtin&rsquo;s <em>DE9 | Transitions</em> mix DVD. It&rsquo;s cool. It&rsquo;s a 96 minute mix, done in Dolby 5.1, but there&rsquo;s also a MP3 version for plain old stereo people, like me, and for putting on iPods and such and also a CD with a cut down 74 min version. &ldquo;However you want to hear my mix, take your pick.&rdquo;</p>
 

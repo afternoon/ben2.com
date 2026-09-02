@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on omnigraffle is great, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: OmniGraffle Is Great
 date: '2003-06-26T16:46:18+01:00'
 tags: []

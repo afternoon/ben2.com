@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Toad in the Hole
+description: "I made Toad in the hole! Hell, it’s the first time I’ve used flour as an ingredient. It was a bit eggy still at the bottom, but it was perfectly edible. The batter had Thyme, the sausages Rosemary."
 date: '2003-07-09T03:37:19+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973086052/toad-in-the-hole

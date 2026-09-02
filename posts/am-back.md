@@ -4,6 +4,7 @@ title: Am Back
 date: '2003-08-21T04:50:16+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973036952/am-back
+description: " But slack, I’m warming up for a big “what happened?” post and of course I have photos, but for now: Italy was really nice, thanks Louisa and Alberto! Being back is OK, could easily be much worse."
 ---
 <p>But slack, I&rsquo;m warming up for a big &ldquo;what happened?&rdquo; post and of course I have photos, but for now:</p>
 <ol>

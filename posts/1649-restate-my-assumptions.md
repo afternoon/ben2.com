@@ -4,6 +4,7 @@ title: 16:49. Restate My Assumptions
 date: '2003-04-28T19:49:09+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973228685/1649-restate-my-assumptions
+description: "A design reflection arguing that grids, positioning hierarchies, and nested layout blocks are valuable, while HTML tables and CSS positioning are poor implementations. It critiques CSS for lacking expressive conditionals and ordering rules, using responsive column rearrangement as an example of what authors need."
 ---
 <p>I&rsquo;ve just been reading design books in Books Etc and looking at pavements and thinking about the discussion so far. My thoughts:</p>
 <ol>

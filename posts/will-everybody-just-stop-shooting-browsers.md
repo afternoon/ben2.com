@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Reflecting on Netscape's decline alongside Internet Explorer for Mac, the author places the browser's fate within the broader browser wars. The post mourns Netscape's end while acknowledging its silliness and its long-running role in supporting web standards and pushing the web forward."
 title: Will Everybody Just Stop Shooting Browsers
 date: '2003-07-16T03:23:24+01:00'
 tags: []

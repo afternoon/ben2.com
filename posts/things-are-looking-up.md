@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Things Are Looking Up
+description: "It looks like I’ve got a lovely new project to work, my new client even lent me a mini server . Which is nice."
 date: '2003-04-03T01:45:02+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973344040/things-are-looking-up

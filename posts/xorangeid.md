@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Investigating the proprietary X_ORANGE_ID HTTP header seen on a mobile site, the author wonders whether its base64-encoded 16-byte value identifies a handset, SIM or user. Further testing suggests it changes between requests from the same phone, making it more likely a session identifier."
 title: X_ORANGE_ID
 date: '2006-09-28T22:05:48+01:00'
 tags: []

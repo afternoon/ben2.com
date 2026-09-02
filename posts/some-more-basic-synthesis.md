@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some More Basic Synthesis
+description: "I’m actually heading back to da smoke tomorrow to get back into the work routine. Got to get feedback on the design. ” STK example and built it on the command line. Next stop is a basic piano keyboard interface in the window."
 date: '2003-11-05T07:13:31+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972954963/some-more-basic-synthesis

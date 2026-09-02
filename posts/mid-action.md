@@ -4,6 +4,7 @@ title: MID Action
 date: '2003-07-02T06:32:33+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973093815/mid-action
+description: "Finally they turn on the GPRS support for my new phone! I shipped the files up to Gradwell and add the MIME types required for the JAR file and it's descriptor to this site's root .htaccess file. Multinational megacorp rating: lower."
 ---
 <p>Finally they turn on the GPRS support for my new phone! I needed a SIM update to use it, but Orange&rsquo;s SIM updating system has been out of action since the weekend. When it came on today, I had a brief surf, posted to Hype in glorious Technicolor of course and then decided to have a pop at making a MIDlet.</p>
 <p>A MIDlet is a Java application designed to run on mobile devices, phones, palmtops, etc. MIDP defines the execution environment and a shoal of other standards define the APIs and everything else.  A lot can be acheived. The MIDlet can gain access to almost all of the phone&rsquo;s faculties and apps can provide lovely graphics or interact with a host of network services over HTTP, SMS or potentially other carriers. There is even an API for multimedia, however, the T610&rsquo;s implementation of this doesn&rsquo;t extend as far as controlling the camera :-(</p>

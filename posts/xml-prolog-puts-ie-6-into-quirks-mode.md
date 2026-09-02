@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The author explains that including an XML declaration in XHTML causes Internet Explorer 6 to enter its old IE 5 rendering mode. This discovery clarifies earlier browser behaviour and leads to a practical decision to remove the XML prolog from the site's pages."
 title: XML Prolog Puts IE 6 into Quirks Mode
 date: '2003-04-28T18:03:14+01:00'
 tags: []

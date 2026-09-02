@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The author's father has sold his company, leaving the author shares worth roughly the same as his debts. The unexpected windfall prompts a choice between clearing a cheap student loan and travelling, alongside anxiety about spending money before it has even arrived."
 title: Windfall
 date: '2003-05-08T02:43:51+01:00'
 tags: []

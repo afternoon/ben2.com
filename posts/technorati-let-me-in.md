@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Technorati: Let Me In!'
+description: "Been trying to get Technorati to play nice and let me “claim my blog.” It won’t let me. I don’t need their validation anyway. Maybe I do. Technorati Profile"
 date: '2006-01-23T21:29:50+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880463556/technorati-let-me-in

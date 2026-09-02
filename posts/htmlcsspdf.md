@@ -3,6 +3,7 @@ layout: post
 title: "htmlcsspdf: A Tool For Quickly Creating Beautiful PDFs"
 date: "2026-08-28T11:21:00+01:00"
 tags: ["html", "css", "pdf"]
+description: "htmlcsspdf: A Tool For Quickly Creating Beautiful PDFs."
 ---
 [htmlcsspdf](https://htmlcsspdf.ben2.com/) lets you generate PDFs from HTML and CSS with a live preview. If that sounds like an almost masochistic way to create documents, let me explain.
 

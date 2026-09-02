@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Site-specific Stylesheets
+description: "this site now has <body id=\"aftnn org\" , you can put a style like the following in your user sheet, if you can’t read my fonts: body aftnn org { font size: larger; } This idea found it’s way to www style today."
 date: '2003-12-09T05:08:24+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880564080/site-specific-stylesheets

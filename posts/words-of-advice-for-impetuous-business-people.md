@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Using a Peter Drucker quotation about courageous decisions, the author reflects on missed opportunities at Cohack and hesitation around Moblog. The post argues that businesses need to choose a direction, accept uncertainty and act decisively instead of endlessly generating ideas without turning them into commitments."
 title: Words of Advice for Impetuous Business People
 date: '2006-01-25T19:35:27+00:00'
 tags: []

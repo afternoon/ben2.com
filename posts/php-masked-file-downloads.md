@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on php masked file downloads, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: PHP Masked File Downloads
 date: '2002-02-21T11:44:23+00:00'
 tags: []

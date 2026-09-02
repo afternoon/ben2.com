@@ -4,6 +4,7 @@ title: China Economic
 date: '2004-09-20T04:05:30+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880502639/china-economic
+description: "So ironically enough, the lack of change at the top, which we in the west see as a deficiency, is the unique cause of the massive amount of change in economic and industrial spheres, the kind of change which has lead to far greater change in the social sphere in."
 ---
 <p>Just realised we have <a href="http://www.cctv.com.cn/english/index.shtml">CCTV</a> on our Sky box. I&rsquo;m watching an interview with the outgoing World Bank country director for China, Yukon Huang.</p>
 <p>With the final handover of power this week from Jiang Zemin (78) to Hu Jintao (61), the confirmation came that the Chinese Communist Party would continue it&rsquo;s policy of reform. Listening to Huang, it&rsquo;s obvious that much of China&rsquo;s strength lies in it&rsquo;s ability to throw all it&rsquo;s resources into achieving one objective, marketisation in this case. As Huang notes, the advantage of central planning lies in the ability to create large scale consensus, but this is moderated by the risk of throwing the government&rsquo;s resolve behind inappropriate decisions.</p>

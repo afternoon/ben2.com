@@ -4,6 +4,7 @@ title: It's Wierd
 date: '2001-08-23T17:54:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058197087/its-wierd
+description: "It definitely gives people a chance to live as the pervert inside. Most people use them exactly as you would assume they use their diary. Not too much, I think I'll just post the link to Google. Also, Mat Denney lives in a Two Dimensional Pink Plastiverse."
 ---
 <p>How people love the shroud of anonimity that the internet affords them so much. It gives them the opportunity to step outside themselves and try something new. Like being a pervert. It definitely gives people a chance to live as the pervert inside. This mainly shows itself in email as far as I can see, although there is a shitload of nasty sites out there, it&rsquo;s just that email is much more infectious, viral.</p>
 <p>But the same media that gets used to hide your real face is so public. I got reading some weblogs today. Most people use them exactly as you would assume they use their diary. Got up early, had a bath. Mom was buggin&rsquo; about me not cleaning the dog. That kind of thing. In the past these micro-memoirs would have been guarded with such secrecy, but now anyone in the world can read that Joyce from Berkeley&rsquo;s boyfriend has gone off to join the Navy (she&rsquo;s taking it quite well though). I just can&rsquo;t get into that kind of thing. I kept a diary for a bit when I was about seventeen, but the book I wrote in only had really small spaces, so I only wrote a little bit.</p>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Small Data: Processing CSV in Unix'
+description: "$ tail +4 emails.csv emails no meta.csv $ awk F, '/Ben Godfrey/ { print $1 }' emails no meta.csv Ben Godfrey Ben Godfrey Ben Godfrey Ben Godfrey Ben Godfrey $ grep \"Ben Godfrey\" emails no meta.csv | awk F, '{ print $1 }' Ben Godfrey Ben Godfrey Ben Godfrey Ben Godfrey Ben Godfrey"
 date: '2012-10-10T18:14:59+01:00'
 tags:
 - unix

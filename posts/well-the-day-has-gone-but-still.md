@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A diary entry about moving house with Tom and Louise, sorting possessions and gradually beginning to feel at home. The author describes the physical effort of relocating, a pub meal with friends, and the small domestic changes that make the new place feel lived in."
 title: Well, the Day Has Gone, but Still
 date: '2002-10-04T03:10:22+01:00'
 tags: []

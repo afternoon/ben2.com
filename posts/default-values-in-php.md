@@ -4,6 +4,7 @@ title: Default Values in PHP
 date: '2001-10-01T14:17:00+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058179854/default-values-in-php
+description: " function blah($blah1, $blah2) rewritten as function blah($blah1 = \"\", $blah2 = \"\") will have default values set on each of the variables. Also, try Secure Software Solutions’ RATS system, as it works on C, C++, PHP, Python and others maybe. "
 ---
 <p><code>function blah($blah1, $blah2)</code></p>
 <p>rewritten as</p>

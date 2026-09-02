@@ -4,6 +4,7 @@ title: Exercise
 date: '2003-04-24T12:51:43+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973256438/exercise
+description: "I work from home and I generally end up working fairly hard. Though only once and my feet hurt afterwards because I ran in skate shoes. This morning I decided to go out for a walk first thing. Not really, here's to not dying of heart disease for at least."
 ---
 <p>I don&rsquo;t get out much. I work from home and I generally end up working fairly hard. I have to make myself leave the house. Recently I have been practicing work fairly well, getting up at eight and working until five, taking an hour or so break during the day and going outside.</p>
 <p>I&rsquo;ve been mapping out the area in a series of long walks starting here and looping broadly around Fulham. I have also been known to run. Though only once and my feet hurt afterwards because I ran in skate shoes. I&rsquo;d like to carry on, so I&rsquo;m looking at getting a pair of proper running shoes, AKA wide-boy trainers, when I can afford them.</p>

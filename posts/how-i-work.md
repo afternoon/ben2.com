@@ -6,6 +6,7 @@ tags:
 - software
 - process
 tumblr_url: https://aftnn.org/post/47880409931/how-i-work
+description: "It attempts to ensure projects run smoothly by building software in a series of short iterations. After an introduction is made, I organise a face-to-face or Skype meeting. It encourages both me and my clients to think about the business goals first. A face-to-face or Skype meeting allows the client."
 ---
 <p>I&rsquo;m an independent software engineer working on a contract basis. I have a process for projects. It&rsquo;s a relatively lightweight, loosely <a href="http://en.wikipedia.org/wiki/Agile_software_development">agile</a> methodology. It attempts to ensure projects run smoothly by building software in a series of short iterations.</p>
 

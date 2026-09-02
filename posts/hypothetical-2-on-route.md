@@ -4,6 +4,7 @@ title: Hypothetical 2 on Route
 date: '2001-09-24T00:45:17+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058182963/hypothetical-2-on-route
+description: "I put some code in a file!"
 ---
 <p>I put some code in a file!</p>
 <p>Hopefully there will be more later, but for now, here is a list of some code conventions I&rsquo;m hoping to uphold:</p>

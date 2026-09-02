@@ -4,6 +4,7 @@ title: Leslie Godfrey, RIP
 date: '2003-11-10T05:49:46+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972952049/leslie-godfrey-rip
+description: "My grandfather died on Friday. Nothing feels different, then occasionally I catch myself thinking \"I'm 25\" or \"Leslie's dead\". It must be sobering to hear that your old adversary is dead."
 ---
 <p>My grandfather died on Friday. It was very much a surprise to every one. He was in his eighties, but was doing very well both mentally and physically for somebody of that age. Then, sometime in the night, he just stopped.</p>
 <p>He was my paternal grandfather and I&rsquo;ve spoken to my Dad a couple of times since then. Yesterday he seemed pretty haggared, but today he seemed OK. I think he may have been thinking about the fact that one of his parents would probably die soon for several years, as must be the way when your parents reach 80. Christ, by the time my Dad&rsquo;s 80, I&rsquo;ll be 55! My Dad is only 49 at the moment.</p>

@@ -4,6 +4,7 @@ title: NO2ID
 date: '2004-12-16T19:10:24+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880499155/no2id
+description: "The ID card debate is on Monday, and Clarke intends to press on with Blunkett's white elephant , so: Dear Iain , I am writing to you to urge you to speak out against the proposed national ID card scheme in Monday's debate. Michael Howard's proposal in 1996 cost two"
 ---
 <p>The ID card debate is on Monday, and <a href="http://news.bbc.co.uk/1/hi/uk_politics/4100629.stm">Clarke intends to press on with Blunkett&rsquo;s white elephant</a>, so:</p>
 

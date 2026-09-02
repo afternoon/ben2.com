@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tiger Thoughts
+description: "Now if it’s user experience you’re after, Apple are seriously innovating in the desktop space. They’re always running and so they’re always just a single keypress away. It’s not going to be around until next year though. I think it’s good that Apple are innovating in this area."
 date: '2004-06-29T20:35:29+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880507376/tiger-thoughts

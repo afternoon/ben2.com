@@ -4,6 +4,7 @@ title: Diggin' in the Crates
 date: '2005-11-04T05:10:47+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880481278/diggin-in-the-crates
+description: "I’ve been thinking this site needs a redesign as it goes, but I’ve just been soo busy with Cohack, Moblog, freelance, Resident Evil, Live-rockin’ and everything else I’ve kind of run out of time to just piss about."
 ---
 <p>Spent a bit of time re-organising my Documents folder. This folder has been growing new content since 1995. So sorting it out was much like going into the shed you haven&rsquo;t opened the door of for a year or two. Ultimate spring cleaning.</p>
 

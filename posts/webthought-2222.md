@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A pair of interface notes for a message-editing system: the edit super-page should provide a delete button, and message footers should contain fewer links. The post is a compact record of practical usability improvements for keeping content management screens clearer and more efficient."
 title: Webthought 2222
 date: '2001-10-19T21:18:52+01:00'
 tags: []

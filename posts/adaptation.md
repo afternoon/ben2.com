@@ -4,6 +4,7 @@ title: Adaptation
 date: '2003-03-08T18:09:07+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47973359365/adaptation
+description: "It’s great that Kaufman manages to turn the process of writing the script into the adventure itself and still come out of it with the author of the book liking the adaptation !"
 ---
 <p>First up is the new Spike Jonze/Nicholas Cage/Charlie Kaufman film, Adaptation.</p>
 <p>The film follows Kaufman&rsquo;s attempts to adapt The Orchid Thief by Susan Orlean. Paralysed and unable to write anything good he starts to write himself into the script. The movie comes out of the machine as much more than the book, or Kaufman, and is a cool reflection on writing, movies, stories, characters, the people they relate to, life, the universe and everything. It&rsquo;s great that Kaufman manages to turn the process of writing the script into the adventure itself and still come out of it with the <a href="http://romanticmovies.about.com/library/weekly/aaadaptationintc.htm">author of the book liking the adaptation</a>! Hardcore.</p>

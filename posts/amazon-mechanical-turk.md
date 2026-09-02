@@ -4,6 +4,7 @@ title: Amazon Mechanical Turk
 date: '2006-04-04T18:58:36+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880454909/amazon-mechanical-turk
+description: " Amazon have launched an interesting service called Mechanical Turk . Citing tales of chess masters hidden inside wooden cabinets disguised as mechanical Turkish chess robots, Amazon introduce the service as Artificial Artificial Intelligence."
 ---
 <p>Amazon have launched an interesting service called <a href="http://www.mturk.com/mturk/welcome">Mechanical Turk</a>. Citing tales of chess masters hidden inside wooden cabinets disguised as mechanical Turkish chess robots, Amazon introduce the service as Artificial Artificial Intelligence.</p>
 <p>Programmers can use an API to schedule tasks with the service, tasks that can only be completed by a human. Amazon then brokers these tasks to humans through their website. The humans earn cash for their uniquely human traits.</p>

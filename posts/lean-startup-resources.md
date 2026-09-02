@@ -8,6 +8,7 @@ tags:
 - mvp
 - leancanvas
 tumblr_url: https://aftnn.org/post/47880396822/lean-startup-resources
+description: "My own list of resources for people applying the Lean Startup Methology. application form that declines everyone Books Essentials Don't skip these! Customer Development Customer Development FAQ by Cindy Alvarez at Yammer How To Get Out Of The Building by Trevor Owens at Lean Startup Machine How To Screw Up"
 ---
 <p>My own list of resources for people applying the Lean Startup Methology.</p>
 

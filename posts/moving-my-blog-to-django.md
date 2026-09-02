@@ -4,6 +4,7 @@ title: Moving My Blog to Django
 date: '2008-06-04T03:40:58+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880426191/moving-my-blog-to-django
+description: "I've been meaning to move my blog to Django for about 2 years. Pretty urls e.g. Edited Jun 4, 10:30 : Added ByteFlow (thanks Simon!)"
 ---
 <p>I&rsquo;ve been meaning to move my blog to Django for about 2 years. I&rsquo;ve got 
 plenty of UI mockups, I just haven&rsquo;t got around to coding anything. I decided 

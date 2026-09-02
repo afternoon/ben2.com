@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This Is Your Brain on Brainfuck
+description: "Brainfuck fucked my brain. Brainfuck provides some of that insight. “Yeah mate, I can sort you out some Brainfuck, how much do you need? Brainfuck fucked my brain. Brainfuck provides some of that insight."
 date: '2004-02-13T04:38:18+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880552653/this-is-your-brain-on-brainfuck

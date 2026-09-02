@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Textmap - an Old Idea
+description: "Ability to add nodes and edges. Nodes are the content, edges are the links. Difference from everything2 is that there is more than one graph. The edges in a documentation textmap would be much more vague."
 date: '2001-09-02T22:53:13+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/48058184921/textmap-an-old-idea

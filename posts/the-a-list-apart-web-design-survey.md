@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The A List Apart Web Design Survey
+description: "At the risk of only posting other people’s buttons, here’s one for A List Apart’s Web Design Survey . I’ve been very lucky, web design has been good to me in many ways. I’m constantly improving my skillset (I ticked the box for every competency in the survey)."
 date: '2007-04-24T14:39:33+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880434010/the-a-list-apart-web-design-survey

@@ -4,6 +4,7 @@ title: Kill Bill
 date: '2003-10-27T01:40:54+00:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972961380/emkill-billem
+description: "It was quite different from other Tarantino movies, having practically no dialogue. Instead of sitting on the edge my seat, I looked around at the audience."
 ---
 <p>Kill Bill was as I expected.</p>
 <p>It was quite different from other Tarantino movies, having practically no dialogue. The violence was good, I liked it, but then I really like all the old kung fu films and anime. It had all the camera angles etc, but it was empty. It was a bit dull.</p>

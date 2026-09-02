@@ -4,6 +4,7 @@ title: Language Fascism Etc
 date: '2003-09-23T03:54:24+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47972990425/language-fascism-etc
+description: "Java is the SUV of programming tools . I like to think I'm language agnostic. Should be working."
 ---
 <p><a href="http://blogs.law.harvard.edu/philg/2003/09/20#a1762">Java is the SUV of programming tools</a>.</p>
 <p>Is the quick and dirty use of languages like Perl just quick, because the long way always ends up dirty anyway?</p>

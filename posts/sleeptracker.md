@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sleeptracker
+description: "It monitors your sleep cycles and wakes you when you’re sleeping most lightly within specified a window. The average length of a period of sleep is 30 minutes, though this is strongly skewed, it’s more like 90 minutes at the start of the night."
 date: '2006-05-10T13:43:07+01:00'
 tags: []
 tumblr_url: https://aftnn.org/post/47880453797/sleeptracker

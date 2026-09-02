@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "This post reflects on patents, more lisp, drawing together the author’s observations, context, and conclusions across the article. It records a specific experience or technical idea and preserves the author’s informal perspective on what happened and why it mattered."
 title: Patents, More Lisp
 date: '2003-09-25T06:34:14+01:00'
 tags: []
