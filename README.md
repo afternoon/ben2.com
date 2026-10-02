@@ -14,6 +14,7 @@ a static site generator using Steel Scheme and Rust.
 
 Use [Bower](https://github.com/afternoon/bower).
 
-`build.sh` will install Rust and Bower. It's primarily meant for CI.
+`build.sh` downloads a pinned Bower release and builds the site. It's primarily meant for CI.
+To upgrade Bower, update `BOWER_VERSION` and `BOWER_SHA256` (from the release's `SHA256SUMS`).
 
 The generated site is written to `build/`.
