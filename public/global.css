@@ -89,6 +89,21 @@ pre {
   }
 }
 
+/* Code highlighting: Bower emits inline colors from the base16-ocean.dark
+   theme, which are too pale on a light background. Darken them in light mode. */
+@media (prefers-color-scheme: light) {
+  pre [style*="#c0c5ce"] { color: #1f2430 !important; }
+  pre [style*="#65737e"] { color: #5c6370 !important; }
+  pre [style*="#bf616a"] { color: #b31d28 !important; }
+  pre [style*="#d08770"] { color: #b35900 !important; }
+  pre [style*="#ebcb8b"] { color: #8a6100 !important; }
+  pre [style*="#a3be8c"] { color: #22863a !important; }
+  pre [style*="#96b5b4"] { color: #1b7c83 !important; }
+  pre [style*="#8fa1b3"] { color: #005cc5 !important; }
+  pre [style*="#b48ead"] { color: #6f42c1 !important; }
+  pre [style*="#ab7967"] { color: #8b4513 !important; }
+}
+
 ol,
 ul {
   list-style: none;
@@ -187,11 +202,6 @@ ul {
 .prose p {
   margin-top: 1.25em;
   margin-bottom: 1.25em;
-}
-
-.prose a {
-  font-weight: 500;
-  text-decoration: underline;
 }
 
 .prose strong {
