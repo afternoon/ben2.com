@@ -12,7 +12,7 @@ Producing music is hard. I've finished a handful of tracks, and I think they're 
 
 I tried to explain to [Devin](https://seedcamp.com/people/devin-hunt/) what I'm building at [https://trygroove.app/](https://trygroove.app/) today.
 
-I started making music during lockdown. I'd been DJing and messing around in Ableton since I was a student, but I never learned an instrument. Then I saw [Kink playing live in his pyjamas](https://www.youtube.com/live/-NZBiAcaF2o) and I thought "I have no idea what he's doing but it's awesome!" I bought some gear and started jamming.
+I started making music during lockdown. I'd been DJing and messing around in Ableton since I was a student, but I never learned an instrument. Then I saw [Kink playing live in his pyjamas streaming on YouTube](https://www.youtube.com/live/-NZBiAcaF2o) and I thought "I have no idea what he's doing but it's awesome!" I bought some gear and started jamming.
 
 After doing jams for while and trying different things, eventually I thought about making tracks to share. I started learning about production. I watched hours and hours of YouTube videos. I bought the full Ableton suite. This year I took some lessons. Man, producing music is is a hugely challenging thing to master. My hat is off to anyone who has ever released music.
 
