@@ -14,7 +14,7 @@ I tried to explain to [Devin](https://seedcamp.com/people/devin-hunt/) what I'm 
 
 I started making music during lockdown. I'd been DJing and messing around in Ableton since I was a student, but I never learned an instrument. Then I saw [Kink playing live in his pyjamas streaming on YouTube](https://www.youtube.com/live/-NZBiAcaF2o) and I thought "I have no idea what he's doing but it's awesome!" I bought some gear and started jamming.
 
-After doing jams for while and trying different things, eventually I thought about making tracks to share. I started learning about production. I watched hours and hours of YouTube videos. I bought the full Ableton suite. This year I took some lessons. Man, producing music is is a hugely challenging thing to master. My hat is off to anyone who has ever released music.
+After doing jams for while and trying different things, eventually I thought about making tracks to share. I started learning about production. I watched hours and hours of YouTube videos. I bought the full Ableton suite. This year I took some lessons. Man, producing music is hard. It is a hugely challenging thing to master. My hat is off to anyone who has ever released music.
 
 Last year, Andrej Karpathy talked about AI and the autonomy slider. By embedding LLMs into complex tools, we can give people the ability to control how much the AI does, when it drives autonomously, when it tackles tightly-scoped tasks and when you drive. Immediately I thought of music production. I don't want to prompt Suno. It's not my music that comes back. I want to make my tracks myself, but I want an experienced, smart producer sitting next me, able to understand what I'm trying to achieve and giving me the tools and techniques to do it.
 
